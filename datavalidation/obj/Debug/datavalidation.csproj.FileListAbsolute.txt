@@ -1,0 +1,5 @@
+D:\GitHub\html2xml\datavalidation\bin\Debug\datavalidation.exe
+D:\GitHub\html2xml\datavalidation\bin\Debug\datavalidation.pdb
+D:\GitHub\html2xml\datavalidation\obj\Debug\datavalidation.csprojResolveAssemblyReference.cache
+D:\GitHub\html2xml\datavalidation\obj\Debug\datavalidation.exe
+D:\GitHub\html2xml\datavalidation\obj\Debug\datavalidation.pdb
