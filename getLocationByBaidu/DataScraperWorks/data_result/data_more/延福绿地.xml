@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>延福绿地</name>
+			<location>
+				<lat>31.235883</lat>
+				<lng>121.489446</lng>
+			</location>
+							<address>金陵东路</address>
+													<uid>fc767524e376d3fb4f776eab</uid>
+								</result>
+			<result>
+			<name>延福绿地篮球场</name>
+			<location>
+				<lat>31.235536</lat>
+				<lng>121.489207</lng>
+			</location>
+							<address>黄浦区延安东路(近浙江南路)</address>
+													<uid>26ef7478c6d3b73345e27449</uid>
+								</result>
+			<result>
+			<name>胡记锅贴</name>
+			<location>
+				<lat>31.235281</lat>
+				<lng>121.489789</lng>
+			</location>
+							<address>黄浦区宁海东路121号（近延福绿地）</address>
+										<telephone>13818471130</telephone>
+										<uid>d219bb1dc18db892f50e7752</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

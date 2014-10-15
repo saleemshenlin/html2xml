@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>吉云禅寺塔(青龙塔)</name>
+			<location>
+				<lat>31.244582</lat>
+				<lng>121.180916</lng>
+			</location>
+							<address>白鹤乡青龙村</address>
+													<uid>b1c556e89d88490db52655b2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

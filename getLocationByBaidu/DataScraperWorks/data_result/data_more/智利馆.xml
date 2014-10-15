@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>智利馆</name>
+			<location>
+				<lat>40.076412</lat>
+				<lng>117.314282</lng>
+			</location>
+							<address>燕山西大街706号</address>
+										<telephone>(022)59136666</telephone>
+										<uid>2336733ebf77255ef4eafcd3</uid>
+								</result>
+			<result>
+			<name>智利馆停车场</name>
+			<location>
+				<lat>40.076763</lat>
+				<lng>117.314881</lng>
+			</location>
+							<address>天津市蓟县</address>
+													<uid>15dd0647c310bd69d8d891ec</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

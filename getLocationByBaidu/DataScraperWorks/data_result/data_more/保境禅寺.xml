@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>保境禅寺</name>
+			<location>
+				<lat>30.872459</lat>
+				<lng>121.539066</lng>
+			</location>
+							<address>近郊奉贤区奉拓公路3398号(近浦星公路)</address>
+										<telephone>(021)57598412</telephone>
+										<uid>6deee3082feafe6b29fc4802</uid>
+								</result>
+			<result>
+			<name>保境禅寺-东南门</name>
+			<location>
+				<lat>30.872498</lat>
+				<lng>121.53899</lng>
+			</location>
+							<address>奉柘公路3398</address>
+													<uid>954f16d594b6af6f843304e6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

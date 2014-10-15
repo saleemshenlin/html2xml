@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海保龄球国际度假中心</name>
+			<location>
+				<lat>31.09031</lat>
+				<lng>121.405697</lng>
+			</location>
+							<address>上海金都路2938号</address>
+										<telephone>(021)64582000</telephone>
+										<uid>59c1f3ec31cf2fbe441a32ec</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

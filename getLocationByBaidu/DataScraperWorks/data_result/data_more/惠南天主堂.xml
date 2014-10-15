@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>天主堂(北门)</name>
+			<location>
+				<lat>31.054091</lat>
+				<lng>121.757946</lng>
+			</location>
+							<address>人民西路167</address>
+													<uid>bd48db717da333beeddfcaab</uid>
+								</result>
+			<result>
+			<name>天主堂(人民西路)</name>
+			<location>
+				<lat>31.054122</lat>
+				<lng>121.758027</lng>
+			</location>
+							<address>人民西路167号</address>
+										<telephone>(021)58024985</telephone>
+										<uid>a7c56ee0930307b2a2acc4bd</uid>
+								</result>
+			<result>
+			<name>洁心堂</name>
+			<location>
+				<lat>31.045591</lat>
+				<lng>121.774821</lng>
+			</location>
+							<address>靖海南路99</address>
+										<telephone>(021)58007062</telephone>
+										<uid>3a0a78bdec495a87631809dd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

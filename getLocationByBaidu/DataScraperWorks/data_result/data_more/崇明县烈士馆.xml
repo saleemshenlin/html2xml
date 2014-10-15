@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>崇明县烈士馆</name>
+			<location>
+				<lat>31.584267</lat>
+				<lng>121.539541</lng>
+			</location>
+							<address>近郊崇明区新河镇新开河路297号</address>
+										<telephone>(021)59681769</telephone>
+										<uid>38e4803725baf348373a7155</uid>
+								</result>
+			<result>
+			<name>崇明县烈士馆</name>
+			<location>
+				<lat>31.584443</lat>
+				<lng>121.539099</lng>
+			</location>
+							<address>崇明新河镇新开河路297号</address>
+										<telephone>(021)59681769</telephone>
+										<uid>032309d302d8c0b4cf06a472</uid>
+								</result>
+			<result>
+			<name>崇明县烈士馆-南门</name>
+			<location>
+				<lat>31.584282</lat>
+				<lng>121.539675</lng>
+			</location>
+							<address>新开河路243</address>
+													<uid>8a7f7f0ef1d443561029352d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

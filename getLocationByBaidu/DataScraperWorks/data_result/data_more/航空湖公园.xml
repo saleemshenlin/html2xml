@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>6</total>
+    <results>
+			<result>
+			<name>福州市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>深圳市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>重庆市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>武汉市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>西双版纳傣族自治州</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>宜宾市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

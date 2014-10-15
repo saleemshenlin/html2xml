@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>感恩堂</name>
+			<location>
+				<lat>31.221223</lat>
+				<lng>121.632603</lng>
+			</location>
+							<address>浦东新区丹桂路700号(近青桐路)</address>
+										<telephone>(021)68796785</telephone>
+										<uid>56f2f69660a636810aa8d47c</uid>
+								</result>
+			<result>
+			<name>感恩堂</name>
+			<location>
+				<lat>31.221277</lat>
+				<lng>121.632531</lng>
+			</location>
+							<address>浦东新区丹桂路700号（丹桂路青桐路）</address>
+										<telephone>(021)68796785</telephone>
+										<uid>272c0154b93a82b9c5f50d3a</uid>
+								</result>
+			<result>
+			<name>感恩堂-西北门</name>
+			<location>
+				<lat>31.221231</lat>
+				<lng>121.632433</lng>
+			</location>
+							<address>丹桂路700</address>
+													<uid>187b3f18a2468773b44f541f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

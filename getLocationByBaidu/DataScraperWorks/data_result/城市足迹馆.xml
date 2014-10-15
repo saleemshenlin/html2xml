@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>Italian Pavilion</name>
+			<location>
+				<lat>30.995843</lat>
+				<lng>121.510676</lng>
+			</location>
+							<address>浦东新区世博D片区美食楼(近城市足迹馆)</address>
+													<uid>3cba6b2f81e8ce9896f08c07</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

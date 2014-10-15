@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>元祖启蒙乐园</name>
+			<location>
+				<lat>31.153468</lat>
+				<lng>121.234036</lng>
+			</location>
+							<address>青浦区赵巷镇嘉松中路6088号元祖启蒙乐园</address>
+										<telephone>(021)59756868</telephone>
+										<uid>4e026f2f7c4adfc2b01e36f1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

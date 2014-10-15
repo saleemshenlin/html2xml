@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>金富都温泉</name>
+			<location>
+				<lat>31.385429</lat>
+				<lng>121.503896</lng>
+			</location>
+							<address>牡丹江路215号</address>
+										<telephone>(021)56585958,(021)56163361</telephone>
+										<uid>5c56edd67a253643a1d23034</uid>
+								</result>
+			<result>
+			<name>金富都娱乐广场</name>
+			<location>
+				<lat>31.385345</lat>
+				<lng>121.503925</lng>
+			</location>
+							<address>宝山区牡丹江路215号（近淞宝路）</address>
+										<telephone>(021)56163361</telephone>
+										<uid>785f86eb479612ef45e27434</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

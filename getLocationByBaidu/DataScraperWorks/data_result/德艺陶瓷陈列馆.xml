@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>德艺陶瓷陈列馆</name>
+			<location>
+				<lat>31.267904</lat>
+				<lng>121.488248</lng>
+			</location>
+							<address>虹口区多伦路97号（近四川北路）</address>
+													<uid>264f85e0b7c48b130b1cc717</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

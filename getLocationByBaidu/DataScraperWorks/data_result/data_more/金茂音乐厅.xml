@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>金茂音乐厅</name>
+			<location>
+				<lat>31.241109</lat>
+				<lng>121.512479</lng>
+			</location>
+							<address>浦东新区世纪大道88号金茂大厦裙楼1楼6号门（近陆家嘴东路）</address>
+										<telephone>(021)50472612,(021)50476688-5209</telephone>
+										<uid>0cfd081d6e76492dd52ce243</uid>
+								</result>
+			<result>
+			<name>上海白玉兰票务有限公司</name>
+			<location>
+				<lat>31.240321</lat>
+				<lng>121.511811</lng>
+			</location>
+							<address>水城南路37号万科广场商务楼802或浦东新区世纪大道88号金茂大厦裙房1楼6号门，演出地点：浦东新区世纪大道88号金茂大厦裙房1楼6号门（金茂音乐厅）</address>
+										<telephone>(021)52287130,(021)52287131,(021)52287132,(021)52287135,(021)62189930,(021)62723463</telephone>
+										<uid>cf9e507b5a0f878d3ce23131</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

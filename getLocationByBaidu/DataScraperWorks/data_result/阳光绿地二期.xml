@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>阳光绿地二期</name>
+			<location>
+				<lat>31.279663</lat>
+				<lng>121.611754</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>53349ee3967d1c6d220262d9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

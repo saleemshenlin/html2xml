@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>六小龄童艺术馆</name>
+			<location>
+				<lat>30.821248</lat>
+				<lng>121.526796</lng>
+			</location>
+							<address>上海市奉贤区海湾旅游区海湾路4929号</address>
+										<telephone>(021)37571114</telephone>
+										<uid>6da466e1b9694cae3fe231d8</uid>
+								</result>
+			<result>
+			<name>王建国油画艺术馆</name>
+			<location>
+				<lat>30.822116</lat>
+				<lng>121.526389</lng>
+			</location>
+							<address>奉贤区奉贤区海湾路(近六小龄童艺术馆)</address>
+										<telephone>18964650513</telephone>
+										<uid>b1b1bfa05f37cb7526e0a0fd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

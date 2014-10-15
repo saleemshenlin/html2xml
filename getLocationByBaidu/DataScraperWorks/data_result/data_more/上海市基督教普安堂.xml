@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海市基督教普安堂</name>
+			<location>
+				<lat>31.256012</lat>
+				<lng>121.43587</lng>
+			</location>
+							<address>普陀区镇坪路152号(近中山北路)</address>
+										<telephone>(021)62146562</telephone>
+										<uid>eb36750357d6e31a00ec01fd</uid>
+								</result>
+			<result>
+			<name>上海市基督教普安堂</name>
+			<location>
+				<lat>31.256005</lat>
+				<lng>121.435869</lng>
+			</location>
+							<address>普陀区镇坪路152号（近中山北路）</address>
+										<telephone>(021)62146562</telephone>
+										<uid>11c4d040e83bf63790114cb4</uid>
+								</result>
+			<result>
+			<name>上海市基督教普安堂(西门)</name>
+			<location>
+				<lat>31.255966</lat>
+				<lng>121.435824</lng>
+			</location>
+							<address>上海市普陀区镇坪路152号</address>
+													<uid>4cbc5c9314b90ef6283a9f05</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

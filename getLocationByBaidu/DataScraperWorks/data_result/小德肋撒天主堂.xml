@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>小德肋撒天主堂</name>
+			<location>
+				<lat>31.242799</lat>
+				<lng>121.469158</lng>
+			</location>
+							<address>静安区大田路370号（近山海关路）</address>
+										<telephone>(021)62157435</telephone>
+										<uid>e6276f3cd1e74eaf71210b7e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

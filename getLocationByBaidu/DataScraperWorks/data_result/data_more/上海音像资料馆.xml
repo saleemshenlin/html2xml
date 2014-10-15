@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海音像资料馆</name>
+			<location>
+				<lat>31.203349</lat>
+				<lng>121.413901</lng>
+			</location>
+							<address>长宁区虹桥路1376号广播大厦（伊犁南路口）</address>
+										<telephone>(021)62788177</telephone>
+										<uid>1f7835d17cd97da386420e7c</uid>
+								</result>
+			<result>
+			<name>上海音像资料馆</name>
+			<location>
+				<lat>31.213958</lat>
+				<lng>121.458284</lng>
+			</location>
+							<address>徐汇区岳阳路44号(近永嘉路)</address>
+													<uid>49ecbe9022f8102a4d776e29</uid>
+								</result>
+			<result>
+			<name>上海音像资料馆上海视觉艺术学院分馆</name>
+			<location>
+				<lat>31.05406</lat>
+				<lng>121.213123</lng>
+			</location>
+							<address>文翔路2200上海视觉艺术学院</address>
+													<uid>efb2ecb95b9b58e849fd3f5a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

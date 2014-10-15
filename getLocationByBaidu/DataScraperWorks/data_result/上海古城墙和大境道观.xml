@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海古城墙和大境道观</name>
+			<location>
+				<lat>31.230255</lat>
+				<lng>121.489919</lng>
+			</location>
+							<address>大境路269号</address>
+													<uid>1a0fd02d4a05e766f5b91659</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

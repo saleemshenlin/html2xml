@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>丝绸之路艺术馆</name>
+			<location>
+				<lat>31.114065</lat>
+				<lng>121.061246</lng>
+			</location>
+							<address>上海市青浦区朱家角镇大新街52号</address>
+										<telephone>(021)59240077</telephone>
+										<uid>c6f72a82db0332615cd4febf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

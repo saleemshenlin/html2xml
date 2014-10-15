@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>尼日利亚驻上海总领事馆</name>
+			<location>
+				<lat>31.237373</lat>
+				<lng>121.461403</lng>
+			</location>
+							<address>江宁路188号亚盛大厦1102～1104号</address>
+										<telephone>021-32520606</telephone>
+										<uid>7b9ca44edd3b1db7e856fa8e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>黄浦江“清游江”游览船</name>
+			<location>
+				<lat>31.233127</lat>
+				<lng>121.505482</lng>
+			</location>
+							<address>上海市黄浦复兴东路501号十六铺旅游码头1区(近和河南南路)</address>
+										<telephone>(021)63263693,13022112753,18721111197</telephone>
+										<uid>acb8f9461655229e5d0d02ed</uid>
+								</result>
+			<result>
+			<name>黄浦江“清游江”游览船</name>
+			<location>
+				<lat>31.234416</lat>
+				<lng>121.503567</lng>
+			</location>
+							<address>黄浦区中山东二路501号（松鹤楼旁）候船厅4号售票窗口</address>
+										<telephone>(021)53081037,13122119963</telephone>
+										<uid>92cb673322b77a6c734b87e1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>华东政法大学(松江校区)-联合国文件收藏图书馆</name>
+			<location>
+				<lat>31.059713</lat>
+				<lng>121.203839</lng>
+			</location>
+							<address>龙源路555号华东政法大学松江校区</address>
+										<telephone>(021)67790165</telephone>
+										<uid>e889a7445eadbfb68605bf67</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

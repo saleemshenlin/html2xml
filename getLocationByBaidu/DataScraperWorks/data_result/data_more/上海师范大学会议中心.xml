@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海师范大学会议中心</name>
+			<location>
+				<lat>31.166732</lat>
+				<lng>121.425699</lng>
+			</location>
+							<address>桂林路100号上海师范大学徐汇校区西部内</address>
+										<telephone>(021)64328879</telephone>
+										<uid>631c4157fe8e4e1c31f71d0d</uid>
+								</result>
+			<result>
+			<name>上海师范大学东部礼堂</name>
+			<location>
+				<lat>31.167775</lat>
+				<lng>121.427483</lng>
+			</location>
+							<address>徐汇区桂林路100号上海师范大学内(近钦州南路)</address>
+										<telephone>(021)64322386</telephone>
+										<uid>3f826ed39e6d115fd0f49ea1</uid>
+								</result>
+			<result>
+			<name>上海师范大学旅游学院(上海市公路管理处会务中心东北)</name>
+			<location>
+				<lat>30.879557</lat>
+				<lng>121.682861</lng>
+			</location>
+							<address>五四公路2011</address>
+													<uid>73c3ac87babb254ed518b7e2</uid>
+								</result>
+			<result>
+			<name>上海师范大学教育发展基金会</name>
+			<location>
+				<lat>31.167683</lat>
+				<lng>121.425818</lng>
+			</location>
+							<address>上海徐汇区桂林路100号上海师范大学会议中心206室</address>
+													<uid>3609331a6035d17c2fe67b92</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

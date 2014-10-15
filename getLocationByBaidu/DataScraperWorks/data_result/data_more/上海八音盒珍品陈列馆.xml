@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>八音盒珍品陈列馆</name>
+			<location>
+				<lat>31.228549</lat>
+				<lng>121.548335</lng>
+			</location>
+							<address>浦东新区丁香路425号东方艺术中心4楼(近世纪大道)</address>
+										<telephone>(021)68547647</telephone>
+										<uid>40be783f6296b6b6cc06a4b9</uid>
+								</result>
+			<result>
+			<name>八音盒珍品陈列馆</name>
+			<location>
+				<lat>31.229406</lat>
+				<lng>121.547898</lng>
+			</location>
+							<address>浦东新区丁香路425号东方艺术中心4楼（近世纪大道）</address>
+										<telephone>(021)68547647</telephone>
+										<uid>748b1c4824e78fd7e81e9789</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

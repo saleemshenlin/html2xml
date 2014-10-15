@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>陈逸飞工作室旧址</name>
+			<location>
+				<lat>31.214166</lat>
+				<lng>121.475594</lng>
+			</location>
+							<address>卢湾区泰康路210弄2号（近瑞金二路）</address>
+										<telephone>(021)64150567</telephone>
+										<uid>7ef003ab0503adc8e812e4a0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

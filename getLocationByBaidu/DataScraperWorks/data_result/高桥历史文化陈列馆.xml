@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>高桥历史文化陈列馆</name>
+			<location>
+				<lat>31.351606</lat>
+				<lng>121.590319</lng>
+			</location>
+							<address>义王路1</address>
+										<telephone>(021)50416885</telephone>
+										<uid>0ce65c2d208432242d473306</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

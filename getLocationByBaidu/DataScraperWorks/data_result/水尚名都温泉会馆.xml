@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>水尚名都温泉会馆</name>
+			<location>
+				<lat>31.038985</lat>
+				<lng>121.24112</lng>
+			</location>
+							<address>谷阳北路1425弄商业广场367号3楼（近绿城路）</address>
+										<telephone>(021)67733388</telephone>
+										<uid>cd9d05dd83c376af85420e1f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

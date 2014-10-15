@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>东海广场静安信息产业街</name>
+			<location>
+				<lat>31.231444</lat>
+				<lng>121.455881</lng>
+			</location>
+							<address>南京西路1486</address>
+													<uid>19c7e22a20cef2ed0b1cc7c1</uid>
+								</result>
+			<result>
+			<name>上海静安信息产业发展有限公司</name>
+			<location>
+				<lat>31.232371</lat>
+				<lng>121.455215</lng>
+			</location>
+							<address>愚园路28号东海广场</address>
+													<uid>45be3c348c828b973f9a5e41</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

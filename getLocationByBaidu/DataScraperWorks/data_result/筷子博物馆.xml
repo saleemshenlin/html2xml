@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>筷子博物馆</name>
+			<location>
+				<lat>31.269308</lat>
+				<lng>121.488221</lng>
+			</location>
+							<address>虹口区多伦路191号</address>
+													<uid>bb503e06f5300fb2c3364458</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

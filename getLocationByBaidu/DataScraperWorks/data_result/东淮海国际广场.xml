@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>淮海青少年</name>
+			<location>
+				<lat>31.189518</lat>
+				<lng>121.704932</lng>
+			</location>
+							<address>川沙路5558号绿地东海岸国际广场5号楼1层</address>
+													<uid>7e07db5c6f1566c2b23c811a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

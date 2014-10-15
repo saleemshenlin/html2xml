@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>凝晖阁</name>
+			<location>
+				<lat>31.231305</lat>
+				<lng>121.498054</lng>
+			</location>
+							<address>上海市黄浦区旧校场路159号</address>
+													<uid>631c41577739c76030f71dab</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

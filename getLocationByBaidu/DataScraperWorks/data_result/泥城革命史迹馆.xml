@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>泥城革命史迹馆</name>
+			<location>
+				<lat>30.900607</lat>
+				<lng>121.840927</lng>
+			</location>
+							<address>南芦公路1887号</address>
+													<uid>d6df91c16e8a366bf6b9168b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>钰琪琳艺术博物馆</name>
+			<location>
+				<lat>31.251335</lat>
+				<lng>121.501315</lng>
+			</location>
+							<address>浦东新区黄浦路200号--1</address>
+													<uid>55fa2c0b7af4f2531de999ae</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

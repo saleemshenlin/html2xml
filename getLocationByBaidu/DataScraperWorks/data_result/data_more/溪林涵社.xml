@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>溪林涵社</name>
+			<location>
+				<lat>31.210553</lat>
+				<lng>121.464504</lng>
+			</location>
+							<address>徐汇区襄阳南路514号（近建国西路）</address>
+										<telephone>(021)54208032</telephone>
+										<uid>b57a1144a1a91e0a3310afbd</uid>
+								</result>
+			<result>
+			<name>溪林涵社</name>
+			<location>
+				<lat>31.210584</lat>
+				<lng>121.464469</lng>
+			</location>
+							<address>襄阳南路514号(近建国西路)</address>
+										<telephone>(021)54208032,13512128331</telephone>
+										<uid>fd7365376b8462f708f5eb70</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

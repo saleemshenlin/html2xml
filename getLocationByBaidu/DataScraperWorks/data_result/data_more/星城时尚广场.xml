@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>流行美发型设计(八一广场店)</name>
+			<location>
+				<lat>31.257872</lat>
+				<lng>121.490592</lng>
+			</location>
+							<address>闸北区四川北路1363号壹丰广场</address>
+										<telephone>4000209111</telephone>
+										<uid>dd48454a37e763807adbd2a2</uid>
+								</result>
+			<result>
+			<name>星期八时尚餐厅</name>
+			<location>
+				<lat>30.89303</lat>
+				<lng>121.906951</lng>
+			</location>
+							<address>上海浦东新区临港新城沪城环路999号上海海事商业广场北广场205号商铺</address>
+													<uid>53cebd501f8129782a02e153</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

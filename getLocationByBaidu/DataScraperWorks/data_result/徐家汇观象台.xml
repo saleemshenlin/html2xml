@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>徐家汇观象台</name>
+			<location>
+				<lat>31.196754</lat>
+				<lng>121.442849</lng>
+			</location>
+							<address>徐汇区蒲西路166号(近紫阳路)</address>
+										<telephone>(021)54259260</telephone>
+										<uid>dffd464255e23cab3c9a5e13</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

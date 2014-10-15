@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>美国世纺美洲有限公司上海代表处</name>
+			<location>
+				<lat>31.184104</lat>
+				<lng>121.393405</lng>
+			</location>
+							<address>虹中路10号虹桥盛世莲花广场商务办公楼B幢511</address>
+													<uid>f8a12a6faae82b2f774ff1ad</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

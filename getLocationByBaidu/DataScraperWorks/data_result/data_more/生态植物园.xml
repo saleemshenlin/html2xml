@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>生态植物园</name>
+			<location>
+				<lat>30.817433</lat>
+				<lng>121.463652</lng>
+			</location>
+							<address>上海市奉贤区</address>
+													<uid>5b25f4467b805deb10293508</uid>
+								</result>
+			<result>
+			<name>华凯华美达广场酒店-洗手间</name>
+			<location>
+				<lat>30.820364</lat>
+				<lng>121.471054</lng>
+			</location>
+							<address>上海奉贤区上海奉贤区环华路9号（近生态植物园）</address>
+													<uid>59d3638ba002ad90eb1e9758</uid>
+								</result>
+			<result>
+			<name>华凯华美达广场酒店</name>
+			<location>
+				<lat>30.820364</lat>
+				<lng>121.471054</lng>
+			</location>
+							<address>奉贤区环华路9号(紧邻生态植物园)</address>
+										<telephone>(021)67120550</telephone>
+										<uid>d991e11625caf44c1f38941e</uid>
+								</result>
+			<result>
+			<name>奉浦四季生态园</name>
+			<location>
+				<lat>30.940927</lat>
+				<lng>121.476833</lng>
+			</location>
+							<address>团南公路(近韩谊路)</address>
+													<uid>6fddd7fd3b58a7023517dc11</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

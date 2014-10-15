@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海老城厢史迹展</name>
+			<location>
+				<lat>31.230255</lat>
+				<lng>121.489919</lng>
+			</location>
+							<address>大境路259、269</address>
+										<telephone>(021)63266171</telephone>
+										<uid>341c35dee1b5adbde6073806</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>中华航天博物馆</name>
+			<location>
+				<lat>31.217432</lat>
+				<lng>121.40867</lng>
+			</location>
+							<address>长宁区天山路780号118室（娄山关路天山路）</address>
+													<uid>7d49e4254cf024abd8d891bc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

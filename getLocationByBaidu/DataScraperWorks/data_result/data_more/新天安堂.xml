@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>新天安堂旧址</name>
+			<location>
+				<lat>31.24895</lat>
+				<lng>121.494972</lng>
+			</location>
+							<address>黄浦区南苏州路107号(圆明园路口)</address>
+													<uid>8f9ca018865dc0659d82eac2</uid>
+								</result>
+			<result>
+			<name>原新天安堂</name>
+			<location>
+				<lat>31.24895</lat>
+				<lng>121.494972</lng>
+			</location>
+							<address>黄浦区南苏州路107号(圆明园路口)</address>
+													<uid>a73662f528261934b8bd63bc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

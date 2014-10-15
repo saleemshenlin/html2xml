@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>致和桥</name>
+			<location>
+				<lat>30.891264</lat>
+				<lng>121.020266</lng>
+			</location>
+							<address>上海市金山区亭枫公路8588弄28号枫泾古镇内</address>
+													<uid>4c4b6f6a882906e6a0acc456</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

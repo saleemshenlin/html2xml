@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>诗乡顾村文化广场</name>
+			<location>
+				<lat>31.362607</lat>
+				<lng>121.417305</lng>
+			</location>
+							<address>富联路368号</address>
+													<uid>d2be6334a5beb10dc7f50de1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

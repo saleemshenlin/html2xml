@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天主教上海教区邱家湾天主堂</name>
+			<location>
+				<lat>31.015149</lat>
+				<lng>121.254756</lng>
+			</location>
+							<address>方塔北路10号</address>
+													<uid>e2c734e455f4155c15a190e4</uid>
+								</result>
+			<result>
+			<name>天主教上海教区邱家湾天主堂(东门)</name>
+			<location>
+				<lat>31.015227</lat>
+				<lng>121.254693</lng>
+			</location>
+							<address>方塔北路10号</address>
+													<uid>e7ac7c5ab9ed032c4002454b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

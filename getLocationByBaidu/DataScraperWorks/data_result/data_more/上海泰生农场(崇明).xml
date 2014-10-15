@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海泰生农场生态园</name>
+			<location>
+				<lat>31.597693</lat>
+				<lng>121.81059</lng>
+			</location>
+							<address>崇明县汲浜公路向北到底左转(近北七滧现代农业开发区)</address>
+										<telephone>(021)54893304</telephone>
+										<uid>a16ba6a9fba2628b4c6d4643</uid>
+								</result>
+			<result>
+			<name>泰生农场(崇明店)</name>
+			<location>
+				<lat>31.592033</lat>
+				<lng>121.809068</lng>
+			</location>
+							<address>上海近郊崇明县汲浜公路(近北七滧现代农业开发区)</address>
+										<telephone>(021)57575777,(021)39666039</telephone>
+										<uid>bfc893dd78b789d12afc485e</uid>
+								</result>
+			<result>
+			<name>泰生农场</name>
+			<location>
+				<lat>31.617898</lat>
+				<lng>121.82331</lng>
+			</location>
+							<address>北七滧现代农业开发区上海泰生示范农场</address>
+										<telephone>(021)54893304</telephone>
+										<uid>b7f6ca504a85a4fc8bfc066d</uid>
+								</result>
+			<result>
+			<name>中新农业泰生示范农场</name>
+			<location>
+				<lat>31.603137</lat>
+				<lng>121.810025</lng>
+			</location>
+							<address>上海市崇明县</address>
+													<uid>50fb64ffbadcae20e8f853a2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

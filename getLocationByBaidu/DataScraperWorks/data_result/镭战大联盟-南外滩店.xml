@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>镭战大联盟（真人CS）南外滩店</name>
+			<location>
+				<lat>31.210445</lat>
+				<lng>121.508368</lng>
+			</location>
+							<address>黄浦区外马路1353号7-8号楼(近南浦大桥)</address>
+										<telephone>4000502228</telephone>
+										<uid>db44d5474ae3d311102935f8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

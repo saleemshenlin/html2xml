@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>京剧艺术展示厅</name>
+			<location>
+				<lat>31.19141</lat>
+				<lng>121.430907</lng>
+			</location>
+							<address>徐汇区中山西路1551号（徐虹中路中山西路）</address>
+										<telephone>(021)54244132</telephone>
+										<uid>78040b173d1d520ef8f0cb55</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

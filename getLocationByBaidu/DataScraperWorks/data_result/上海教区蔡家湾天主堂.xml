@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海教区蔡家湾天主堂</name>
+			<location>
+				<lat>31.163612</lat>
+				<lng>121.31105</lng>
+			</location>
+							<address>徐南路高泾小区185号</address>
+													<uid>d24e48eb11d944caafee7a1e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

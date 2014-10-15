@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>小昆山园</name>
+			<location>
+				<lat>31.043719</lat>
+				<lng>121.141324</lng>
+			</location>
+							<address>山西路4号</address>
+										<telephone>(021)57763325</telephone>
+										<uid>9fbfeef236d83144ede4a5f0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

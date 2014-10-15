@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>万佛寺</name>
+			<location>
+				<lat>31.250046</lat>
+				<lng>121.350613</lng>
+			</location>
+							<address>上海市嘉定区江桥镇金沙江西路200号</address>
+										<telephone>021-59113399</telephone>
+										<uid>3f621aa5edb2cdf4c7f50d88</uid>
+								</result>
+			<result>
+			<name>万佛寺</name>
+			<location>
+				<lat>31.250046</lat>
+				<lng>121.350613</lng>
+			</location>
+							<address>嘉定区金沙江西路200号</address>
+													<uid>cb3c7474259ed2e2455726ed</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

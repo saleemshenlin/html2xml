@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>沙特阿拉伯馆</name>
+			<location>
+				<lat>31.194144</lat>
+				<lng>121.502662</lng>
+			</location>
+							<address>浦东新区博成路1221号（近高科西路口）</address>
+										<telephone>13816623478</telephone>
+										<uid>0095eb355ed357333ae4a68a</uid>
+								</result>
+			<result>
+			<name>和丰楼(世博店)</name>
+			<location>
+				<lat>31.194422</lat>
+				<lng>121.502899</lng>
+			</location>
+							<address>浦东新区高科西路38号沙特阿拉伯馆旁（近博成路）</address>
+													<uid>4cf8d24ea5374afd9cf779df</uid>
+								</result>
+			<result>
+			<name>伊诺咖啡 沙特馆店</name>
+			<location>
+				<lat>31.193109</lat>
+				<lng>121.502396</lng>
+			</location>
+							<address>上海浦东新区博成路1221号沙特馆旁(近中国馆)</address>
+										<telephone>(021)66115588</telephone>
+										<uid>593850fba0277144df1e5223</uid>
+								</result>
+			<result>
+			<name>惬意票务</name>
+			<location>
+				<lat>31.240754</lat>
+				<lng>121.512069</lng>
+			</location>
+							<address>浦东新区沙特馆售票处右侧咨询台</address>
+										<telephone>15000245069</telephone>
+										<uid>43ea434d06673aef213bf2d4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

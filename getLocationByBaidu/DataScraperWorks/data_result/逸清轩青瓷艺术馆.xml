@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>逸清轩青瓷艺术馆</name>
+			<location>
+				<lat>31.220111</lat>
+				<lng>121.483527</lng>
+			</location>
+							<address>黄陂南路700号D栋底楼</address>
+										<telephone>(021)63867726</telephone>
+										<uid>92b806d209c700e778b55cbd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

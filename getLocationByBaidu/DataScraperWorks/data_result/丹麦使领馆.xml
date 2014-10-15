@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>丹麦驻上海总领事馆</name>
+			<location>
+				<lat>31.208213</lat>
+				<lng>121.410283</lng>
+			</location>
+							<address>延安西路2201号上海国际贸易中心7层701</address>
+										<telephone>(021)62090500</telephone>
+										<uid>c84030d72457b2896d20b9ca</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

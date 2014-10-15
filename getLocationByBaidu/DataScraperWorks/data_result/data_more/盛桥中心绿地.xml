@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>盛桥中心绿地</name>
+			<location>
+				<lat>31.453948</lat>
+				<lng>121.408198</lng>
+			</location>
+							<address>古莲路400临</address>
+													<uid>31f9101b267ed3b826e0a07f</uid>
+								</result>
+			<result>
+			<name>盛桥中心绿地(西南门)</name>
+			<location>
+				<lat>31.454048</lat>
+				<lng>121.40695</lng>
+			</location>
+							<address>古莲路400</address>
+													<uid>6fb9b954f117f00db05c6a1c</uid>
+								</result>
+			<result>
+			<name>盛桥中心绿地公共运动场</name>
+			<location>
+				<lat>31.454795</lat>
+				<lng>121.408308</lng>
+			</location>
+							<address>上海市宝山区</address>
+													<uid>4e1e4705e85b891abca24017</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

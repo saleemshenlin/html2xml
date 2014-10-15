@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>全华水彩艺术馆</name>
+			<location>
+				<lat>31.119939</lat>
+				<lng>121.059944</lng>
+			</location>
+							<address>上海市青浦区朱家角镇西井街127-129号(课植园旁)上海朱家角古镇旅游区内</address>
+										<telephone>(021)59247532</telephone>
+										<uid>21961a9d6644f97f2fe67ba0</uid>
+								</result>
+			<result>
+			<name>全华水彩艺术馆</name>
+			<location>
+				<lat>31.119908</lat>
+				<lng>121.059885</lng>
+			</location>
+							<address>青浦区镇西井街121号</address>
+										<telephone>(021)59242806</telephone>
+										<uid>8a31a81304399a0d31f71d21</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

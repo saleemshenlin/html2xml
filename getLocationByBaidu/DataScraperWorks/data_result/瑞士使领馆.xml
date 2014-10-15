@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>瑞士驻上海总领事馆</name>
+			<location>
+				<lat>31.212198</lat>
+				<lng>121.40729</lng>
+			</location>
+							<address>长宁区仙霞路古北路远东国际广场22楼(娄山关路)</address>
+										<telephone>(021)62700519</telephone>
+										<uid>4aa4cc17cf2f390997ec84b8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

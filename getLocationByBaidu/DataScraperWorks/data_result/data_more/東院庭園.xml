@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>戴河庭院东院</name>
+			<location>
+				<lat>39.807057</lat>
+				<lng>119.44648</lng>
+			</location>
+							<address>河北省秦皇岛市北戴河区</address>
+													<uid>7388dffdb513c696d2ff238c</uid>
+								</result>
+			<result>
+			<name>戴河庭院-东院南二门</name>
+			<location>
+				<lat>39.805664</lat>
+				<lng>119.449633</lng>
+			</location>
+							<address>河北省秦皇岛市北戴河区</address>
+													<uid>f3bd69a5349bf4c007fef5f5</uid>
+								</result>
+			<result>
+			<name>戴河庭院-东院南一门</name>
+			<location>
+				<lat>39.804944</lat>
+				<lng>119.448205</lng>
+			</location>
+							<address>河北省秦皇岛市北戴河区</address>
+													<uid>e29d1714aa722fcfb817e7b1</uid>
+								</result>
+			<result>
+			<name>戴河庭院东院-西一门</name>
+			<location>
+				<lat>39.806752</lat>
+				<lng>119.445653</lng>
+			</location>
+							<address>河北省秦皇岛市北戴河区</address>
+													<uid>c1f316837769026996f08c12</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>衡山路休闲街</name>
+			<location>
+				<lat>31.214576</lat>
+				<lng>121.455477</lng>
+			</location>
+							<address>上海徐汇区衡山路4号口(近乌鲁木齐路)</address>
+										<telephone>13916296054</telephone>
+										<uid>c1b654a581247bb580a00c89</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

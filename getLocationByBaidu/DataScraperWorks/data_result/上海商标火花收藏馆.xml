@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海商标火花收藏馆</name>
+			<location>
+				<lat>31.225407</lat>
+				<lng>121.40504</lng>
+			</location>
+							<address>普陀区大渡河路251号长风一号绿地内(光复西路口)</address>
+										<telephone>(021)52081663</telephone>
+										<uid>30e5a70430984f94a4c7561c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

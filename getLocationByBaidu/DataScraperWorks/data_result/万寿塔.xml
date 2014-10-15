@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>万寿塔</name>
+			<location>
+				<lat>31.146947</lat>
+				<lng>121.121212</lng>
+			</location>
+							<address>中国上海青浦县青浦镇南</address>
+													<uid>341c35dec905b5bfe70738b4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

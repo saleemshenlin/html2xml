@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>宝缘斋艺术品展览中心</name>
+			<location>
+				<lat>31.231506</lat>
+				<lng>121.535902</lng>
+			</location>
+							<address>浦东新区东方路873弄53号(近潍坊路)</address>
+										<telephone>(021)50580999</telephone>
+										<uid>cd9d05dd346f3bb784420eb0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

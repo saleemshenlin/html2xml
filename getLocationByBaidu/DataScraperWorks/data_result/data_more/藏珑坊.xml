@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>藏珑坊(东平路)</name>
+			<location>
+				<lat>31.214815</lat>
+				<lng>121.456217</lng>
+			</location>
+							<address>上海徐汇区东平路9号2-3楼近衡山路</address>
+										<telephone>(021)64731021</telephone>
+										<uid>dc0f0adcf023f738f822133b</uid>
+								</result>
+			<result>
+			<name>藏珑坊</name>
+			<location>
+				<lat>31.230726</lat>
+				<lng>121.484157</lng>
+			</location>
+							<address>卢湾区淮海中路138号上海广场115铺(近普安路)</address>
+													<uid>95e52d8f42c69554306212a8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

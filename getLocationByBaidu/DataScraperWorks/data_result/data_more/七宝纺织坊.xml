@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>红手工编织坊</name>
+			<location>
+				<lat>31.188321</lat>
+				<lng>121.381546</lng>
+			</location>
+							<address>闵行区红松路80号（近金汇路）</address>
+										<telephone>(021)64021425</telephone>
+										<uid>504d6113f3377caa475726b8</uid>
+								</result>
+			<result>
+			<name>巧织坊</name>
+			<location>
+				<lat>31.010035</lat>
+				<lng>121.418206</lng>
+			</location>
+							<address>上海市闵行区</address>
+													<uid>02833743b9d9c11ef33cba77</uid>
+								</result>
+			<result>
+			<name>恐龙纺织（程家桥工厂店）</name>
+			<location>
+				<lat>31.190931</lat>
+				<lng>121.381483</lng>
+			</location>
+							<address>闵行区程家桥路（程家桥路延安西路）</address>
+										<telephone>(021)64064846-800</telephone>
+										<uid>ea9f3b8246c9e05a8c1a89d6</uid>
+								</result>
+			<result>
+			<name>恐龙纺织(程家桥工厂店)</name>
+			<location>
+				<lat>31.190939</lat>
+				<lng>121.381476</lng>
+			</location>
+							<address>闵行区程家桥路238号(近金汇路)</address>
+										<telephone>(021)64064846-800</telephone>
+										<uid>3da907f3784bf54ab320a8fe</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

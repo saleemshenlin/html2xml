@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海张江当代艺术馆</name>
+			<location>
+				<lat>31.209348</lat>
+				<lng>121.591068</lng>
+			</location>
+							<address>浦东新区祖冲之路419号(近张江高科地铁站)</address>
+										<telephone>(021)51345058</telephone>
+										<uid>33fbfa83f8d262c00af5ebb0</uid>
+								</result>
+			<result>
+			<name>张江当代艺术馆</name>
+			<location>
+				<lat>31.208136</lat>
+				<lng>121.591458</lng>
+			</location>
+							<address>浦东新区祖冲之路419号（近张江高科地铁站）</address>
+										<telephone>(021)51345059</telephone>
+										<uid>8d4fb40ad8306a95b05c6a27</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

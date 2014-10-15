@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>大境关帝庙</name>
+			<location>
+				<lat>31.230171</lat>
+				<lng>121.489827</lng>
+			</location>
+							<address>大境路269号(近人民路)</address>
+													<uid>b9327345819072d0fea77816</uid>
+								</result>
+			<result>
+			<name>关帝庙</name>
+			<location>
+				<lat>31.230248</lat>
+				<lng>121.489922</lng>
+			</location>
+							<address>黄浦区大境路269号（近人民路）</address>
+										<telephone>(021)63852443</telephone>
+										<uid>7aa210eedcd46012b6f42f51</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

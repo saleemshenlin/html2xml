@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>吴淞古炮台</name>
+			<location>
+				<lat>31.414664</lat>
+				<lng>121.500366</lng>
+			</location>
+							<address>友谊路1</address>
+													<uid>b891ab7cb848da859ff77943</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

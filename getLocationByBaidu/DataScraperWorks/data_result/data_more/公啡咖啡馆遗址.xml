@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>公啡咖啡馆遗址</name>
+			<location>
+				<lat>31.267904</lat>
+				<lng>121.490152</lng>
+			</location>
+							<address>多伦路8</address>
+													<uid>d440daf623ccde6df7b916ac</uid>
+								</result>
+			<result>
+			<name>公啡咖啡馆遗迹</name>
+			<location>
+				<lat>31.26792</lat>
+				<lng>121.490109</lng>
+			</location>
+							<address>多伦路8</address>
+													<uid>34e48508db4ee9e3d8d89131</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

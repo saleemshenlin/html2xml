@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>赵屯绿化广场</name>
+			<location>
+				<lat>31.263907</lat>
+				<lng>121.08976</lng>
+			</location>
+							<address>上海市青浦区</address>
+													<uid>2cc3c8e8611462d74c2fdfb9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

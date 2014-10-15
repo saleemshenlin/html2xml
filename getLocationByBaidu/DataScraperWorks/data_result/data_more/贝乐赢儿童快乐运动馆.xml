@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>贝乐赢儿童快乐运动馆</name>
+			<location>
+				<lat>31.223647</lat>
+				<lng>121.42937</lng>
+			</location>
+							<address>上海市长宁区宣化路300号华宁·弘基生活中心2层</address>
+										<telephone>4000111510</telephone>
+										<uid>e674e8fcf6936bd7f4c59cf4</uid>
+								</result>
+			<result>
+			<name>贝乐赢儿童快乐运动馆</name>
+			<location>
+				<lat>31.219409</lat>
+				<lng>121.418437</lng>
+			</location>
+							<address>长宁区中山西路492号</address>
+													<uid>614758467617fe557bf79618</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>睿趣真人密室逃脱</name>
+			<location>
+				<lat>31.263305</lat>
+				<lng>121.490513</lng>
+			</location>
+							<address>上海市虹口区东宝兴路157号精武大厦9楼D座904室（近四川北路）</address>
+										<telephone>(021)63936228</telephone>
+										<uid>790b104a190b362f6c476005</uid>
+								</result>
+			<result>
+			<name>REACH睿趣真人密室逃脱</name>
+			<location>
+				<lat>31.263428</lat>
+				<lng>121.490412</lng>
+			</location>
+							<address>东宝兴路157号精武大厦9楼D座904室（近四川北路）</address>
+										<telephone>(021)63936228</telephone>
+										<uid>0d1ae9426680b43076e5b662</uid>
+								</result>
+			<result>
+			<name>睿趣Reach真人密室逃脱(虹口龙之梦店)</name>
+			<location>
+				<lat>31.275983</lat>
+				<lng>121.478926</lng>
+			</location>
+							<address>上海市虹口区花园路128号运动loftT街区2楼206室</address>
+										<telephone>(021)63936228</telephone>
+										<uid>4503a2e2512a9732e6e965bb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

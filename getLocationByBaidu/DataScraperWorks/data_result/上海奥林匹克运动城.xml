@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海奥林匹克花园运动城</name>
+			<location>
+				<lat>31.152665</lat>
+				<lng>121.336012</lng>
+			</location>
+							<address>沪松公路1108</address>
+										<telephone>(021)67637985</telephone>
+										<uid>bd5046e8f2d4d640d62ce29b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>哥伦比亚驻上海总领事馆</name>
+			<location>
+				<lat>31.243262</lat>
+				<lng>121.443876</lng>
+			</location>
+							<address>安远路518号宝华城市晶典大厦2005室</address>
+										<telephone>(021)60707161</telephone>
+										<uid>e0e588beac0e33a9f6c59c36</uid>
+								</result>
+			<result>
+			<name>Columbia（杨高中路店）</name>
+			<location>
+				<lat>31.23745</lat>
+				<lng>121.560897</lng>
+			</location>
+							<address>浦东新区杨高中路2128号正大生活馆内（近四方路）</address>
+													<uid>51d85e47ddbb8f0c1ce999d4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

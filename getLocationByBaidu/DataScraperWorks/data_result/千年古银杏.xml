@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>千年古银杏</name>
+			<location>
+				<lat>31.323246</lat>
+				<lng>121.251199</lng>
+			</location>
+							<address>安辰路附近</address>
+													<uid>95c66920945cc894b6147f53</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

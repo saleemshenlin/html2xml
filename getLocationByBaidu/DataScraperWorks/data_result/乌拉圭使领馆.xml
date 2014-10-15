@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>乌拉圭总领事馆签证处</name>
+			<location>
+				<lat>31.229615</lat>
+				<lng>121.480076</lng>
+			</location>
+							<address>淮海中路300号香港新世界大厦24层2403室</address>
+										<telephone>021-63353521,63353927</telephone>
+										<uid>b1a1e1fa297976fca20464ee</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

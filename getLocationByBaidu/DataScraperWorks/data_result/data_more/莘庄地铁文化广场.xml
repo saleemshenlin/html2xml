@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>莘庄地铁文化广场北广场</name>
+			<location>
+				<lat>31.117891</lat>
+				<lng>121.390361</lng>
+			</location>
+							<address>水清南路</address>
+													<uid>41572e000a5347c9b45f1e0d</uid>
+								</result>
+			<result>
+			<name>闵行春申文化广场自行车租赁点</name>
+			<location>
+				<lat>31.117752</lat>
+				<lng>121.413763</lng>
+			</location>
+							<address>闵行区富都路111弄</address>
+													<uid>82eaecf68a95a186fea77859</uid>
+								</result>
+			<result>
+			<name>闵行春申文化广场</name>
+			<location>
+				<lat>31.111128</lat>
+				<lng>121.395682</lng>
+			</location>
+							<address>闵行区名都路85号(近莘庄地铁南广场)</address>
+										<telephone>(021)54604660</telephone>
+										<uid>ef773a0f6e64f849220220d3</uid>
+								</result>
+			<result>
+			<name>春申文化广场</name>
+			<location>
+				<lat>31.111321</lat>
+				<lng>121.395611</lng>
+			</location>
+							<address>闵行区名都路85号（近莘庄地铁南广场）</address>
+										<telephone>(021)54604660</telephone>
+										<uid>f76dc67946008cc4c03644a6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

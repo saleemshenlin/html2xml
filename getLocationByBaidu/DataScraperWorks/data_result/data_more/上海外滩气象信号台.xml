@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>外滩气象信号台</name>
+			<location>
+				<lat>31.238808</lat>
+				<lng>121.498924</lng>
+			</location>
+							<address>外滩延安东路</address>
+													<uid>5fbd2a854423b64b28201afe</uid>
+								</result>
+			<result>
+			<name>外滩信号台</name>
+			<location>
+				<lat>31.238824</lat>
+				<lng>121.498875</lng>
+			</location>
+							<address>上海市黄浦区中山东二路1号甲</address>
+										<telephone>(021)33130871,(021)58619158</telephone>
+										<uid>f9fd606289146b610f0e6bf6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

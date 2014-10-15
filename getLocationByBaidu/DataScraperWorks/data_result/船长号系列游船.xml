@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>船长号系列游船</name>
+			<location>
+				<lat>31.233281</lat>
+				<lng>121.504992</lng>
+			</location>
+							<address>上海黄浦区中山南路171号5号码头(近复兴东路)</address>
+										<telephone>(021)63552722</telephone>
+										<uid>550fd5f9011fed60921fc9eb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

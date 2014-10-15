@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>花米庄行停车场</name>
+			<location>
+				<lat>30.888072</lat>
+				<lng>121.402116</lng>
+			</location>
+							<address>奉贤区奉贤区南庄路</address>
+													<uid>1aece2590b5f8493b04c494c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>中国铁路馆</name>
+			<location>
+				<lat>31.201519</lat>
+				<lng>121.495835</lng>
+			</location>
+							<address>上海市卢湾区</address>
+													<uid>b3a031f6e3fad5b52ce67bcc</uid>
+								</result>
+			<result>
+			<name>世博场馆中国铁路馆</name>
+			<location>
+				<lat>31.201457</lat>
+				<lng>121.493298</lng>
+			</location>
+							<address>上海市卢湾区</address>
+													<uid>c324b83ecfbb3d481c389433</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

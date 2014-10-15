@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>乔家路历史文化街古银杏树</name>
+			<location>
+				<lat>31.233289</lat>
+				<lng>121.498846</lng>
+			</location>
+							<address>上海市黄浦区永泰街乔家路口</address>
+													<uid>c61bd305fb7d8768c27da243</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

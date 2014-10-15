@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>芷江绿地</name>
+			<location>
+				<lat>31.262009</lat>
+				<lng>121.469611</lng>
+			</location>
+							<address>共和新路736号(近芷江西路)</address>
+													<uid>44207646b6007e6adeee8bff</uid>
+								</result>
+			<result>
+			<name>芷江绿地</name>
+			<location>
+				<lat>31.262464</lat>
+				<lng>121.469795</lng>
+			</location>
+							<address>闸北区共和新路736号（近芷江西路）</address>
+													<uid>8d0c3cb7886f97eefb2d61dd</uid>
+								</result>
+			<result>
+			<name>闸北区芷江西路街道绿化和市容管理所</name>
+			<location>
+				<lat>31.267503</lat>
+				<lng>121.471997</lng>
+			</location>
+							<address>中山北路570弄13号</address>
+										<telephone>(021)56639405</telephone>
+										<uid>f75f728350647893adb22a84</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

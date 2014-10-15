@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海嘉定新城规划展示馆</name>
+			<location>
+				<lat>31.345207</lat>
+				<lng>121.264239</lng>
+			</location>
+							<address>伊宁路999号</address>
+													<uid>af1ae56b017b376f4207c107</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>龙美术馆西岸馆</name>
+			<location>
+				<lat>31.190375</lat>
+				<lng>121.470582</lng>
+			</location>
+							<address>徐汇区龙腾大道3398号(近瑞宁路)</address>
+										<telephone>(021)64227636</telephone>
+										<uid>a43f72e38f8b267e1b94c614</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

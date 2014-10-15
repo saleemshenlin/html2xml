@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>九峰寺</name>
+			<location>
+				<lat>31.055568</lat>
+				<lng>121.135627</lng>
+			</location>
+							<address>上海松江区小昆山镇</address>
+													<uid>c5c9e4240fce9e2bbd484262</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

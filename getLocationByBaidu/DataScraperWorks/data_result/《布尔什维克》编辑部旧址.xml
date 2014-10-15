@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>《布尔什维克》编辑部旧址</name>
+			<location>
+				<lat>31.225948</lat>
+				<lng>121.429497</lng>
+			</location>
+							<address>愚园路1376弄4-42号</address>
+										<telephone>(021)62511415</telephone>
+										<uid>10bee382945fee20b7265501</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

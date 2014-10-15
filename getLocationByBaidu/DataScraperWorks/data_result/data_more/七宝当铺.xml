@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>七宝当铺</name>
+			<location>
+				<lat>31.157068</lat>
+				<lng>121.361232</lng>
+			</location>
+							<address>闵行区七宝古镇富强街64号</address>
+										<telephone>(021)61503877</telephone>
+										<uid>49a02a7afdf617412a201a85</uid>
+								</result>
+			<result>
+			<name>七宝当铺</name>
+			<location>
+				<lat>31.157145</lat>
+				<lng>121.361189</lng>
+			</location>
+							<address>闵行区七宝古镇富强街64号</address>
+													<uid>73b1ebf295be181b4bcc4ade</uid>
+								</result>
+			<result>
+			<name>航成电脑回收典当中心</name>
+			<location>
+				<lat>31.16226</lat>
+				<lng>121.353717</lng>
+			</location>
+							<address>上海市闵行区七莘路3033号七宝商城(9号线七宝站5号口出即到）</address>
+										<telephone>15821366192</telephone>
+										<uid>4610f9d92bd7f05bb13c8174</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

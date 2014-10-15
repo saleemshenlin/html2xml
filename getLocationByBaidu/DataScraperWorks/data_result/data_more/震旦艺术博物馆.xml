@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>震旦博物馆</name>
+			<location>
+				<lat>31.240414</lat>
+				<lng>121.506431</lng>
+			</location>
+							<address>上海浦东新区富城路99号震旦国际大厦内（近名商路）</address>
+										<telephone>(021)58408899</telephone>
+										<uid>c5433a142946fa905a3ac8c4</uid>
+								</result>
+			<result>
+			<name>震旦博物馆</name>
+			<location>
+				<lat>31.240483</lat>
+				<lng>121.506153</lng>
+			</location>
+							<address>上海浦东新区富城路99号震旦国际大厦内（近名商路）</address>
+										<telephone>(021)58408899</telephone>
+										<uid>e1442314e060aef28505bf93</uid>
+								</result>
+			<result>
+			<name>震旦大学旧址</name>
+			<location>
+				<lat>31.218027</lat>
+				<lng>121.476984</lng>
+			</location>
+							<address>重庆南路280号</address>
+													<uid>9cbd2a9ee9cc2e9c31870a2d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

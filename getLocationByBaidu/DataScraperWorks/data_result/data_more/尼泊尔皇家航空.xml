@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>尼泊尔皇家航空</name>
+			<location>
+				<lat>31.210128</lat>
+				<lng>121.414799</lng>
+			</location>
+							<address>长宁区延安西路2067号仲盛金融中心1楼C座（近延安西路）</address>
+										<telephone>(021)62708352</telephone>
+										<uid>58d2363628e414a5b6f42f09</uid>
+								</result>
+			<result>
+			<name>尼泊尔皇家航空公司上海代表处</name>
+			<location>
+				<lat>31.230734</lat>
+				<lng>121.450923</lng>
+			</location>
+							<address>万航渡路1号环球世界大厦B座5层503</address>
+													<uid>d685315d84fd70628b2fb5e0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

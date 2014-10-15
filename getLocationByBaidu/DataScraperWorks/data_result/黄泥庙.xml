@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>黄泥庙</name>
+			<location>
+				<lat>30.80474</lat>
+				<lng>121.208689</lng>
+			</location>
+							<address>上海市金山区</address>
+													<uid>346596dd9a80e0aa4f6d46d2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

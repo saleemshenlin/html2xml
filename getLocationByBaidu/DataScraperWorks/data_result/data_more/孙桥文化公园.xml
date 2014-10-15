@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>孙桥文化公园</name>
+			<location>
+				<lat>31.18951</lat>
+				<lng>121.637793</lng>
+			</location>
+							<address>孙桥路185</address>
+													<uid>ea4a3dc92a6fdf524e55470e</uid>
+								</result>
+			<result>
+			<name>公厕</name>
+			<location>
+				<lat>31.189024</lat>
+				<lng>121.637454</lng>
+			</location>
+							<address>孙桥路185孙桥文化公园</address>
+													<uid>a5097bfac3cab81df13cbaa5</uid>
+								</result>
+			<result>
+			<name>锦悦假日旅店</name>
+			<location>
+				<lat>31.18856</lat>
+				<lng>121.637115</lng>
+			</location>
+							<address>浦东新区张江镇孙桥路206号(近孙桥文化公园)</address>
+										<telephone>(021)58571818</telephone>
+										<uid>6fddd7fd791265663517dc3b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

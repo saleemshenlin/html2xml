@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>高东东海岸商业广场</name>
+			<location>
+				<lat>31.323246</lat>
+				<lng>121.637447</lng>
+			</location>
+							<address>外高桥高东镇新园路102号</address>
+										<telephone>(021)50689899</telephone>
+										<uid>1f6b22ec828657a738e4a6c7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

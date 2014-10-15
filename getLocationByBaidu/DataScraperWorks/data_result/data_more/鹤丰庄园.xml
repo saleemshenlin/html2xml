@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>鹤丰庄园</name>
+			<location>
+				<lat>31.057741</lat>
+				<lng>121.558689</lng>
+			</location>
+							<address>上海浦东新区航头镇鹤立西路牌楼村13组490号</address>
+										<telephone>(021)20907777</telephone>
+										<uid>ef773a0f8ecb584a22022078</uid>
+								</result>
+			<result>
+			<name>鹤丰庄园</name>
+			<location>
+				<lat>31.060015</lat>
+				<lng>121.57859</lng>
+			</location>
+							<address>鹤立西路490号</address>
+										<telephone>(021)20907897</telephone>
+										<uid>97baee7b22146e9cc27da22e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

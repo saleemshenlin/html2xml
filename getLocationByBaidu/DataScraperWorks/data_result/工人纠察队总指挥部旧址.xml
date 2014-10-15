@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>工人纠察队总指挥部旧址</name>
+			<location>
+				<lat>31.265234</lat>
+				<lng>121.484672</lng>
+			</location>
+							<address>闸北区宝山路584号（止园路芷江中路）</address>
+													<uid>e9fe3aea782b67e44054d721</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

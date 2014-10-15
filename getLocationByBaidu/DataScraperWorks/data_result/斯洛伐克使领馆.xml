@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>斯洛伐克共和国驻上海总领事馆</name>
+			<location>
+				<lat>31.217085</lat>
+				<lng>121.454846</lng>
+			</location>
+							<address>淮海中路1375号启华大厦4层A-B</address>
+										<telephone>(021)64314205</telephone>
+										<uid>ffe0b7ecf18fdc496dc02c47</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

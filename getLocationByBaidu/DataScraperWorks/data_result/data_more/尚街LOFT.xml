@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>117</total>
+    <results>
+			<result>
+			<name>尚街loft</name>
+			<location>
+				<lat>31.210592</lat>
+				<lng>121.467058</lng>
+			</location>
+							<address>徐汇区</address>
+														</result>
+	  </results>
+</PlaceSearchResponse>

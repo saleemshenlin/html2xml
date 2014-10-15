@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>荷兰驻沪总领事馆</name>
+			<location>
+				<lat>31.203858</lat>
+				<lng>121.405699</lng>
+			</location>
+							<address>上海市长宁区红宝石路500号东银中心B塔10楼</address>
+										<telephone>021-22087288</telephone>
+										<uid>32650e4fec48dabe157643d3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

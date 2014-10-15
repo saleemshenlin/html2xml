@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>龚家祠堂</name>
+			<location>
+				<lat>31.216853</lat>
+				<lng>121.64873</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>b277afc6b678af57f60e771b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

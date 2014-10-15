@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>牡丹王记</name>
+			<location>
+				<lat>31.160691</lat>
+				<lng>121.364784</lng>
+			</location>
+							<address>上海市闵行区新镇路1205号七宝教寺内</address>
+													<uid>198c0d5c2dcd1236c17da2fb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

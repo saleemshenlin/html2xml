@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>土耳其共和国驻上海总领事馆</name>
+			<location>
+				<lat>31.20426</lat>
+				<lng>121.421623</lng>
+			</location>
+							<address>上海市长宁区中山西路1055号中山广场8层806-808室</address>
+										<telephone>(021)64746838</telephone>
+										<uid>4eec1c2b3b2c47ebf82d6160</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

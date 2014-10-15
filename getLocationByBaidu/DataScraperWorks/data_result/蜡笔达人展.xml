@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>蜡笔达人展</name>
+			<location>
+				<lat>31.230641</lat>
+				<lng>121.456796</lng>
+			</location>
+							<address>上海市静安区南京西路1515号静安嘉里中心</address>
+										<telephone>4007777777</telephone>
+										<uid>1a135e50c0ce61cfe215f913</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

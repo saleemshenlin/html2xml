@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>孙中山故居纪念馆</name>
+			<location>
+				<lat>31.222636</lat>
+				<lng>121.473862</lng>
+			</location>
+							<address>卢湾区香山路7号(近思南路)</address>
+										<telephone>(021)64372954</telephone>
+										<uid>ddb4ab9090b7280e86330454</uid>
+								</result>
+			<result>
+			<name>上海孙中山故居纪念馆办事处</name>
+			<location>
+				<lat>31.215741</lat>
+				<lng>121.477432</lng>
+			</location>
+							<address>建国中路29-31号国信商务大厦3层3200</address>
+										<telephone>(021)64372954</telephone>
+										<uid>fa01e937cff8354b764ff196</uid>
+								</result>
+			<result>
+			<name>孙中山故居纪念馆</name>
+			<location>
+				<lat>31.222211</lat>
+				<lng>121.47385</lng>
+			</location>
+							<address>卢湾区香山路7号（近思南路）</address>
+										<telephone>(021)53063361</telephone>
+										<uid>51671f7c7bb1de8af822132e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

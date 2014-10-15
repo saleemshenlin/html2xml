@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>月浦百鼓陈列馆</name>
+			<location>
+				<lat>31.416405</lat>
+				<lng>121.433577</lng>
+			</location>
+							<address>安家路3临2楼</address>
+										<telephone>(021)56649950</telephone>
+										<uid>49d95938d462ef3ec61e5106</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

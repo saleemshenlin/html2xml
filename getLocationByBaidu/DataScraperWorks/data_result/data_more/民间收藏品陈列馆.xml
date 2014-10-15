@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海民间收藏品陈列馆</name>
+			<location>
+				<lat>31.210792</lat>
+				<lng>121.502382</lng>
+			</location>
+							<address>黄浦区中山南路1551号</address>
+										<telephone>(021)63135582</telephone>
+										<uid>2db98790ff559904c4f02514</uid>
+								</result>
+			<result>
+			<name>豫园民间收藏品陈列馆</name>
+			<location>
+				<lat>31.232803</lat>
+				<lng>121.499206</lng>
+			</location>
+							<address>上海市黄浦区放浜中路与三牌楼路交汇处豫园内</address>
+													<uid>993253475e9cbda1a1acc454</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

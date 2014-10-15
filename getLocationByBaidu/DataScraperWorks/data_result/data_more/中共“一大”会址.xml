@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>5</total>
+    <results>
+			<result>
+			<name>中共第一次全国代表大会会址</name>
+			<location>
+				<lat>31.226033</lat>
+				<lng>121.481622</lng>
+			</location>
+							<address>黄陂南路374</address>
+										<telephone>(021)53832171</telephone>
+										<uid>33585827fdbf2e059d95dea0</uid>
+								</result>
+			<result>
+			<name>中共“一大”会址</name>
+			<location>
+				<lat>31.225917</lat>
+				<lng>121.48163</lng>
+			</location>
+							<address>上海市黄浦区黄陂南路374号</address>
+										<telephone>(021)53832171-111</telephone>
+										<uid>6ef9e23839bdc764cac3db9b</uid>
+								</result>
+			<result>
+			<name>中共一大会址纪念馆</name>
+			<location>
+				<lat>31.225917</lat>
+				<lng>121.48163</lng>
+			</location>
+							<address>卢湾区黄陂南路374号（近兴业路）</address>
+										<telephone>(021)53832171</telephone>
+										<uid>9a40a38cbc3bbe989d82ea69</uid>
+								</result>
+			<result>
+			<name>中共一大会址纪念馆领票处</name>
+			<location>
+				<lat>31.225932</lat>
+				<lng>121.481708</lng>
+			</location>
+							<address>兴业路102-108</address>
+													<uid>adf78b358b7e19c7c909f060</uid>
+								</result>
+			<result>
+			<name>XTD Yoga Center</name>
+			<location>
+				<lat>31.226743</lat>
+				<lng>121.482284</lng>
+			</location>
+							<address>卢湾区湖滨路222号2楼(近中共一大会址)</address>
+										<telephone>18202109549</telephone>
+										<uid>917e40a93379b5d6b04c4980</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

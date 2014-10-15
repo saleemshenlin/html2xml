@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>三林世博主题公园</name>
+			<location>
+				<lat>31.1682</lat>
+				<lng>121.545161</lng>
+			</location>
+							<address>大道站路与东书房路交叉口东北角</address>
+													<uid>49d95938a5707e40c61e5116</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

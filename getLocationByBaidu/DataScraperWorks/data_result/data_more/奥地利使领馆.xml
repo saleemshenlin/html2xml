@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>奥地利驻沪总领事馆</name>
+			<location>
+				<lat>31.217015</lat>
+				<lng>121.45492</lng>
+			</location>
+							<address>淮海中路1375号启华大厦3层A-B</address>
+										<telephone>(021)64740268</telephone>
+										<uid>c10f7f79e4ad430588fc06e9</uid>
+								</result>
+			<result>
+			<name>奥地利总领事馆商务处</name>
+			<location>
+				<lat>31.23342</lat>
+				<lng>121.458654</lng>
+			</location>
+							<address>南京西路1376号上海商城东办公楼5楼514</address>
+													<uid>f346b6b5a92f1d9d28201a86</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

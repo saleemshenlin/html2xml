@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>中国天主教佘山修院</name>
+			<location>
+				<lat>31.097825</lat>
+				<lng>121.197558</lng>
+			</location>
+							<address>佘山镇环山路326</address>
+										<telephone>(021)57651651</telephone>
+										<uid>34f68ab074c2970b8e55ec9e</uid>
+								</result>
+			<result>
+			<name>中国天主教佘山修院(南门)</name>
+			<location>
+				<lat>31.09784</lat>
+				<lng>121.197443</lng>
+			</location>
+							<address>佘山镇环山路326</address>
+													<uid>23f39c9d443a9297f3193747</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

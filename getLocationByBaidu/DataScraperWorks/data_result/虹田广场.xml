@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>实田车彩创意工坊（吴中路店）</name>
+			<location>
+				<lat>31.184421</lat>
+				<lng>121.393785</lng>
+			</location>
+							<address>闵行区吴中路1050号虹桥盛世莲花广场B幢118室（近虹中路）</address>
+										<telephone>(021)61159511</telephone>
+										<uid>adcd74650e79623c01294f61</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

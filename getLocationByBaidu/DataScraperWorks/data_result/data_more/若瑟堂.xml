@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天主教若瑟堂</name>
+			<location>
+				<lat>31.2365</lat>
+				<lng>121.497262</lng>
+			</location>
+							<address>黄浦区四川南路36号(金陵东路四川南路)</address>
+										<telephone>(021)63280293</telephone>
+										<uid>d0b8923f9a397ee3b4f42fab</uid>
+								</result>
+			<result>
+			<name>其昌栈若瑟堂</name>
+			<location>
+				<lat>31.246102</lat>
+				<lng>121.529561</lng>
+			</location>
+							<address>浦东大道660号</address>
+										<telephone>(021)58853172</telephone>
+										<uid>49457400ce9104f51df74d65</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

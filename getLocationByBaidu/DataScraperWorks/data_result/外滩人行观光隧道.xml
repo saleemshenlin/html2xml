@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>外滩人行观光隧道</name>
+			<location>
+				<lat>31.245578</lat>
+				<lng>121.496986</lng>
+			</location>
+							<address>上海市黄浦区中山东一路(上海浦东东方明珠广播电视塔和浦西南京东路外滩之间)</address>
+										<telephone>(021)58886000</telephone>
+										<uid>70243d95ac9598d5abf0cd55</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

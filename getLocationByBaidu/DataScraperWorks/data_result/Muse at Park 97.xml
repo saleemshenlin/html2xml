@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>Muse At Park 97</name>
+			<location>
+				<lat>31.223786</lat>
+				<lng>121.474043</lng>
+			</location>
+							<address>卢湾区皋兰路2号甲复兴公园内(近思南路)</address>
+										<telephone>(021)53828326</telephone>
+										<uid>a74481d611e73f5ff503b8ce</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

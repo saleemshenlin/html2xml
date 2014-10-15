@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>松鹤公园</name>
+			<location>
+				<lat>31.286098</lat>
+				<lng>121.520961</lng>
+			</location>
+							<address>杨浦区抚顺路240号(近江浦路)</address>
+										<telephone>(021)65139258</telephone>
+										<uid>14076deeeab728f502294f21</uid>
+								</result>
+			<result>
+			<name>松鹤公园</name>
+			<location>
+				<lat>31.28538</lat>
+				<lng>121.520335</lng>
+			</location>
+							<address>杨浦区抚顺路240号（近江浦路）</address>
+										<telephone>(021)65139258</telephone>
+										<uid>ae2ac51b35d0d187a1d23080</uid>
+								</result>
+			<result>
+			<name>松鹤公园-南门</name>
+			<location>
+				<lat>31.285427</lat>
+				<lng>121.520379</lng>
+			</location>
+							<address>抚顺路240</address>
+													<uid>05747514376d4178ab0dd829</uid>
+								</result>
+			<result>
+			<name>靖和扦脚(抚顺路)</name>
+			<location>
+				<lat>31.285249</lat>
+				<lng>121.520583</lng>
+			</location>
+							<address>杨浦区抚顺路255号(近松鹤公园)</address>
+													<uid>334c093a9ce294ba260bd06f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

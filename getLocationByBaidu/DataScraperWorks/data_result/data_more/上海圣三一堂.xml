@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>圣三一堂</name>
+			<location>
+				<lat>31.242282</lat>
+				<lng>121.49307</lng>
+			</location>
+							<address>九江路</address>
+													<uid>4639bd4e9955dedf8b36ee9f</uid>
+								</result>
+			<result>
+			<name>圣三一堂-北门</name>
+			<location>
+				<lat>31.242645</lat>
+				<lng>121.493159</lng>
+			</location>
+							<address>九江路201-205附近</address>
+													<uid>62d4a1c2abe2fd8628d7ab77</uid>
+								</result>
+			<result>
+			<name>圣三一基督教堂</name>
+			<location>
+				<lat>31.242436</lat>
+				<lng>121.492462</lng>
+			</location>
+							<address>黄浦区九江路219号（近汉口路）</address>
+													<uid>c4dff5a500d6ae37a9059d1b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

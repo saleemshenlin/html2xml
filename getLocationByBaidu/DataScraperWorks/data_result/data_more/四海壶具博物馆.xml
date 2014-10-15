@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>四海壶具博物馆(兴国路分馆)</name>
+			<location>
+				<lat>31.21314</lat>
+				<lng>121.443096</lng>
+			</location>
+							<address>长宁区兴国路322号（近淮海中路）</address>
+										<telephone>(021)62813395</telephone>
+										<uid>afca9d1d3d649c2bc61e51f3</uid>
+								</result>
+			<result>
+			<name>四海壶具博物馆(曹安路分馆)</name>
+			<location>
+				<lat>31.262016</lat>
+				<lng>121.363538</lng>
+			</location>
+							<address>嘉定区曹安公路1978号（近外环路）</address>
+										<telephone>(021)59185220</telephone>
+										<uid>82c38dc11013558009a8d44a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

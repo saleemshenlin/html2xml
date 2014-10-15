@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海工艺美术博物馆办公室</name>
+			<location>
+				<lat>31.216645</lat>
+				<lng>121.460984</lng>
+			</location>
+							<address>汾阳路79号2层</address>
+										<telephone>(021)64747379</telephone>
+										<uid>d63194f0f89128132f473365</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

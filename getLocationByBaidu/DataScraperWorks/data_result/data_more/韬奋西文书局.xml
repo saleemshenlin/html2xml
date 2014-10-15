@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>韬奋西文书局公司</name>
+			<location>
+				<lat>31.226203</lat>
+				<lng>121.46385</lng>
+			</location>
+							<address>长乐路325之1-2</address>
+										<telephone>(021)54048728,(021)54048729</telephone>
+										<uid>631c41570dc4fd7831f71d34</uid>
+								</result>
+			<result>
+			<name>罗贝拉冰淇淋(长乐店)</name>
+			<location>
+				<lat>31.226179</lat>
+				<lng>121.463733</lng>
+			</location>
+							<address>上海卢湾区长乐路325号韬奋西文书局内(近陕西南路)</address>
+										<telephone>(021)54030276</telephone>
+										<uid>15a93810b38dcda414c8f6c4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

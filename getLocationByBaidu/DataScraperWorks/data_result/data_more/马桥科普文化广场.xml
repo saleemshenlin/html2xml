@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>马桥科普文化广场</name>
+			<location>
+				<lat>31.033864</lat>
+				<lng>121.377034</lng>
+			</location>
+							<address>马桥镇</address>
+										<telephone>(021)64090234</telephone>
+										<uid>341c35dec7a9b7bfe6073860</uid>
+								</result>
+			<result>
+			<name>新港美发沙龙</name>
+			<location>
+				<lat>31.034073</lat>
+				<lng>121.377082</lng>
+			</location>
+							<address>马桥镇马桥科普文化广场附近</address>
+													<uid>1cb27430d48cead84d5547f3</uid>
+								</result>
+			<result>
+			<name>上海亚翁商贸公司冷饮批发部</name>
+			<location>
+				<lat>31.034057</lat>
+				<lng>121.376974</lng>
+			</location>
+							<address>马桥镇马桥科普文化广场附近</address>
+													<uid>9a5b6b8b02a55e089ff77955</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

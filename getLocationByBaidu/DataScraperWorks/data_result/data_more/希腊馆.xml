@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>希腊驻上海总领事馆</name>
+			<location>
+				<lat>31.259061</lat>
+				<lng>121.491613</lng>
+			</location>
+							<address>四川北路1350号中信泰富·申虹广场22层</address>
+													<uid>6ec95b7f422f659b17948e7c</uid>
+								</result>
+			<result>
+			<name>希腊驻上海总领事馆</name>
+			<location>
+				<lat>31.213904</lat>
+				<lng>121.479292</lng>
+			</location>
+							<address>上海市黄浦区徐家汇路555号广发银行大厦2楼</address>
+													<uid>29eb3f3348a9a89a3ce2314a</uid>
+								</result>
+			<result>
+			<name>希腊驻上海总领事馆</name>
+			<location>
+				<lat>31.221848</lat>
+				<lng>121.453376</lng>
+			</location>
+							<address>长乐路989号世纪商贸广场35层3501-02室</address>
+										<telephone>(021)54670505</telephone>
+										<uid>bf93c64ed6ea37920e3ddae8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>Lockey乐奇真人密室逃脱</name>
+			<location>
+				<lat>31.222265</lat>
+				<lng>121.430073</lng>
+			</location>
+							<address>定西路1310弄金都苑18号6A</address>
+										<telephone>(021)52668539</telephone>
+										<uid>310ec250966861fb626858f2</uid>
+								</result>
+			<result>
+			<name>Lockey乐奇真人密室逃脱</name>
+			<location>
+				<lat>31.222381</lat>
+				<lng>121.429751</lng>
+			</location>
+							<address>上海市长宁区定西路1310弄金都苑18号6A室</address>
+										<telephone>(021)52668539</telephone>
+										<uid>4548dd180107545e5d17c3d8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

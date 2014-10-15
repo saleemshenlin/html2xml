@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>叶榭马桥农家乐</name>
+			<location>
+				<lat>30.917795</lat>
+				<lng>121.2817</lng>
+			</location>
+							<address>叶榭镇马桥村竹亭南路上-靠近马桥支路</address>
+										<telephone>(021)57888036</telephone>
+										<uid>d808aea3ffe4ba6443e1921d</uid>
+								</result>
+			<result>
+			<name>张泽羊肉庄农家乐</name>
+			<location>
+				<lat>30.917586</lat>
+				<lng>121.2817</lng>
+			</location>
+							<address>上海松江区叶榭张泽马桥村竹亭南路105号</address>
+										<telephone>(021)57883777</telephone>
+										<uid>bb1d38e4614347540c0a7047</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

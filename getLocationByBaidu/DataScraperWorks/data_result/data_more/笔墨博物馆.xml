@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海笔墨博物馆</name>
+			<location>
+				<lat>31.23948</lat>
+				<lng>121.489006</lng>
+			</location>
+							<address>黄浦区福州路429号(近福建中路)</address>
+										<telephone>(021)63281558</telephone>
+										<uid>f446091804caf769b11e3606</uid>
+								</result>
+			<result>
+			<name>上海笔墨博物馆</name>
+			<location>
+				<lat>31.23948</lat>
+				<lng>121.489009</lng>
+			</location>
+							<address>黄浦区福州路429号（近福建中路）</address>
+										<telephone>(021)63281558</telephone>
+										<uid>df277e8ac50225c08c55ec14</uid>
+								</result>
+			<result>
+			<name>周虎臣曹素功笔墨博物馆</name>
+			<location>
+				<lat>31.239418</lat>
+				<lng>121.488785</lng>
+			</location>
+							<address>黄浦区福州路431号（近福建中路）</address>
+										<telephone>(021)51698918</telephone>
+										<uid>7c55992fbe4f2d6d94ec84af</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

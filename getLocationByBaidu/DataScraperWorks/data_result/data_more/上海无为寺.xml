@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>无为寺</name>
+			<location>
+				<lat>31.731801</lat>
+				<lng>121.326368</lng>
+			</location>
+							<address>宏海公路3000</address>
+										<telephone>(021)59364986</telephone>
+										<uid>d0c3b9f6b104dc913fe23191</uid>
+								</result>
+			<result>
+			<name>无为寺-东南门</name>
+			<location>
+				<lat>31.731624</lat>
+				<lng>121.326346</lng>
+			</location>
+							<address>宏海公路无为寺附近</address>
+													<uid>a31cdc32489e295b94ec8498</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>瑞金医院院史陈列馆</name>
+			<location>
+				<lat>31.218158</lat>
+				<lng>121.474029</lng>
+			</location>
+							<address>瑞金二路197号</address>
+													<uid>64eb95440d414e366118095f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

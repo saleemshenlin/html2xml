@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>笙平农家乐(兴村店)</name>
+			<location>
+				<lat>31.559501</lat>
+				<lng>121.79298</lng>
+			</location>
+							<address>中兴镇北兴村兴西125号（近陈家镇长江大桥车站）</address>
+										<telephone>(021)69449019</telephone>
+										<uid>fd69125835fbfe14eaf85317</uid>
+								</result>
+			<result>
+			<name>上海崇明笙平农家乐专业合作社</name>
+			<location>
+				<lat>31.568962</lat>
+				<lng>121.804011</lng>
+			</location>
+							<address>崇明县中兴镇北兴村兴西125号（近陈家镇长江大桥车站）</address>
+										<telephone>13801657329</telephone>
+										<uid>3943bd640913fbb884330406</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

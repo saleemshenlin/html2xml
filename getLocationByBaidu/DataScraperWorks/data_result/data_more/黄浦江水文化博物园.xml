@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海黄浦江水文化博物园</name>
+			<location>
+				<lat>30.990201</lat>
+				<lng>121.335878</lng>
+			</location>
+							<address>闵行区江川西路3998号(近仙鹤路)</address>
+										<telephone>(021)54725611</telephone>
+										<uid>2a7a25ec3c7cd6626c3e1b60</uid>
+								</result>
+			<result>
+			<name>黄浦江水文化博物园</name>
+			<location>
+				<lat>30.992206</lat>
+				<lng>121.338678</lng>
+			</location>
+							<address>闵行区江川西路3998号（近仙鹤路）</address>
+										<telephone>(021)54725611</telephone>
+										<uid>60c44a8785b31d29095cb328</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

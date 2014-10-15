@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>香薇玫瑰庄园</name>
+			<location>
+				<lat>30.936204</lat>
+				<lng>121.144062</lng>
+			</location>
+							<address>松江区五朱公路88号</address>
+										<telephone>(021)57877171</telephone>
+										<uid>552029c2b7ba8425e856fad2</uid>
+								</result>
+			<result>
+			<name>香薇玫瑰庄园</name>
+			<location>
+				<lat>31.028913</lat>
+				<lng>121.226041</lng>
+			</location>
+							<address>西林北路950号</address>
+										<telephone>(021)57877172</telephone>
+										<uid>ca3a88ad401afdba22022088</uid>
+								</result>
+			<result>
+			<name>上海香薇玫瑰庄园</name>
+			<location>
+				<lat>30.936157</lat>
+				<lng>121.14396</lng>
+			</location>
+							<address>上海市松江区泖港镇五朱公路88号</address>
+										<telephone>(021)57874114</telephone>
+										<uid>d5bc7593fb22472ce3110393</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

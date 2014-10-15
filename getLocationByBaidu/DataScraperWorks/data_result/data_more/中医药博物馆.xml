@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海中医药大学浦东校区-上海中医药博物馆</name>
+			<location>
+				<lat>31.198631</lat>
+				<lng>121.605505</lng>
+			</location>
+							<address>浦东新区蔡伦路1200号中医药大学内(近华佗路)</address>
+										<telephone>(021)51322712</telephone>
+										<uid>bff8fa7dfee32adec9213d90</uid>
+								</result>
+			<result>
+			<name>童涵春堂中药博物馆</name>
+			<location>
+				<lat>31.232795</lat>
+				<lng>121.497648</lng>
+			</location>
+							<address>黄浦区豫园新路20号豫园商城内</address>
+										<telephone>(021)63556607</telephone>
+										<uid>550fd5f9b937a578921fc9ab</uid>
+								</result>
+			<result>
+			<name>超人</name>
+			<location>
+				<lat>31.232185</lat>
+				<lng>121.497652</lng>
+			</location>
+							<address>豫园新路20童涵春堂中药博物馆附近</address>
+													<uid>81d6b2386b3e0b0c85420ec5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

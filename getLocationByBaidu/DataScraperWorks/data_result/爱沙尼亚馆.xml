@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>爱沙尼亚驻上海总领事馆</name>
+			<location>
+				<lat>31.23569</lat>
+				<lng>121.463501</lng>
+			</location>
+							<address>南京西路1038号梅龙镇商厦21层2108</address>
+										<telephone>(021)51782391</telephone>
+										<uid>63df5681a0697d66167643fa</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

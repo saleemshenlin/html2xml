@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>梓园遗址</name>
+			<location>
+				<lat>31.222983</lat>
+				<lng>121.503317</lng>
+			</location>
+							<address>乔家路113号</address>
+													<uid>fa7da3e84c25376343d63eab</uid>
+								</result>
+			<result>
+			<name>济梓园</name>
+			<location>
+				<lat>31.32158</lat>
+				<lng>121.393516</lng>
+			</location>
+							<address>上海宝山区聚丰园路5弄18号</address>
+										<telephone>13818899430</telephone>
+										<uid>aebdd5f822dfbff0ad045742</uid>
+								</result>
+			<result>
+			<name>公厕</name>
+			<location>
+				<lat>31.218814</lat>
+				<lng>121.501523</lng>
+			</location>
+							<address>乔家路113梓园遗址附近</address>
+													<uid>a12baa40a4cf1e57e856fa5c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

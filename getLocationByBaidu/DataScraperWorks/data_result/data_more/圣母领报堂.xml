@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>圣母领报堂</name>
+			<location>
+				<lat>22.380993</lat>
+				<lng>114.117246</lng>
+			</location>
+							<address>安贤街11号</address>
+													<uid>9ee392b8c040883cbbbd6309</uid>
+								</result>
+			<result>
+			<name>圣母领报堂</name>
+			<location>
+				<lat>22.380757</lat>
+				<lng>114.116871</lng>
+			</location>
+							<address>九巴30x;九巴30路;九巴39a;九巴39m</address>
+													<uid>f4875f6cea630c92f33cba4c</uid>
+								</result>
+			<result>
+			<name>圣母领报堂-停车场</name>
+			<location>
+				<lat>22.380583</lat>
+				<lng>114.117306</lng>
+			</location>
+							<address>香港特别行政区荃湾区</address>
+													<uid>5ffb1816a080b3216f47602a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

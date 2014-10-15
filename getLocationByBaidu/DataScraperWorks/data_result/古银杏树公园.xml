@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>古银杏公园</name>
+			<location>
+				<lat>31.321789</lat>
+				<lng>121.249984</lng>
+			</location>
+							<address>安亭2路</address>
+													<uid>e2851da150e104bf17c8f668</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

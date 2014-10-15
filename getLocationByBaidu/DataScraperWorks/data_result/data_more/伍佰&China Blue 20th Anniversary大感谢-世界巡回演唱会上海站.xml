@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>伍佰公社</name>
+			<location>
+				<lat>31.241749</lat>
+				<lng>121.493018</lng>
+			</location>
+							<address>黄浦区汉口路193号401室（近河南南路）</address>
+										<telephone>(021)60549455</telephone>
+										<uid>aff18ed2c4fb488eda2f2896</uid>
+								</result>
+			<result>
+			<name>上海中科伍佰豪生物工程有限公司</name>
+			<location>
+				<lat>31.168926</lat>
+				<lng>121.412721</lng>
+			</location>
+							<address>漕宝路500号上海聚科生物园区</address>
+										<telephone>(021)64700892</telephone>
+										<uid>4fa6348a18e62ab02b06ce44</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

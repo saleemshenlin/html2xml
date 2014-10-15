@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>7</total>
+    <results>
+			<result>
+			<name>济南市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>东莞市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>重庆市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>淄博市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>枣庄市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>海北藏族自治州</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>曲靖市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

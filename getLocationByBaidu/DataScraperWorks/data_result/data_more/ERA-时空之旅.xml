@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>ERA-时空之旅</name>
+			<location>
+				<lat>31.284377</lat>
+				<lng>121.457832</lng>
+			</location>
+							<address>上海市闸北区共和新路2266号上海马戏城大剧场</address>
+										<telephone>(021)66525468</telephone>
+										<uid>91d0fab8c23eae39210262ef</uid>
+								</result>
+			<result>
+			<name>ERA·时空之旅</name>
+			<location>
+				<lat>31.284701</lat>
+				<lng>121.458198</lng>
+			</location>
+							<address>上海市闸北区共和新路2266号上海马戏城大剧场</address>
+										<telephone>(021)66523097</telephone>
+										<uid>e9a8aa451f23a7fb84154100</uid>
+								</result>
+			<result>
+			<name>上海马戏城era时空之旅售票处</name>
+			<location>
+				<lat>31.284701</lat>
+				<lng>121.458198</lng>
+			</location>
+							<address>共和新路2266号</address>
+										<telephone>(021)66525468</telephone>
+										<uid>7a8148ced138d8073310af5a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

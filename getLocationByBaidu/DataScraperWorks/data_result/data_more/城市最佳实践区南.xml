@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>星巴克(南车站路店)</name>
+			<location>
+				<lat>31.208839</lat>
+				<lng>121.501722</lng>
+			</location>
+							<address>黄浦区南车站路564号城市最佳实践区内(近半淞园路)</address>
+										<telephone>(021)53513853</telephone>
+										<uid>dae0a1627ae15ecc9222e0cd</uid>
+								</result>
+			<result>
+			<name>上海世博城市最佳实践区商务有限公司</name>
+			<location>
+				<lat>31.209256</lat>
+				<lng>121.501924</lng>
+			</location>
+							<address>南车站路585</address>
+													<uid>86348526a75838a2fbdc85e3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

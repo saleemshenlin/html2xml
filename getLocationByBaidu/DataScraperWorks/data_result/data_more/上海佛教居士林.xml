@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海佛教居士林</name>
+			<location>
+				<lat>31.234625</lat>
+				<lng>121.453402</lng>
+			</location>
+							<address>静安区常德路418号（近新闸路）</address>
+										<telephone>(021)62794445</telephone>
+										<uid>0041fa664313f844d22dd690</uid>
+								</result>
+			<result>
+			<name>上海佛教居士林-西门</name>
+			<location>
+				<lat>31.234617</lat>
+				<lng>121.453356</lng>
+			</location>
+							<address>常德路418</address>
+													<uid>f1aa0c9c877d63006cc02c07</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>钧天琴韵古琴馆</name>
+			<location>
+				<lat>31.211341</lat>
+				<lng>121.446331</lng>
+			</location>
+							<address>上海市徐汇区淮海中路1801</address>
+										<telephone>(021)64374111</telephone>
+										<uid>881a28e763124c3af942b2f9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

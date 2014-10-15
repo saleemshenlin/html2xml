@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>大方庵</name>
+			<location>
+				<lat>30.913783</lat>
+				<lng>121.055435</lng>
+			</location>
+							<address>新浜镇</address>
+										<telephone>(021)57896059,(021)57891007</telephone>
+										<uid>6f05aaee2d7b72f6631809fd</uid>
+								</result>
+			<result>
+			<name>大方庵</name>
+			<location>
+				<lat>30.913182</lat>
+				<lng>121.055255</lng>
+			</location>
+							<address>1835路南向单环;1836路北向单环;松江75路</address>
+													<uid>ec7deab2b324f88c0782c238</uid>
+								</result>
+			<result>
+			<name>大方庵-南门</name>
+			<location>
+				<lat>30.913535</lat>
+				<lng>121.05548</lng>
+			</location>
+							<address>大方路大方庵附近</address>
+													<uid>15b47a44b7dbb7f01b94c60f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

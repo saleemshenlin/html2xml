@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>临江公园</name>
+			<location>
+				<lat>31.415165</lat>
+				<lng>121.50065</lng>
+			</location>
+							<address>友谊路1号</address>
+										<telephone>(021)56104731</telephone>
+										<uid>75036835ddc3fdae5e0d027c</uid>
+								</result>
+			<result>
+			<name>临江水族馆</name>
+			<location>
+				<lat>31.417407</lat>
+				<lng>121.498967</lng>
+			</location>
+							<address>盘古路115</address>
+													<uid>c388616c13f8280672455beb</uid>
+								</result>
+			<result>
+			<name>临江公园-游戏区</name>
+			<location>
+				<lat>31.414788</lat>
+				<lng>121.502032</lng>
+			</location>
+							<address>友谊路1号</address>
+													<uid>5b9f84cfb57ffc99b6f42f03</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

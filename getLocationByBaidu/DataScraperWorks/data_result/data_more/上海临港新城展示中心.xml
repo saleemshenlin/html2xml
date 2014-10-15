@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海临港新城展示中心</name>
+			<location>
+				<lat>30.907005</lat>
+				<lng>121.932111</lng>
+			</location>
+							<address>环湖西一路99-11临</address>
+													<uid>edd64ce162ff5d903ee2318b</uid>
+								</result>
+			<result>
+			<name>依海餐厅</name>
+			<location>
+				<lat>30.907981</lat>
+				<lng>121.932997</lng>
+			</location>
+							<address>浦东新区临港新城环湖西一路99号（近滴水湖展示中心）</address>
+										<telephone>(021)68283198</telephone>
+										<uid>89fd4ea319b8675ee4e965b2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

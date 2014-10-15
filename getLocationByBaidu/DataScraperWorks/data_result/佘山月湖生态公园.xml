@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>山里人家生态园</name>
+			<location>
+				<lat>31.029099</lat>
+				<lng>121.191631</lng>
+			</location>
+							<address>松江区思贤路2619号（近辰塔路）</address>
+										<telephone>(021)67866692</telephone>
+										<uid>fc76752415b09de34e776ef8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

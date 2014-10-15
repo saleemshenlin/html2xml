@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>施王庙</name>
+			<location>
+				<lat>30.896354</lat>
+				<lng>121.025403</lng>
+			</location>
+							<address>金山区枫泾镇北大街409号</address>
+													<uid>f934daa35ff280ac8bdb7373</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>土库曼斯坦大使馆</name>
+			<location>
+				<lat>39.967638</lat>
+				<lng>116.475701</lng>
+			</location>
+							<address>霄云路18-22号京润水上花园别墅雅趣园A-13</address>
+										<telephone>(010)65326975</telephone>
+										<uid>c8e8f63370e53810ab0dd812</uid>
+								</result>
+			<result>
+			<name>土库曼斯坦大使馆签证处</name>
+			<location>
+				<lat>39.967645</lat>
+				<lng>116.475319</lng>
+			</location>
+							<address>霄云路18号京润水上花园别墅雅趣园D-1</address>
+													<uid>edf19b7613479ec1aeb22ad3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

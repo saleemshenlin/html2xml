@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>DQ冰淇凌（定西店）</name>
+			<location>
+				<lat>31.223022</lat>
+				<lng>121.428869</lng>
+			</location>
+							<address>定西路1328号巴黎春天百货1层</address>
+										<telephone>(021)52370772</telephone>
+										<uid>365e6ba375b0a83bd81318dc</uid>
+								</result>
+			<result>
+			<name>DQ冰淇淋(长宁路)</name>
+			<location>
+				<lat>31.224273</lat>
+				<lng>121.425165</lng>
+			</location>
+							<address>长宁路999号多媒体生活广场1层</address>
+										<telephone>(021)52370772,(021)52410331,(021)60913740</telephone>
+										<uid>e2153b415b169633e3110393</uid>
+								</result>
+			<result>
+			<name>DQ冰淇凌(莘庄龙之梦店)</name>
+			<location>
+				<lat>31.224967</lat>
+				<lng>121.423603</lng>
+			</location>
+							<address>沪闵路6088号凯德龙之梦广场地下1层-45</address>
+										<telephone>(021)34973122</telephone>
+										<uid>0400c707006f80f448cc4a93</uid>
+								</result>
+			<result>
+			<name>DQ冰淇凌</name>
+			<location>
+				<lat>31.217517</lat>
+				<lng>121.408512</lng>
+			</location>
+							<address>长宁区天山路762号泓鑫广场F1-21B</address>
+													<uid>fafa10d4edda0981373a71fe</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>小桃园街绿地</name>
+			<location>
+				<lat>31.227098</lat>
+				<lng>121.496298</lng>
+			</location>
+							<address>上海市黄浦区</address>
+													<uid>15ed53ce3bcb5c579222e007</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

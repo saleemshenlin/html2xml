@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海犹太难民纪念馆</name>
+			<location>
+				<lat>31.259987</lat>
+				<lng>121.515759</lng>
+			</location>
+							<address>虹口区长阳路62号（近舟山路）</address>
+										<telephone>(021)65126669</telephone>
+										<uid>24ff8dfa9220e5fb4d55476d</uid>
+								</result>
+			<result>
+			<name>上海犹太难民纪念馆-北门</name>
+			<location>
+				<lat>31.26001</lat>
+				<lng>121.515749</lng>
+			</location>
+							<address>长阳路62</address>
+													<uid>d7a415988a6e2f72b7265535</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

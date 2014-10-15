@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>康贝棒垒球场</name>
+			<location>
+				<lat>31.187386</lat>
+				<lng>121.512083</lng>
+			</location>
+							<address>浦东新区云莲路201号(近浏河路)</address>
+													<uid>2e00c5ddec907005d7851f60</uid>
+								</result>
+			<result>
+			<name>康贝棒垒球场篮球场</name>
+			<location>
+				<lat>31.187386</lat>
+				<lng>121.512092</lng>
+			</location>
+							<address>浦东新区云莲路201号（浏河路云莲路）</address>
+													<uid>710935af4250361b4c3a59e9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

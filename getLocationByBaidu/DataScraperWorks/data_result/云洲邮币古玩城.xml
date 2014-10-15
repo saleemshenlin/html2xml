@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>云洲邮币古玩城上海市收藏协会</name>
+			<location>
+				<lat>31.20731</lat>
+				<lng>121.467479</lng>
+			</location>
+							<address>大木桥路88</address>
+													<uid>a8f9b26a468113d640afe634</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

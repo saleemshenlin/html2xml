@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>诸翟公园</name>
+			<location>
+				<lat>31.214807</lat>
+				<lng>121.293404</lng>
+			</location>
+							<address>运乐路188</address>
+													<uid>1eeed546757ed2f3b5147f1e</uid>
+								</result>
+			<result>
+			<name>诸翟公园</name>
+			<location>
+				<lat>31.213981</lat>
+				<lng>121.293894</lng>
+			</location>
+							<address>闵行区运乐路188号（近诸新路）</address>
+													<uid>212cbef22aaf5a114e2fdf7c</uid>
+								</result>
+			<result>
+			<name>诸翟公园-东南门</name>
+			<location>
+				<lat>31.214058</lat>
+				<lng>121.293867</lng>
+			</location>
+							<address>运乐路</address>
+													<uid>8046fd4e87d9f546a1046457</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

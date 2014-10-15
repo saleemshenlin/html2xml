@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>中国劳动组合书记部旧址陈列馆</name>
+			<location>
+				<lat>31.243972</lat>
+				<lng>121.470599</lng>
+			</location>
+							<address>静安区成都北路893弄3-7号(成都北路新闸路)</address>
+										<telephone>(021)62157732,(021)62157732</telephone>
+										<uid>cde9e2c7ac78bcade81e971c</uid>
+								</result>
+			<result>
+			<name>中国劳动组合书记部旧址陈列馆</name>
+			<location>
+				<lat>31.244018</lat>
+				<lng>121.470629</lng>
+			</location>
+							<address>静安区成都北路893弄3-7号（成都北路新闸路）</address>
+										<telephone>(021)64747183,(021)62157732</telephone>
+										<uid>07cfa5dd6879c02c81a12e5e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>美罗会议中心</name>
+			<location>
+				<lat>31.199457</lat>
+				<lng>121.446899</lng>
+			</location>
+							<address>天钥桥路30号美罗大厦B1层</address>
+													<uid>87bf6b5fadcce78212882487</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

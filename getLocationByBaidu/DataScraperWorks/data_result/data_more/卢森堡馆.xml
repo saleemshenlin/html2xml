@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>卢森堡馆</name>
+			<location>
+				<lat>31.188066</lat>
+				<lng>121.487042</lng>
+			</location>
+							<address>浦东新区浦东世博园C片区上钢路(博成路口)</address>
+													<uid>8e092efadcef6de9fa0cad98</uid>
+								</result>
+			<result>
+			<name>卢森堡驻上海总领事馆</name>
+			<location>
+				<lat>31.228681</lat>
+				<lng>121.450731</lng>
+			</location>
+							<address>南京西路1788号907室</address>
+										<telephone>(021)63390400</telephone>
+										<uid>487c44265aa83653b23c818b</uid>
+								</result>
+			<result>
+			<name>卢森堡摄影基地</name>
+			<location>
+				<lat>31.067903</lat>
+				<lng>121.408266</lng>
+			</location>
+							<address>闵行区沪闵路3458弄66号(近联农路)</address>
+													<uid>15b723b398c947a40f0a7008</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

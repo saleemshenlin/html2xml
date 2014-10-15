@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>神仙酒城</name>
+			<location>
+				<lat>30.960617</lat>
+				<lng>121.737758</lng>
+			</location>
+							<address>新四平公路2888号</address>
+										<telephone>(021)57536059</telephone>
+										<uid>3dc9befd4d08b217bea24005</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

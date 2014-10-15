@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>静逸宾馆</name>
+			<location>
+				<lat>31.124584</lat>
+				<lng>120.932427</lng>
+			</location>
+							<address>上海青浦区商榻镇商榻北路168号（农工商超市旁）</address>
+										<telephone>(021)59283357</telephone>
+										<uid>bf17b859266dbefef82213cc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

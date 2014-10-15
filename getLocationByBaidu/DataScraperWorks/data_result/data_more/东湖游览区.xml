@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>东湖游览区</name>
+			<location>
+				<lat>31.469118</lat>
+				<lng>121.853899</lng>
+			</location>
+							<address>上海市崇明县陈家镇瀛东村</address>
+													<uid>93df0dc301fd7c28882fb5d2</uid>
+								</result>
+			<result>
+			<name>东滩国际会议中心</name>
+			<location>
+				<lat>31.456713</lat>
+				<lng>121.885343</lng>
+			</location>
+							<address>崇明东滩团结沙（近东湖游览区）</address>
+										<telephone>(021)69477888</telephone>
+										<uid>764672e5f4771ab494ec8418</uid>
+								</result>
+			<result>
+			<name>东滩国际会议中心-洗手间</name>
+			<location>
+				<lat>31.456713</lat>
+				<lng>121.885343</lng>
+			</location>
+							<address>崇明东滩团结沙（近东湖游览区）</address>
+													<uid>048eb561e6760c1585420e44</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

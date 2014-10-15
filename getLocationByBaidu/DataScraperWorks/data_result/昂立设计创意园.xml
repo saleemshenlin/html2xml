@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>昂立设计创意园</name>
+			<location>
+				<lat>31.28383</lat>
+				<lng>121.511315</lng>
+			</location>
+							<address>杨浦区四平路1188号（近赤峰路）</address>
+													<uid>f72d6fe0cccd015b1fe999c8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

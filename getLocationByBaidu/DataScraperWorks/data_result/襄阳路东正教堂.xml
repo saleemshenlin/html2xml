@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>东正教圣母大堂</name>
+			<location>
+				<lat>31.223833</lat>
+				<lng>121.461971</lng>
+			</location>
+							<address>新乐路55号</address>
+										<telephone>(021)64690930</telephone>
+										<uid>87248d961b8054b22806cec4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

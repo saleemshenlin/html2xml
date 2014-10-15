@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>联怡枇杷生态园</name>
+			<location>
+				<lat>31.132119</lat>
+				<lng>121.129973</lng>
+			</location>
+							<address>青浦区外青松公路7166号(青松路外青松公路)</address>
+										<telephone>(021)39272277</telephone>
+										<uid>dc0f0adcf507fa38f82213d7</uid>
+								</result>
+			<result>
+			<name>联怡枇杷生态园-一号门</name>
+			<location>
+				<lat>31.132822</lat>
+				<lng>121.133522</lng>
+			</location>
+							<address>外青松公路7166号</address>
+													<uid>efac7c50705575209c09f70f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

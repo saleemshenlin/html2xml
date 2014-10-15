@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>创智天地会议中心</name>
+			<location>
+				<lat>31.313397</lat>
+				<lng>121.519122</lng>
+			</location>
+							<address>淞沪路388号创智天地广场7号楼1楼</address>
+										<telephone>(021)65500808</telephone>
+										<uid>ee96df834dc4e7e60782c2bb</uid>
+								</result>
+			<result>
+			<name>创智天地企业中心</name>
+			<location>
+				<lat>31.311646</lat>
+				<lng>121.517883</lng>
+			</location>
+							<address>大学路63弄、88弄、186弄、187弄、268弄、277弄、伟德路10弄</address>
+										<telephone>(021)65500808</telephone>
+										<uid>d146b388f26c7ca07402690e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>壸天阁</name>
+			<location>
+				<lat>31.213085</lat>
+				<lng>121.442915</lng>
+			</location>
+							<address>兴国路322</address>
+													<uid>57ebc6919ad474e6a6da39bf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

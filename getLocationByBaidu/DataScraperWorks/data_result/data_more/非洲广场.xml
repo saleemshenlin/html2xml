@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>DeAfri非洲之心钻石</name>
+			<location>
+				<lat>31.241873</lat>
+				<lng>121.489119</lng>
+			</location>
+							<address>黄浦区南京东路409-459号置地广场908室(近山西南路)</address>
+													<uid>e93761f64239b215223bf229</uid>
+								</result>
+			<result>
+			<name>Wonder Land奇迹桌游非洲馆</name>
+			<location>
+				<lat>31.194237</lat>
+				<lng>121.450469</lng>
+			</location>
+							<address>徐汇区斜土路2601号嘉汇广场T3幢21D号(近南丹东路)</address>
+													<uid>e3e2cd9d144547fac7f50d60</uid>
+								</result>
+			<result>
+			<name>Wonder Land奇迹桌游非洲馆（斜土路店）</name>
+			<location>
+				<lat>31.194237</lat>
+				<lng>121.450469</lng>
+			</location>
+							<address>徐汇区斜土路2601号嘉汇广场T3幢21D号（近南丹东路）</address>
+										<telephone>(021)64262696,18917909707</telephone>
+										<uid>2ae843044a3c9b8ab5f42fc3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

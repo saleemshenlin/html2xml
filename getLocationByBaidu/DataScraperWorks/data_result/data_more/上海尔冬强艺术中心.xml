@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>尔冬强艺术中心</name>
+			<location>
+				<lat>31.213896</lat>
+				<lng>121.475839</lng>
+			</location>
+							<address>卢湾区泰康路258号田子坊2号乙（近瑞金二路）</address>
+										<telephone>(021)64150675</telephone>
+										<uid>08eff4d40ffd9f7289db7321</uid>
+								</result>
+			<result>
+			<name>尔冬强艺术中心</name>
+			<location>
+				<lat>31.159633</lat>
+				<lng>121.448215</lng>
+			</location>
+							<address>石龙路345弄27号C-102</address>
+										<telephone>(021)64150675</telephone>
+										<uid>a3128fe0f632bfd6a3acc499</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

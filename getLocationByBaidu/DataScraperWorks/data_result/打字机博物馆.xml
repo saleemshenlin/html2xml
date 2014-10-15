@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>陆汉斌打字机博物馆</name>
+			<location>
+				<lat>31.220652</lat>
+				<lng>121.440595</lng>
+			</location>
+							<address>长宁区延安西路719号7楼</address>
+										<telephone>(021)64664556</telephone>
+										<uid>58dc2b6b17fb192f266e980f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

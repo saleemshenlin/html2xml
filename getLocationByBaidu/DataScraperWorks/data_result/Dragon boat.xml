@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>Dragon boat</name>
+			<location>
+				<lat>31.230279</lat>
+				<lng>121.508149</lng>
+			</location>
+							<address>黄浦区外马路80号（近会馆弄）</address>
+										<telephone>(021)61913599</telephone>
+										<uid>fc84613c546310aa2fb90810</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

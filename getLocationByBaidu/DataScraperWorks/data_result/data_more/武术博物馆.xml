@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>中国武术博物馆</name>
+			<location>
+				<lat>31.320045</lat>
+				<lng>121.533916</lng>
+			</location>
+							<address>杨浦区长海路399号上海体育学院内(近嫩江路)</address>
+										<telephone>(021)51253386</telephone>
+										<uid>75036835dd18fdae5e0d0221</uid>
+								</result>
+			<result>
+			<name>中国武术博物馆</name>
+			<location>
+				<lat>31.319035</lat>
+				<lng>121.532913</lng>
+			</location>
+							<address>杨浦区长海路399号上海体育学院内（近嫩江路）</address>
+										<telephone>(021)51253386</telephone>
+										<uid>2cc80bd7209eb2d2ebe58263</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

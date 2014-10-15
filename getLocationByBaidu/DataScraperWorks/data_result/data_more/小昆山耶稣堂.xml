@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>小昆山耶稣堂</name>
+			<location>
+				<lat>31.046836</lat>
+				<lng>121.13946</lng>
+			</location>
+							<address>鹤溪街129号</address>
+										<telephone>(021)57762534</telephone>
+										<uid>850815e126a2259a43e192e4</uid>
+								</result>
+			<result>
+			<name>松江区基督教小昆山耶稣堂(东北门)</name>
+			<location>
+				<lat>31.046836</lat>
+				<lng>121.139459</lng>
+			</location>
+							<address>鹤溪街129</address>
+													<uid>a0b60dd9fad0c3e23a04b128</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

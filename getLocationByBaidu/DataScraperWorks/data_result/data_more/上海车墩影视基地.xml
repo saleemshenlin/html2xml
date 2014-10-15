@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>松江影视基地</name>
+			<location>
+				<lat>31.016759</lat>
+				<lng>121.318152</lng>
+			</location>
+							<address>上海松江区车墩镇北松公路4915号</address>
+										<telephone>021-57601627</telephone>
+										<uid>6fd635f7c6e93c9a8605bfb8</uid>
+								</result>
+			<result>
+			<name>速8酒店（上海松江车墩影视城南姚路店）</name>
+			<location>
+				<lat>31.025045</lat>
+				<lng>121.316787</lng>
+			</location>
+							<address>松江区车墩镇南姚路88号(振兴路与南姚路交汇口)</address>
+										<telephone>(021)57608877</telephone>
+										<uid>8d8f9d1dea7f925fbe4842f0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>云顶国际商业广场</name>
+			<location>
+				<lat>31.177786</lat>
+				<lng>121.52048</lng>
+			</location>
+							<address>东明路邹平路</address>
+										<telephone>(021)68580057</telephone>
+										<uid>1c520c44349e1459b8bd63c2</uid>
+								</result>
+			<result>
+			<name>云顶国际商业广场租赁部</name>
+			<location>
+				<lat>31.178543</lat>
+				<lng>121.520582</lng>
+			</location>
+							<address>浦东新区成山路800号(邹平璐)</address>
+										<telephone>(021)31105000-1282</telephone>
+										<uid>3a78d64650c96592fda778a3</uid>
+								</result>
+			<result>
+			<name>云顶国际商业广场-停车场</name>
+			<location>
+				<lat>31.177747</lat>
+				<lng>121.520142</lng>
+			</location>
+							<address>成山路800号</address>
+													<uid>39d43f82de9f23f8a8059d53</uid>
+								</result>
+			<result>
+			<name>银尊娱乐会所</name>
+			<location>
+				<lat>31.178543</lat>
+				<lng>121.520582</lng>
+			</location>
+							<address>浦东新区成山路800号云顶国际商务广场（近邹平路）</address>
+										<telephone>(021)22065590</telephone>
+										<uid>7602c945f6bef4569a0050de</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

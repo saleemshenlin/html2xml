@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>北菁园</name>
+			<location>
+				<lat>31.162175</lat>
+				<lng>121.140865</lng>
+			</location>
+							<address>上海市青浦区华科路400号</address>
+													<uid>a74481d6c884f03bf503b813</uid>
+								</result>
+			<result>
+			<name>北菁园科普活动室</name>
+			<location>
+				<lat>31.162507</lat>
+				<lng>121.141114</lng>
+			</location>
+							<address>上海市青浦区</address>
+													<uid>32e7131235580436eaf853c7</uid>
+								</result>
+			<result>
+			<name>四时春点心店</name>
+			<location>
+				<lat>31.161541</lat>
+				<lng>121.142137</lng>
+			</location>
+							<address>上海青浦区华浦路157号(近北箐园)</address>
+										<telephone>13641786453</telephone>
+										<uid>251374c9525cbc26a11de911</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

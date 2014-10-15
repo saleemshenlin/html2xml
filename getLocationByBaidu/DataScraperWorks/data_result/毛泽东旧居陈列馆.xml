@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海毛泽东旧居陈列馆</name>
+			<location>
+				<lat>31.232317</lat>
+				<lng>121.466754</lng>
+			</location>
+							<address>茂名北路120弄5-9号</address>
+										<telephone>(021)62723656</telephone>
+										<uid>74c933fb5e9b5e5f9f82ea88</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>真觉之门</name>
+			<location>
+				<lat>31.24821</lat>
+				<lng>121.451147</lng>
+			</location>
+							<address>江宁路1017号</address>
+										<telephone>(021)62663668</telephone>
+										<uid>c9ede5a26e031c783fe231e4</uid>
+								</result>
+			<result>
+			<name>真觉之门-东门</name>
+			<location>
+				<lat>31.248379</lat>
+				<lng>121.451642</lng>
+			</location>
+							<address>江宁路1017号</address>
+													<uid>9abce6d3d04eff546f3e1b19</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>南社纪念馆</name>
+			<location>
+				<lat>30.807609</lat>
+				<lng>121.292193</lng>
+			</location>
+							<address>上海市金山区张堰镇新华路139号姚光故居内</address>
+										<telephone>(021)57212910</telephone>
+										<uid>a5ef680f1877f3d4b9df8f6e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>捉妖记大悦城鬼屋第四季</name>
+			<location>
+				<lat>31.248796</lat>
+				<lng>121.478203</lng>
+			</location>
+							<address>上海市闸北区西藏北路166号上海大悦城3F中庭</address>
+													<uid>c407498309f12f5951e5c5ce</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

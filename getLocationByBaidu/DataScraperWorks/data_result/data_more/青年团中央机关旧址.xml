@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>中国社会主义青年团中央机关旧址纪念馆</name>
+			<location>
+				<lat>31.226303</lat>
+				<lng>121.474698</lng>
+			</location>
+							<address>卢湾区淮海中路567弄1-6号(近成都南路)</address>
+										<telephone>(021)53823370,(021)53065872</telephone>
+										<uid>f757e6ee6dc1f00e270bd0e5</uid>
+								</result>
+			<result>
+			<name>青年团中央机关旧址陈列室</name>
+			<location>
+				<lat>31.226118</lat>
+				<lng>121.474834</lng>
+			</location>
+							<address>淮海中路567弄1-23号</address>
+										<telephone>(021)53823370</telephone>
+										<uid>afbeb2a61223e6e33b221c0b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

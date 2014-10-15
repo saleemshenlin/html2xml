@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>庆云寺</name>
+			<location>
+				<lat>31.248225</lat>
+				<lng>121.722243</lng>
+			</location>
+							<address>浦东新区合庆镇庆丰村龙东大道6907号（东川公路口）</address>
+										<telephone>(021)58576069</telephone>
+										<uid>f3c2373c6633e753d22dd67c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

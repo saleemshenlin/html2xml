@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>滨江规划展示中心</name>
+			<location>
+				<lat>31.194824</lat>
+				<lng>121.476938</lng>
+			</location>
+							<address>徐汇区瑞宁路99号(近江滨路)</address>
+													<uid>d4034eb36ab9cf88c0364410</uid>
+								</result>
+			<result>
+			<name>徐汇滨江规划展示中心-停车场</name>
+			<location>
+				<lat>31.194901</lat>
+				<lng>121.477193</lng>
+			</location>
+							<address>上海市徐汇区</address>
+													<uid>8860f36f0615720e33621261</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

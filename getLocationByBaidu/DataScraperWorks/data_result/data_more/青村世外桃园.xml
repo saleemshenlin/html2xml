@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>世外桃源野外拓展基地</name>
+			<location>
+				<lat>30.929753</lat>
+				<lng>121.587986</lng>
+			</location>
+							<address>青村镇西吴桃园路118号</address>
+										<telephone>(021)37595997</telephone>
+										<uid>88e80bb856bd76176b49f313</uid>
+								</result>
+			<result>
+			<name>世外桃源野战营</name>
+			<location>
+				<lat>30.930001</lat>
+				<lng>121.587932</lng>
+			</location>
+							<address>青村镇西吴村桃源弄118号</address>
+										<telephone>(021)37595997,15221816272</telephone>
+										<uid>c7923a1a29e9def7b5147ff9</uid>
+								</result>
+			<result>
+			<name>世外桃源CS野战一日游</name>
+			<location>
+				<lat>30.947486</lat>
+				<lng>121.60023</lng>
+			</location>
+							<address>奉贤区青村镇西吴村航吴路184号</address>
+										<telephone>(021)37595997</telephone>
+										<uid>e5bbdb189764fdc8b5f42f78</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

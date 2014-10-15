@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>望仙安息园</name>
+			<location>
+				<lat>31.364657</lat>
+				<lng>121.144001</lng>
+			</location>
+							<address>外钱公路1515号</address>
+													<uid>8fde79cc5e1cf9c294ca07b1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

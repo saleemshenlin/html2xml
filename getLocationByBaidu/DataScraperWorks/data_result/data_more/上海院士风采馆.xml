@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海院士风采馆</name>
+			<location>
+				<lat>31.300593</lat>
+				<lng>121.534451</lng>
+			</location>
+							<address>上海市杨浦区国顺东路369号黄兴公园内(近双阳北路)</address>
+										<telephone>(021)55226911</telephone>
+										<uid>ea4a3dc9bf32b22f4e5547d1</uid>
+								</result>
+			<result>
+			<name>上海院士风采馆停车场</name>
+			<location>
+				<lat>31.300971</lat>
+				<lng>121.53458</lng>
+			</location>
+							<address>杨浦区国顺东路369号</address>
+													<uid>e7577132267bd436cae33cf4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

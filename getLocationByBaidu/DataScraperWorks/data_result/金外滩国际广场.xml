@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>金外滩国际广场</name>
+			<location>
+				<lat>31.229337</lat>
+				<lng>121.506292</lng>
+			</location>
+							<address>上海黄浦区外咸瓜街89临</address>
+										<telephone>(021)63526666</telephone>
+										<uid>660957b3385ce1593f9a5e09</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

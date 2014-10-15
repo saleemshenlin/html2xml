@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>宋庆龄故居纪念馆</name>
+			<location>
+				<lat>31.210584</lat>
+				<lng>121.445171</lng>
+			</location>
+							<address>徐汇区淮海中路1843号(淮海中路余庆路)</address>
+										<telephone>(021)64747183</telephone>
+										<uid>bb91284b06e2bafaa6da39c8</uid>
+								</result>
+			<result>
+			<name>宋庆龄故居纪念馆</name>
+			<location>
+				<lat>31.210584</lat>
+				<lng>121.445172</lng>
+			</location>
+							<address>长宁区淮海中路1843号（淮海中路余庆路）</address>
+										<telephone>(021)64747183</telephone>
+										<uid>6025a9e34b44b1c429fc4888</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

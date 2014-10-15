@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>《新青年》编辑部旧址</name>
+			<location>
+				<lat>31.225469</lat>
+				<lng>121.475343</lng>
+			</location>
+							<address>卢湾区南昌路100弄2号(近瑞金一路)</address>
+													<uid>696aedc2109f1d7ab34c49ec</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

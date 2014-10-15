@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>巴西驻上海总领事馆</name>
+			<location>
+				<lat>31.237373</lat>
+				<lng>121.461403</lng>
+			</location>
+							<address>江宁路188号亚盛大厦7层703</address>
+										<telephone>(021)64370110</telephone>
+										<uid>6f7f76225e99df11f7e73b36</uid>
+								</result>
+			<result>
+			<name>巴西驻上海领事馆</name>
+			<location>
+				<lat>31.23569</lat>
+				<lng>121.463501</lng>
+			</location>
+							<address>南京西路1038号梅龙镇商厦21层2107A</address>
+													<uid>f6e83f1de01a7e4f7dc876ec</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

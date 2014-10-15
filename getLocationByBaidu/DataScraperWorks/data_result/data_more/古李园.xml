@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>古李园</name>
+			<location>
+				<lat>31.276886</lat>
+				<lng>121.663914</lng>
+			</location>
+							<address>曹路镇民耀路</address>
+													<uid>bb1d38e4677f41540d0a70b3</uid>
+								</result>
+			<result>
+			<name>古李园</name>
+			<location>
+				<lat>31.273043</lat>
+				<lng>121.664587</lng>
+			</location>
+							<address>浦东新区金海路2727号杉达大学后门（近民耀路）</address>
+													<uid>a52b4def5ecc57c528b97cae</uid>
+								</result>
+			<result>
+			<name>竹青亭影吧</name>
+			<location>
+				<lat>31.273043</lat>
+				<lng>121.664596</lng>
+			</location>
+							<address>浦东新区金海路2727号杉达后门（古梨园出口）</address>
+										<telephone>(021)50219648</telephone>
+										<uid>592828f6573e342843ab9a18</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

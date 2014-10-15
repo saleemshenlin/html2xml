@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天主教上海教区傅家天主堂</name>
+			<location>
+				<lat>31.24797</lat>
+				<lng>121.538794</lng>
+			</location>
+							<address>浦东大道1115号</address>
+										<telephone>(021)58853172</telephone>
+										<uid>083a55fafb58d778246e984d</uid>
+								</result>
+			<result>
+			<name>天主教上海教区傅家天主堂-东南门</name>
+			<location>
+				<lat>31.247932</lat>
+				<lng>121.538735</lng>
+			</location>
+							<address>浦东大道1115</address>
+													<uid>7582c87f131c2426c1f1cf76</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

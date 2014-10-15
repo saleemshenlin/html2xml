@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>虹火庄园</name>
+			<location>
+				<lat>31.147905</lat>
+				<lng>121.723953</lng>
+			</location>
+							<address>上海浦东新区川沙路7855号景观农业园(近川吴路)</address>
+										<telephone>(021)58599677</telephone>
+										<uid>5c56edd674ea3443a0d230ed</uid>
+								</result>
+			<result>
+			<name>虹火庄园-南门</name>
+			<location>
+				<lat>31.147998</lat>
+				<lng>121.724223</lng>
+			</location>
+							<address>川沙·农场路附近</address>
+													<uid>b371804160d5666ec61b7556</uid>
+								</result>
+			<result>
+			<name>虹火庄园-西南门</name>
+			<location>
+				<lat>31.148075</lat>
+				<lng>121.723127</lng>
+			</location>
+							<address>川沙路7818号附近</address>
+													<uid>4d26477a97557fe8f7eafc97</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>5</total>
+    <results>
+			<result>
+			<name>上海花园老洋房</name>
+			<location>
+				<lat>31.212491</lat>
+				<lng>121.448034</lng>
+			</location>
+							<address>淮海中路1759弄</address>
+													<uid>cb48090d1f7cafcc8a36eea0</uid>
+								</result>
+			<result>
+			<name>老洋房花园饭店</name>
+			<location>
+				<lat>31.214939</lat>
+				<lng>121.469639</lng>
+			</location>
+							<address>卢湾区绍兴路27号</address>
+										<telephone>4007339993</telephone>
+										<uid>fd8d52f2ef8847893486f487</uid>
+								</result>
+			<result>
+			<name>溧园咖啡</name>
+			<location>
+				<lat>31.268575</lat>
+				<lng>121.493802</lng>
+			</location>
+							<address>虹口区溧阳路1208弄5号老洋房花园内（四川北路四平路间）</address>
+										<telephone>(021)56962903</telephone>
+										<uid>ab8ce886aa360faef503b8f6</uid>
+								</result>
+			<result>
+			<name>溧园</name>
+			<location>
+				<lat>31.268506</lat>
+				<lng>121.493775</lng>
+			</location>
+							<address>虹口区溧阳路1208弄5号老洋房花园内(近四川北路)</address>
+										<telephone>(021)56962903</telephone>
+										<uid>923ffd0052fe72aed92f2818</uid>
+								</result>
+			<result>
+			<name>杂志社zak ka zine</name>
+			<location>
+				<lat>31.225253</lat>
+				<lng>121.474935</lng>
+			</location>
+							<address>上海卢湾区南昌路110弄上海别墅16号底楼小花园老洋房(雁荡路)</address>
+										<telephone>(021)53068223</telephone>
+										<uid>512e512ce30721cf8e772754</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

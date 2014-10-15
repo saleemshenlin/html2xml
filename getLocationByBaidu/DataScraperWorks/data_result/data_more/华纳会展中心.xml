@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>华纳会展中心</name>
+			<location>
+				<lat>31.175755</lat>
+				<lng>121.398128</lng>
+			</location>
+							<address>闵行区莲花路1978号(近宜山路)</address>
+													<uid>d24e48eb36df61b5afee7a19</uid>
+								</result>
+			<result>
+			<name>华纳会展中心</name>
+			<location>
+				<lat>31.175755</lat>
+				<lng>121.398125</lng>
+			</location>
+							<address>闵行区莲花路1978号（近宜山路）</address>
+													<uid>294f936c0dbb72cfd4851f7e</uid>
+								</result>
+			<result>
+			<name>华纳时尚酒店</name>
+			<location>
+				<lat>31.176203</lat>
+				<lng>121.398138</lng>
+			</location>
+							<address>华纳时尚酒店一楼（闵行区莲花路1978号）</address>
+										<telephone>(021)61205666</telephone>
+										<uid>64115045a7969cdbf90cadd7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>罗马尼亚驻总领事馆</name>
+			<location>
+				<lat>31.233112</lat>
+				<lng>121.473168</lng>
+			</location>
+							<address>黄浦区成都北路199号(近威海路)</address>
+										<telephone>(021)62700361</telephone>
+										<uid>df23b46e337617bea11de9fe</uid>
+								</result>
+			<result>
+			<name>罗马尼亚驻上海总领事馆</name>
+			<location>
+				<lat>31.233112</lat>
+				<lng>121.473173</lng>
+			</location>
+							<address>上海市成都北路199号(威海路)恒利国际大厦502</address>
+										<telephone>(021)62701146</telephone>
+										<uid>10094dbae62d646d9122e007</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

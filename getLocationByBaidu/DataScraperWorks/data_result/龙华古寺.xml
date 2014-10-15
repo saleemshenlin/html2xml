@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>龙华素斋(龙华古寺店)</name>
+			<location>
+				<lat>31.180876</lat>
+				<lng>121.458739</lng>
+			</location>
+							<address>龙华路2787号(龙华古寺东侧)</address>
+										<telephone>(021)64574805,(021)64571197,(021)51088000</telephone>
+										<uid>37d60a46f841211e1e1d114d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

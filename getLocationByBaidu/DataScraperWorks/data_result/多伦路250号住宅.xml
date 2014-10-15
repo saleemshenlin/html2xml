@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>多伦路250号住宅</name>
+			<location>
+				<lat>31.270404</lat>
+				<lng>121.488376</lng>
+			</location>
+							<address>多伦路250</address>
+													<uid>41889410ebcd83781e5800da</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海世博会纪念展</name>
+			<location>
+				<lat>31.199997</lat>
+				<lng>121.490185</lng>
+			</location>
+							<address>乘18、318、1212路等公交车在龙华东路蒙自路站下车后步行约250米可达</address>
+										<telephone>(021)63326262</telephone>
+										<uid>9fbcd6d64f316bbcd12dd67f</uid>
+								</result>
+			<result>
+			<name>上海世博会纪念展-停车场</name>
+			<location>
+				<lat>31.198831</lat>
+				<lng>121.489934</lng>
+			</location>
+							<address>上海市卢湾区</address>
+													<uid>01f6b511db3ba2e48f55ecaf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

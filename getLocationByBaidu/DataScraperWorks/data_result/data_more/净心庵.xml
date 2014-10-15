@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>净心庵</name>
+			<location>
+				<lat>30.91204</lat>
+				<lng>121.851278</lng>
+			</location>
+							<address>泥城镇</address>
+										<telephone>(021)58070209</telephone>
+										<uid>5e53af1a9a77f45e4051c084</uid>
+								</result>
+			<result>
+			<name>上海峻叶制衣设备有限公司</name>
+			<location>
+				<lat>30.912304</lat>
+				<lng>121.85128</lng>
+			</location>
+							<address>秋祥路净心庵附近</address>
+													<uid>b744ca5ea263157ec6effb67</uid>
+								</result>
+			<result>
+			<name>泥城镇横港村文化活动服务中心</name>
+			<location>
+				<lat>30.912102</lat>
+				<lng>121.851301</lng>
+			</location>
+							<address>秋祥路净心庵附近</address>
+													<uid>cdef4edfaa315e4f28d7ab16</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

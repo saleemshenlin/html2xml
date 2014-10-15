@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>新东宫广场</name>
+			<location>
+				<lat>31.271739</lat>
+				<lng>121.546039</lng>
+			</location>
+							<address>平凉路1500号</address>
+													<uid>56e88cba590f4964a4c75621</uid>
+								</result>
+			<result>
+			<name>新东宫广场3号楼</name>
+			<location>
+				<lat>31.271238</lat>
+				<lng>121.545691</lng>
+			</location>
+							<address>上海市杨浦区</address>
+													<uid>36b35c96037e3e3ee5e96584</uid>
+								</result>
+			<result>
+			<name>新东宫广场4号楼</name>
+			<location>
+				<lat>31.270505</lat>
+				<lng>121.546414</lng>
+			</location>
+							<address>上海市杨浦区</address>
+													<uid>09cf5237629f394209b93ab6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

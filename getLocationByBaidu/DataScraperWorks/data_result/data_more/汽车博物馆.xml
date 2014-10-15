@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海汽车博物馆</name>
+			<location>
+				<lat>31.284624</lat>
+				<lng>121.176653</lng>
+			</location>
+							<address>嘉定区安亭博园路7565号(近墨玉南路)</address>
+										<telephone>(021)69550055</telephone>
+										<uid>4bb049d98f556a5e9900504e</uid>
+								</result>
+			<result>
+			<name>汽车博物馆</name>
+			<location>
+				<lat>31.286175</lat>
+				<lng>121.176227</lng>
+			</location>
+							<address>闵行区安亭博园路7565号（上海汽车博场馆）</address>
+										<telephone>(021)69550055</telephone>
+										<uid>58021d9dfb72a3e3c91b95c0</uid>
+								</result>
+			<result>
+			<name>汽车博物馆咖啡厅</name>
+			<location>
+				<lat>31.284624</lat>
+				<lng>121.176649</lng>
+			</location>
+							<address>上海嘉定区安亭博园路7565号汽车博物馆内(近墨玉南路)</address>
+													<uid>d5464cf820b50e4efda778fc</uid>
+								</result>
+			<result>
+			<name>靓车一族汽车美容</name>
+			<location>
+				<lat>31.06044</lat>
+				<lng>121.773911</lng>
+			</location>
+							<address>浦东新区惠南镇文师街53号（近南汇博物馆）</address>
+										<telephone>15000511295</telephone>
+										<uid>cd22c1e77960cea351e5c5b7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

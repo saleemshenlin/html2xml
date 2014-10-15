@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>浦东第一图书馆</name>
+			<location>
+				<lat>31.247723</lat>
+				<lng>121.52552</lng>
+			</location>
+							<address>浦东新区东方路38号(近昌邑路)</address>
+										<telephone>(021)58828788</telephone>
+										<uid>21bd70eabc9d8323e0110368</uid>
+								</result>
+			<result>
+			<name>浦东第一图书馆</name>
+			<location>
+				<lat>31.247723</lat>
+				<lng>121.525517</lng>
+			</location>
+							<address>浦东新区东方路38号（近昌邑路）</address>
+										<telephone>(021)58400378</telephone>
+										<uid>bb239bbd9eaa97f6a11de931</uid>
+								</result>
+			<result>
+			<name>上海海洋大学图书馆</name>
+			<location>
+				<lat>30.891597</lat>
+				<lng>121.903609</lng>
+			</location>
+							<address>浦东新区临港新城沪城环路999号海洋大学内（近滨果公路）</address>
+										<telephone>(021)61900000</telephone>
+										<uid>0f67daf10cf11f43bda24055</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

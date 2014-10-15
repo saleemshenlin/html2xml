@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>泰日老街</name>
+			<location>
+				<lat>30.992544</lat>
+				<lng>121.567086</lng>
+			</location>
+							<address>川奉专线</address>
+													<uid>2e7c0ee3f77fd17c2902e1c2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

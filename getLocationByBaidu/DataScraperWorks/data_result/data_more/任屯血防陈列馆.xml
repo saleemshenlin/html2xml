@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>青浦任屯血防陈列馆</name>
+			<location>
+				<lat>31.051972</lat>
+				<lng>120.979825</lng>
+			</location>
+							<address>青浦区金泽镇西岑任屯村111号</address>
+										<telephone>(021)59865483</telephone>
+										<uid>48d15b855a77adde21f0173c</uid>
+								</result>
+			<result>
+			<name>青浦任屯血防陈列馆</name>
+			<location>
+				<lat>31.051972</lat>
+				<lng>120.97983</lng>
+			</location>
+							<address>金泽镇西岑任屯村111号(近任屯支路)</address>
+										<telephone>(021)59271483</telephone>
+										<uid>63c86b4ba3dec8067c29bdea</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

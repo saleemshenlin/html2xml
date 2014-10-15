@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>陆家嘴开发陈列馆</name>
+			<location>
+				<lat>31.242351</lat>
+				<lng>121.513586</lng>
+			</location>
+							<address>浦东新区陆家嘴东路15号（陆家嘴东路世纪大道）</address>
+										<telephone>(021)58879964</telephone>
+										<uid>d5d47f2cde816147adcb667c</uid>
+								</result>
+			<result>
+			<name>浦东开发陈列馆</name>
+			<location>
+				<lat>31.244968</lat>
+				<lng>121.520367</lng>
+			</location>
+							<address>浦东大道141号</address>
+										<telephone>(021)20235516</telephone>
+										<uid>39d43f8273b0b687a8059d7d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

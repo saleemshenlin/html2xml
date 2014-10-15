@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>外滩建筑群</name>
+			<location>
+				<lat>31.244119</lat>
+				<lng>121.496147</lng>
+			</location>
+							<address>上海市黄浦区中山东一路(北至外白渡桥、南至十六铺码头)</address>
+													<uid>5c2dc21dd3dcd2056ec02cab</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

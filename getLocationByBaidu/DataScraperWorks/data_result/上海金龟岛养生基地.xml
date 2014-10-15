@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海金龟岛养生基地</name>
+			<location>
+				<lat>31.053689</lat>
+				<lng>120.926044</lng>
+			</location>
+							<address>上海金泽镇建国村（G50金泽出口大转）</address>
+										<telephone>(021)59260322</telephone>
+										<uid>43d3fb9b5981644bc6f50df5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

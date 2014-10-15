@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>胥浦庙</name>
+			<location>
+				<lat>30.847202</lat>
+				<lng>121.16592</lng>
+			</location>
+							<address>马新村栖凤3052</address>
+													<uid>50f7d146b502d6c772210bf9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

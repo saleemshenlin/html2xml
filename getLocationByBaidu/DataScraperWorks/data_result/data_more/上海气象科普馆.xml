@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海浦东气象科普馆</name>
+			<location>
+				<lat>31.225855</lat>
+				<lng>121.559116</lng>
+			</location>
+							<address>浦东新区锦绣路951号(锦绣路民生路)</address>
+										<telephone>(021)58331741,(021)58331741,(021)58336470,18918206350</telephone>
+										<uid>34f68ab074f4970b8e55ecb0</uid>
+								</result>
+			<result>
+			<name>气象科普馆</name>
+			<location>
+				<lat>31.225863</lat>
+				<lng>121.558872</lng>
+			</location>
+							<address>浦东新区锦绣路951号（锦绣路民生路）</address>
+										<telephone>(021)58336470</telephone>
+										<uid>684e293f75ebbd299d82ea22</uid>
+								</result>
+			<result>
+			<name>松江区气象科普馆</name>
+			<location>
+				<lat>31.040795</lat>
+				<lng>121.24487</lng>
+			</location>
+							<address>松江区南青路8号</address>
+													<uid>3144478d6b1fcc1885420e20</uid>
+								</result>
+			<result>
+			<name>环保(气象)科普馆</name>
+			<location>
+				<lat>31.115843</lat>
+				<lng>121.022771</lng>
+			</location>
+							<address>上海市青浦区绿湖路425弄17号</address>
+													<uid>c2d632d3e90d7789047ce82e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

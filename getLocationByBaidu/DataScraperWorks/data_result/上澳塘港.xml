@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上澳塘港桥</name>
+			<location>
+				<lat>31.193997</lat>
+				<lng>121.404265</lng>
+			</location>
+							<address>上海市闵行区</address>
+													<uid>aa40108ba9441514c5effb36</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

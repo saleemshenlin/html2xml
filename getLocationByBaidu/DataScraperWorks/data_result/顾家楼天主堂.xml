@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>顾家楼天主堂</name>
+			<location>
+				<lat>31.151112</lat>
+				<lng>121.61894</lng>
+			</location>
+							<address>横沔镇汤巷村156</address>
+													<uid>3be122e1f411462c1ff74d84</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

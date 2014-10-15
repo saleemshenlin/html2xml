@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>厦门市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>泉州市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>泰安市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>南昌市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

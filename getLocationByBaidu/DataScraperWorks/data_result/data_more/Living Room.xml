@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>Living Room</name>
+			<location>
+				<lat>31.24002</lat>
+				<lng>121.513945</lng>
+			</location>
+							<address>上海浦东新区世纪大道100号环球金融中心上海柏悦酒店87楼(近东泰路)</address>
+										<telephone>(021)68881234</telephone>
+										<uid>1eeed546b361e8ebb5147f62</uid>
+								</result>
+			<result>
+			<name>Living Room</name>
+			<location>
+				<lat>31.214468</lat>
+				<lng>121.475071</lng>
+			</location>
+							<address>卢湾区泰康路258号田子坊3号(近瑞金二路)</address>
+										<telephone>(021)34611342</telephone>
+										<uid>8e6dccb334d69fb2714b8758</uid>
+								</result>
+			<result>
+			<name>Living Room</name>
+			<location>
+				<lat>31.225654</lat>
+				<lng>121.461433</lng>
+			</location>
+							<address>徐汇区襄阳北路55号(近长乐路)</address>
+													<uid>69fcd6df8d340836ca2915c7</uid>
+								</result>
+			<result>
+			<name>The Living Room</name>
+			<location>
+				<lat>31.223531</lat>
+				<lng>121.449958</lng>
+			</location>
+							<address>静安区华山路480号（近乌鲁木齐中路）</address>
+										<telephone>(021)62482206</telephone>
+										<uid>35debf298aa0215da6da391a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>爱尔兰驻上海总领事馆农业食品处</name>
+			<location>
+				<lat>31.23342</lat>
+				<lng>121.458654</lng>
+			</location>
+							<address>南京西路1376号上海商城东办公楼7楼733</address>
+													<uid>990183b77a18e7fbe60738ef</uid>
+								</result>
+			<result>
+			<name>爱尔兰驻上海总领事馆</name>
+			<location>
+				<lat>31.23342</lat>
+				<lng>121.458654</lng>
+			</location>
+							<address>南京西路1376号上海商城东办公楼7楼700A室</address>
+										<telephone>(021)62798726</telephone>
+										<uid>76e466faf61556bf4c6d46f5</uid>
+								</result>
+			<result>
+			<name>爱尔兰驻上海总领事馆经济处</name>
+			<location>
+				<lat>31.23342</lat>
+				<lng>121.458654</lng>
+			</location>
+							<address>南京西路1376号上海商城东办公楼6楼655</address>
+													<uid>77749ca1b0b93c391b94c64c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

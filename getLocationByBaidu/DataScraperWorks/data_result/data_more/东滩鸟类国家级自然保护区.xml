@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海崇明东滩鸟类国家级自然保护区</name>
+			<location>
+				<lat>31.51579</lat>
+				<lng>121.968301</lng>
+			</location>
+							<address>东滩东旺大道</address>
+										<telephone>(021)59472291</telephone>
+										<uid>41572e00850cd6b7b45f1ecd</uid>
+								</result>
+			<result>
+			<name>东滩鸟类国家级自然保护区管理处</name>
+			<location>
+				<lat>31.525725</lat>
+				<lng>121.918736</lng>
+			</location>
+							<address>东滩东旺大道</address>
+										<telephone>(021)59472291</telephone>
+										<uid>c12889366d0a3af4ebe58293</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

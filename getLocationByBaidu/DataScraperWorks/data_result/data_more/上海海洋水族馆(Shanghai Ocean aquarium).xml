@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海海洋水族馆</name>
+			<location>
+				<lat>31.246234</lat>
+				<lng>121.50818</lng>
+			</location>
+							<address>浦东新区陆家嘴环路1388号(近东方明珠)</address>
+										<telephone>(021)58779988</telephone>
+										<uid>ac76cda0a74c57075fd4fe79</uid>
+								</result>
+			<result>
+			<name>上海海洋大学校史馆</name>
+			<location>
+				<lat>30.88942</lat>
+				<lng>121.901859</lng>
+			</location>
+							<address>浦东新区临港新城沪城环路999号（近图书馆）</address>
+													<uid>d94d41cd54d485eb9e82ea41</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海淀山湖风景游览区</name>
+			<location>
+				<lat>31.078412</lat>
+				<lng>120.916809</lng>
+			</location>
+							<address>上海市青浦区金商公路900号青浦大观园梅园隔壁</address>
+										<telephone>13022145694</telephone>
+										<uid>cdef4edf0464a45728d7abdd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

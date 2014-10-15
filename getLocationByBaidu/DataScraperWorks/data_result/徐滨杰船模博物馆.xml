@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>徐滨杰船模博物馆</name>
+			<location>
+				<lat>31.302036</lat>
+				<lng>121.488811</lng>
+			</location>
+							<address>虹口区新市南路841弄16号201室</address>
+										<telephone>(021)65615259</telephone>
+										<uid>2ddd297e1b59091cb2077d30</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

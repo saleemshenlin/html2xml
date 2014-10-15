@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>意大利驻上海总领事馆</name>
+			<location>
+				<lat>31.221848</lat>
+				<lng>121.453376</lng>
+			</location>
+							<address>长乐路989号世纪商贸广场二区1907-1911A</address>
+										<telephone>(021)54075588</telephone>
+										<uid>3b9e89d063813a549cf77926</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

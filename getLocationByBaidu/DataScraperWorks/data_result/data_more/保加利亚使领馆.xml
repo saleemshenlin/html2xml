@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>保加利亚驻上海总领事馆</name>
+			<location>
+				<lat>31.196939</lat>
+				<lng>121.382983</lng>
+			</location>
+							<address>虹桥路2272号虹桥商务大厦7楼K座</address>
+										<telephone>(021)62376183</telephone>
+										<uid>a463cf9cb7db3fd33010afd8</uid>
+								</result>
+			<result>
+			<name>保加利亚共和国总领事馆</name>
+			<location>
+				<lat>31.196847</lat>
+				<lng>121.382948</lng>
+			</location>
+							<address>虹桥路2378号虹桥商务大厦1号楼7层K座</address>
+										<telephone>(021)62376183</telephone>
+										<uid>07a4603b75816e424107c103</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

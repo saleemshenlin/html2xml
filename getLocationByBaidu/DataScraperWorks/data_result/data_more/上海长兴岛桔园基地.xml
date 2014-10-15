@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>长兴岛桔园</name>
+			<location>
+				<lat>31.397983</lat>
+				<lng>121.720801</lng>
+			</location>
+							<address>崇明县长兴岛桔园路到底桔洲穹庐（G40长兴岛出口右边斜对面50米处）</address>
+										<telephone>(021)61620647,18918976719</telephone>
+										<uid>ef28792398b623b64bcc4a4c</uid>
+								</result>
+			<result>
+			<name>桔园户外活动基地</name>
+			<location>
+				<lat>31.397983</lat>
+				<lng>121.720797</lng>
+			</location>
+							<address>崇明县崇明长兴岛潘园公路1501号(近桔园度假村)</address>
+										<telephone>(021)61620797</telephone>
+										<uid>fbcc6585f2efbae9e8f85394</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

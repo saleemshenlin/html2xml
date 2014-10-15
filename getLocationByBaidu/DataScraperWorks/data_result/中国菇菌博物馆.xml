@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>中国菇菌博物馆</name>
+			<location>
+				<lat>30.980093</lat>
+				<lng>121.487383</lng>
+			</location>
+							<address>奉贤区奉贤金海公路7299号</address>
+										<telephone>(021)37195799</telephone>
+										<uid>480b24d015d3758f9cec2bc0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

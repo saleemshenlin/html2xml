@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海轮渡水上旅游巴士</name>
+			<location>
+				<lat>31.238106</lat>
+				<lng>121.499661</lng>
+			</location>
+							<address>上海市黄浦区中山东二路(外滩)141号</address>
+										<telephone>(021)63188888,(021)63237755</telephone>
+										<uid>23db112fe23ce99532870a76</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

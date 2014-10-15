@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>挑战者密室桌游</name>
+			<location>
+				<lat>31.14279</lat>
+				<lng>121.325426</lng>
+			</location>
+							<address>上海市松江区沪松公路1399弄167号商铺</address>
+										<telephone>(021)67618218,18001722338</telephone>
+										<uid>4a87a2bea04bc76f744ff13a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

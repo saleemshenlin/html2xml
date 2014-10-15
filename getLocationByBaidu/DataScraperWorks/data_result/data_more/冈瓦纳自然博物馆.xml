@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>冈瓦纳自然博物馆</name>
+			<location>
+				<lat>31.038088</lat>
+				<lng>121.239663</lng>
+			</location>
+							<address>松江区松江新城区鼎信公寓158号101室（近9号线松江新城站）</address>
+										<telephone>(021)67737531</telephone>
+										<uid>2ae72e3f2e5889c4d42ce210</uid>
+								</result>
+			<result>
+			<name>冈瓦纳自然博物馆</name>
+			<location>
+				<lat>31.037245</lat>
+				<lng>121.240594</lng>
+			</location>
+							<address>松江区谷阳北路1251号鼎信公寓</address>
+										<telephone>(021)67737531</telephone>
+										<uid>e689590424734c793362127b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

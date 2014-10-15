@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>匈牙利驻上海总领事馆</name>
+			<location>
+				<lat>31.236717</lat>
+				<lng>121.485431</lng>
+			</location>
+							<address>广东路689号海通证券大厦28层2811室</address>
+										<telephone>(021)63410564</telephone>
+										<uid>f3de15de8968f7f788db73d7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

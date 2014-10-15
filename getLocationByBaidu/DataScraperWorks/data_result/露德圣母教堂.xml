@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>露德圣母大教堂</name>
+			<location>
+				<lat>31.215664</lat>
+				<lng>121.663737</lng>
+			</location>
+							<address>上海市</address>
+													<uid>a6b1778cdc4f69e8f82d6100</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

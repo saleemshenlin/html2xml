@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>SH508尊萃会馆</name>
+			<location>
+				<lat>31.208376</lat>
+				<lng>121.442221</lng>
+			</location>
+							<address>徐汇区华山路1731号</address>
+													<uid>d5f93c0ee9e75645ecdfca9a</uid>
+								</result>
+			<result>
+			<name>SH508尊萃公馆</name>
+			<location>
+				<lat>31.208368</lat>
+				<lng>121.442226</lng>
+			</location>
+							<address>徐汇区华山路1731号(近淮海西路)</address>
+										<telephone>(021)62803737</telephone>
+										<uid>f757e6ee77f0860e270bd09a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

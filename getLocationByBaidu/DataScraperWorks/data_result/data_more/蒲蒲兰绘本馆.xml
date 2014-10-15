@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>蒲蒲兰绘本馆</name>
+			<location>
+				<lat>31.229669</lat>
+				<lng>121.449625</lng>
+			</location>
+							<address>愚园路262号</address>
+										<telephone>(021)62489033</telephone>
+										<uid>be54cde978290c4178f796ce</uid>
+								</result>
+			<result>
+			<name>上海蒲蒲兰绘本馆伊势丹店</name>
+			<location>
+				<lat>31.235196</lat>
+				<lng>121.463832</lng>
+			</location>
+							<address>南京西路1038梅龙镇伊势丹7层</address>
+										<telephone>(021)62182224</telephone>
+										<uid>98a00ca2a14bd80ed92f2800</uid>
+								</result>
+			<result>
+			<name>蒲蒲兰绘本馆</name>
+			<location>
+				<lat>31.229669</lat>
+				<lng>121.449628</lng>
+			</location>
+							<address>静安区愚园路262号（近北京西路）</address>
+										<telephone>(021)62489033</telephone>
+										<uid>47af7704db92a19bce04efc1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>盛家祠堂</name>
+			<location>
+				<lat>30.922148</lat>
+				<lng>121.346603</lng>
+			</location>
+							<address>上海市松江区</address>
+													<uid>4a9ef3a0e099fe554351c072</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

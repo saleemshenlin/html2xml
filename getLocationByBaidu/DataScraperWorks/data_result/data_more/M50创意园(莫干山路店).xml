@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>M50创意园(莫干山路店)</name>
+			<location>
+				<lat>31.254492</lat>
+				<lng>121.455688</lng>
+			</location>
+							<address>普陀区莫干山路50号M50创意园区内(近澳门路)</address>
+										<telephone>(021)62660963</telephone>
+										<uid>b7021bf82ec3f4fbf4e73bfe</uid>
+								</result>
+			<result>
+			<name>M50创意园（莫干山路店）</name>
+			<location>
+				<lat>31.253627</lat>
+				<lng>121.455423</lng>
+			</location>
+							<address>普陀区莫干山路50号创意产业集聚区（近澳门路）</address>
+										<telephone>(021)62660963</telephone>
+										<uid>bf58b4299778995ec4f50d4b</uid>
+								</result>
+			<result>
+			<name>贝碧欧美术颜料(莫干山路店)</name>
+			<location>
+				<lat>31.254677</lat>
+				<lng>121.45612</lng>
+			</location>
+							<address>莫干山路50号m50创意园0号楼0-101</address>
+										<telephone>(021)62990725</telephone>
+										<uid>e308284841639da6b34c4906</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

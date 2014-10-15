@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>美国总领事馆</name>
+			<location>
+				<lat>31.215085</lat>
+				<lng>121.454072</lng>
+			</location>
+							<address>徐汇区淮海中路1469号(乌鲁木齐南路)</address>
+										<telephone>(021)64336880</telephone>
+										<uid>75036835f316d3d15e0d022e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

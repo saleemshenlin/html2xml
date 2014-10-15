@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海财经大学校部办公楼遗址</name>
+			<location>
+				<lat>31.286021</lat>
+				<lng>121.487192</lng>
+			</location>
+							<address>中山北一路369</address>
+													<uid>78dc1280150dce2a72455b21</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

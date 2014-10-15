@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>2012上海国际灯会(2012上海国际灯会)</name>
+			<location>
+				<lat>31.276307</lat>
+				<lng>121.487511</lng>
+			</location>
+							<address>东江湾路444号</address>
+										<telephone>(021)56482755</telephone>
+										<uid>2e38d53894b8c2a940e19222</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海老相机制造博物馆</name>
+			<location>
+				<lat>31.215788</lat>
+				<lng>121.47855</lng>
+			</location>
+							<address>卢湾区重庆南路308号黄浦区文化局第二文化馆</address>
+										<telephone>(021)60932278</telephone>
+										<uid>92b806d215f414e778b55cf2</uid>
+								</result>
+			<result>
+			<name>上海老相机制造博物馆</name>
+			<location>
+				<lat>31.215641</lat>
+				<lng>121.478627</lng>
+			</location>
+							<address>上海市黄浦区重庆南路308号（白玉兰剧场楼下）</address>
+										<telephone>(021)62462064,(021)60932278</telephone>
+										<uid>75739f4d67b4eabbdbd8914b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>佘山滑索道</name>
+			<location>
+				<lat>31.105957</lat>
+				<lng>121.20282</lng>
+			</location>
+							<address>东佘山北侧</address>
+										<telephone>(021)57652794</telephone>
+										<uid>2ad32cc314d5488e9c95dea6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

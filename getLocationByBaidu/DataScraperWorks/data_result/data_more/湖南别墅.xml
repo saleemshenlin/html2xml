@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>湖南别墅</name>
+			<location>
+				<lat>31.212923</lat>
+				<lng>121.451056</lng>
+			</location>
+							<address>上海市徐汇区湖南路262号</address>
+													<uid>2848ffd6d1874f0e48cc4a1c</uid>
+								</result>
+			<result>
+			<name>湖南别墅-南门</name>
+			<location>
+				<lat>31.214792</lat>
+				<lng>121.446548</lng>
+			</location>
+							<address>湖南路262</address>
+													<uid>ba1efa55d288756d28b97ca0</uid>
+								</result>
+			<result>
+			<name>湖南省人民政府驻上海办事处(石林别墅东)</name>
+			<location>
+				<lat>31.228511</lat>
+				<lng>121.440269</lng>
+			</location>
+							<address>镇宁路405弄75-77</address>
+													<uid>f3e83e029fefe9a2581093b6</uid>
+								</result>
+			<result>
+			<name>上海汉图展览公司</name>
+			<location>
+				<lat>31.214522</lat>
+				<lng>121.447599</lng>
+			</location>
+							<address>上海市徐汇区湖南路105号5号别墅</address>
+										<telephone>(021)64335688</telephone>
+										<uid>e05b789f8b08fee8734b87f6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

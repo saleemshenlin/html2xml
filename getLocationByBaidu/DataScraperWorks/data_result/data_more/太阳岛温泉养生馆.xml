@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>太阳岛温泉养生馆</name>
+			<location>
+				<lat>31.041669</lat>
+				<lng>121.096682</lng>
+			</location>
+							<address>青浦区朱家角镇沈太路2588号太阳岛内（近别墅区）</address>
+													<uid>bb0dad59fd0b2f5c27d2bb4d</uid>
+								</result>
+			<result>
+			<name>太阳岛温泉养生馆</name>
+			<location>
+				<lat>31.037832</lat>
+				<lng>121.088502</lng>
+			</location>
+							<address>上海市青浦区朱家角镇沈巷沈太路2588号太阳岛国际旅游度假区内</address>
+													<uid>dd0243074ca6176a7c29bdab</uid>
+								</result>
+			<result>
+			<name>太阳岛温泉养生馆-停车场</name>
+			<location>
+				<lat>31.037809</lat>
+				<lng>121.0886</lng>
+			</location>
+							<address>上海市青浦区朱家角镇沈巷沈太路2588号太阳岛国际旅游度假区太阳岛温泉养生馆内</address>
+													<uid>7c6ff52acf0f32d915a190eb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>新材料博物馆</name>
+			<location>
+				<lat>31.300863</lat>
+				<lng>121.311056</lng>
+			</location>
+							<address>沪宜公路1082号艺谷文化创意产业园9号楼</address>
+													<uid>87d899b5fc62767cb5147faa</uid>
+								</result>
+			<result>
+			<name>华东理工大学材料博物馆</name>
+			<location>
+				<lat>31.148052</lat>
+				<lng>121.433994</lng>
+			</location>
+							<address>徐汇区梅陇路130号</address>
+										<telephone>(021)64253365</telephone>
+										<uid>8555722fcac932aca204648e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

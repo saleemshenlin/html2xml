@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海世博会特许商品专卖店（龙华东路店）</name>
+			<location>
+				<lat>31.200847</lat>
+				<lng>121.484542</lng>
+			</location>
+							<address>卢湾区龙华东路世博园区D片区（近日本产业馆）</address>
+													<uid>7c17821d3b68f50cdb131842</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

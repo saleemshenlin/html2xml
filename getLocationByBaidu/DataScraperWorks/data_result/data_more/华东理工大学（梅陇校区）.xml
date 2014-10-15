@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>华东理工大学(徐汇校区)</name>
+			<location>
+				<lat>31.149165</lat>
+				<lng>121.431448</lng>
+			</location>
+							<address>上海市梅陇路130号</address>
+										<telephone>(021)64253300</telephone>
+										<uid>bff8fa7de04f0cb9c8213d11</uid>
+								</result>
+			<result>
+			<name>上海应用技术学院梅陇学生党支部</name>
+			<location>
+				<lat>30.849612</lat>
+				<lng>121.518469</lng>
+			</location>
+							<address>海泉路100号</address>
+										<telephone>021-60873530</telephone>
+										<uid>3238c7da30fa1935eee4a513</uid>
+								</result>
+			<result>
+			<name>杨氏厦门特色小吃</name>
+			<location>
+				<lat>31.147333</lat>
+				<lng>121.432008</lng>
+			</location>
+							<address>上海徐汇区梅陇路130号华东理工大学校区第一食堂西饭厅(近老沪闵路)</address>
+										<telephone>13764589152,15260116658</telephone>
+										<uid>b68ec210a50e580158f6bea9</uid>
+								</result>
+			<result>
+			<name>紫阳烧烤</name>
+			<location>
+				<lat>31.147333</lat>
+				<lng>121.431999</lng>
+			</location>
+							<address>徐汇区奉贤区梅陇路130号华东理工大学(校区北侧)</address>
+													<uid>118073a05b3831382d4733ab</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

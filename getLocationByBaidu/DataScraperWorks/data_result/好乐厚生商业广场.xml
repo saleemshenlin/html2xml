@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>森雁新疆特产</name>
+			<location>
+				<lat>31.258065</lat>
+				<lng>121.372933</lng>
+			</location>
+							<address>曹安公路1685号好乐厚生商业广场2楼2198</address>
+													<uid>08f1f1f53ee6c5d389db7394</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

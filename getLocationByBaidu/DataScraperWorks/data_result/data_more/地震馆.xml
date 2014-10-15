@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>地震科普馆</name>
+			<location>
+				<lat>31.098984</lat>
+				<lng>121.201661</lng>
+			</location>
+							<address>上海市松江区外青松公路9142号上海佘山国家森林公园西佘山园内</address>
+										<telephone>(021)57652473</telephone>
+										<uid>a0819ca8086c71d1c61b75db</uid>
+								</result>
+			<result>
+			<name>同济大学(嘉定校区)-地震工程馆</name>
+			<location>
+				<lat>31.296944</lat>
+				<lng>121.21639</lng>
+			</location>
+							<address>曹安公路4800号同济大学嘉定校区内</address>
+													<uid>7d6de1263103974eb45f1edb</uid>
+								</result>
+			<result>
+			<name>徐汇区地震办公室</name>
+			<location>
+				<lat>31.196708</lat>
+				<lng>121.450609</lng>
+			</location>
+							<address>南丹东路60号徐汇区科技馆</address>
+													<uid>94d6eea8000780aa3a04b1a9</uid>
+								</result>
+			<result>
+			<name>索道饭店(上海市地震局佘山地震基准台西北)</name>
+			<location>
+				<lat>31.100778</lat>
+				<lng>121.203664</lng>
+			</location>
+							<address>上海天文博物馆附近</address>
+													<uid>a324b50291021e126fc02ce6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

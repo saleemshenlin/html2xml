@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>泰国驻上海总领事馆</name>
+			<location>
+				<lat>31.232926</lat>
+				<lng>121.467597</lng>
+			</location>
+							<address>威海路567-579号晶采世纪大厦15A-C</address>
+										<telephone>(021)62883030</telephone>
+										<uid>f95215445cdec77b10293533</uid>
+								</result>
+			<result>
+			<name>泰国驻沪领事馆馆舍</name>
+			<location>
+				<lat>31.209935</lat>
+				<lng>121.407934</lng>
+			</location>
+							<address>万山路30号</address>
+													<uid>476750335c0b2d49b8df8fad</uid>
+								</result>
+			<result>
+			<name>泰王国驻上海总领事馆</name>
+			<location>
+				<lat>31.241001</lat>
+				<lng>121.497123</lng>
+			</location>
+							<address>上海市黄浦区</address>
+													<uid>b3eaacae2e03b27dd42ce202</uid>
+								</result>
+			<result>
+			<name>泰王国驻上海总领事馆农业处</name>
+			<location>
+				<lat>31.248603</lat>
+				<lng>121.464551</lng>
+			</location>
+							<address>汉中路158号汉中广场10层1008-1009</address>
+													<uid>79c9b9b28bebbc0db04c4955</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

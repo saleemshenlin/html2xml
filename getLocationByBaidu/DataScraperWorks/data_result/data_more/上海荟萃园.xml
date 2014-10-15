@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>荟萃园</name>
+			<location>
+				<lat>30.716763</lat>
+				<lng>121.346595</lng>
+			</location>
+							<address>金山区石化街道大堤路208号</address>
+										<telephone>(021)57948214</telephone>
+										<uid>414b01aa07846efe400245c5</uid>
+								</result>
+			<result>
+			<name>荟萃园</name>
+			<location>
+				<lat>30.716429</lat>
+				<lng>121.346876</lng>
+			</location>
+							<address>金山区石化街道大堤路208号</address>
+													<uid>842496c007d7952763180973</uid>
+								</result>
+			<result>
+			<name>荟萃园-南门</name>
+			<location>
+				<lat>30.71636</lat>
+				<lng>121.346953</lng>
+			</location>
+							<address>大堤路208</address>
+													<uid>179d6329b8f518854c3a59be</uid>
+								</result>
+			<result>
+			<name>美龄宫美丽工作室</name>
+			<location>
+				<lat>30.716429</lat>
+				<lng>121.346876</lng>
+			</location>
+							<address>金山区大堤路208号荟萃园园中园</address>
+										<telephone>(021)37218806</telephone>
+										<uid>1cea15a95e1d85dc06fef5ef</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>赵胡寺</name>
+			<location>
+				<lat>31.270296</lat>
+				<lng>121.420946</lng>
+			</location>
+							<address>上海市普陀区</address>
+													<uid>9b27972e42a2fa0f2ce67b51</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

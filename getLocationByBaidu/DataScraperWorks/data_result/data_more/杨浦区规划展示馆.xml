@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>杨浦区规划展示馆</name>
+			<location>
+				<lat>31.270983</lat>
+				<lng>121.530892</lng>
+			</location>
+							<address>长阳路1111号</address>
+										<telephone>(021)65351111</telephone>
+										<uid>150b2fdad160b199eaf8534d</uid>
+								</result>
+			<result>
+			<name>杨浦区城市规划展览馆</name>
+			<location>
+				<lat>31.270983</lat>
+				<lng>121.530896</lng>
+			</location>
+							<address>杨浦区长阳路1111号（近江浦路）</address>
+										<telephone>(021)65351111</telephone>
+										<uid>79832723582fad7cd23ce3b6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

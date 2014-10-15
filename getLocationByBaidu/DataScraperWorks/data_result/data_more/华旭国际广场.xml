@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>华旭国际广场</name>
+			<location>
+				<lat>31.239696</lat>
+				<lng>121.482714</lng>
+			</location>
+							<address>黄浦区西藏中路336号</address>
+													<uid>1a648586231f0ee24e55478f</uid>
+								</result>
+			<result>
+			<name>面包新语(华旭国际大厦北)</name>
+			<location>
+				<lat>31.240499</lat>
+				<lng>121.48187</lng>
+			</location>
+							<address>上海黄浦区南京东路819号百联世茂国际广场106店铺(近西藏中路)</address>
+										<telephone>(021)63608807</telephone>
+										<uid>9ca665a5e60b7f0ff82d61bf</uid>
+								</result>
+			<result>
+			<name>ES(华旭国际大厦西北)</name>
+			<location>
+				<lat>31.240298</lat>
+				<lng>121.481914</lng>
+			</location>
+							<address>上海市黄浦区南京东路829号百联世茂国际广场4层</address>
+										<telephone>(021)63273271</telephone>
+										<uid>4ce10ce66af4fab8441a3223</uid>
+								</result>
+			<result>
+			<name>CAFE LUGO 人民广场店</name>
+			<location>
+				<lat>31.239696</lat>
+				<lng>121.482719</lng>
+			</location>
+							<address>黄浦区西藏中路336号华旭国际大厦1F-2F(近九江路)</address>
+										<telephone>(021)63462892</telephone>
+										<uid>57c2aa56051fb797eb56fa4c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

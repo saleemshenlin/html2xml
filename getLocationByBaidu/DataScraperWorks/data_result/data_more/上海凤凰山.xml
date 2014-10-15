@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>凤凰山</name>
+			<location>
+				<lat>31.11228</lat>
+				<lng>121.21207</lng>
+			</location>
+							<address>上海市松江区</address>
+													<uid>fc767524db13cbf94e776e46</uid>
+								</result>
+			<result>
+			<name>凤凰山镇</name>
+			<location>
+				<lat>31.119731</lat>
+				<lng>121.2125</lng>
+			</location>
+							<address>上海市松江区</address>
+													<uid>1bf85b25ae1a13a7a1a93446</uid>
+								</result>
+			<result>
+			<name>福建凤凰山装饰工程公司上海分公司</name>
+			<location>
+				<lat>31.005779</lat>
+				<lng>121.21325</lng>
+			</location>
+							<address>玉佳路上海磊基石业有限公司附近</address>
+													<uid>6fddd7fd5ba207013517dc6e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

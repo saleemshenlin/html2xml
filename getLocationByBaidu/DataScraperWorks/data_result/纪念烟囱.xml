@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>纪念烟囱</name>
+			<location>
+				<lat>31.20243</lat>
+				<lng>121.447953</lng>
+			</location>
+							<address>肇嘉浜路986临</address>
+													<uid>00586108488dc8a646e27406</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

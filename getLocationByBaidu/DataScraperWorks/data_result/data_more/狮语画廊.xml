@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>狮语画廊</name>
+			<location>
+				<lat>31.212854</lat>
+				<lng>121.445655</lng>
+			</location>
+							<address>徐汇区武康路376号武康庭内（近泰安路）</address>
+										<telephone>(021)54658785</telephone>
+										<uid>8cf68f94ee45b328ce04efea</uid>
+								</result>
+			<result>
+			<name>狮语画廊</name>
+			<location>
+				<lat>31.213124</lat>
+				<lng>121.445783</lng>
+			</location>
+							<address>徐汇区武康路376号武康庭内(近泰安路)</address>
+										<telephone>(021)54658785</telephone>
+										<uid>867a85551373f97ec356acb9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

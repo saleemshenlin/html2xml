@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海自来水展示馆</name>
+			<location>
+				<lat>31.258497</lat>
+				<lng>121.533412</lng>
+			</location>
+							<address>杨树浦路830</address>
+													<uid>79cceb3653c6728a1e5800d9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上广电会展中心</name>
+			<location>
+				<lat>31.178466</lat>
+				<lng>121.417931</lng>
+			</location>
+							<address>徐汇区苍梧路199号</address>
+													<uid>c8e8f633f7adb16dab0dd8d9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海凯文之家旅馆</name>
+			<location>
+				<lat>31.222667</lat>
+				<lng>121.451712</lng>
+			</location>
+							<address>上海上海长乐路946弄4号</address>
+										<telephone>(021)62486800</telephone>
+										<uid>f25e455e1aeb0920fb2d6109</uid>
+								</result>
+			<result>
+			<name>凯文公寓</name>
+			<location>
+				<lat>31.207024</lat>
+				<lng>121.45015</lng>
+			</location>
+							<address>衡山路525号</address>
+													<uid>7af7f1e9c213a114f7231048</uid>
+								</result>
+			<result>
+			<name>联艺·凯文公寓-洗手间</name>
+			<location>
+				<lat>31.207024</lat>
+				<lng>121.45015</lng>
+			</location>
+							<address>上海市徐汇区衡山路525号（近宛平路）</address>
+													<uid>32f28ba18ac07a146c3e1b83</uid>
+								</result>
+			<result>
+			<name>525A艺术荟馆(凯文公寓店)</name>
+			<location>
+				<lat>31.207024</lat>
+				<lng>121.450159</lng>
+			</location>
+							<address>徐汇区衡山路525号凯文公寓二楼</address>
+										<telephone>13917074478</telephone>
+										<uid>afacffd3927c7ed0157643ce</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

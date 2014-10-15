@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海环球金融中心会议中心宴会厅</name>
+			<location>
+				<lat>31.23965</lat>
+				<lng>121.513463</lng>
+			</location>
+							<address>浦东新区世纪大道100号环球金融中心4楼(近东泰路)</address>
+										<telephone>(021)68880888</telephone>
+										<uid>eb36750390bda40200ec0173</uid>
+								</result>
+			<result>
+			<name>上海环球金融中心会议中心-大宴会厅</name>
+			<location>
+				<lat>31.240144</lat>
+				<lng>121.513776</lng>
+			</location>
+							<address>世纪大道100号上海环球金融中心会议中心4层</address>
+										<telephone>(021)68880888</telephone>
+										<uid>3ae8f3659bfe8eb041d63e29</uid>
+								</result>
+			<result>
+			<name>环球金融中心会议中心</name>
+			<location>
+				<lat>31.239549</lat>
+				<lng>121.513489</lng>
+			</location>
+							<address>上海市浦东新区世纪大道100号(银城东路口)上海环球金融中心内</address>
+										<telephone>(021)68880888</telephone>
+										<uid>c750f4e0151e4eed14a190e3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

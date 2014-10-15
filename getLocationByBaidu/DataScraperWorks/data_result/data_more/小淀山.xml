@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>沪青平公路小淀山</name>
+			<location>
+				<lat>31.105045</lat>
+				<lng>121.035302</lng>
+			</location>
+							<address>青金线;青商线</address>
+													<uid>3ee563ba3cfe593fbd48425c</uid>
+								</result>
+			<result>
+			<name>上海侃侃工艺品有限公司</name>
+			<location>
+				<lat>31.104295</lat>
+				<lng>121.03338</lng>
+			</location>
+							<address>中国上海市青浦区上海青浦朱家角小淀山红星5号</address>
+										<telephone>(021)59241871</telephone>
+										<uid>f8b9ef1eb88eda1cd23ce305</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

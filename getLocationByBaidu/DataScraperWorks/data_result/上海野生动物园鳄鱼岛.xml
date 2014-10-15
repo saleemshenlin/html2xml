@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>鳄鱼岛</name>
+			<location>
+				<lat>31.058422</lat>
+				<lng>121.725131</lng>
+			</location>
+							<address>上海市浦东新区宣桥镇南六公路178号上海野生动物园内</address>
+													<uid>6b6e1e0754a9bac823022039</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

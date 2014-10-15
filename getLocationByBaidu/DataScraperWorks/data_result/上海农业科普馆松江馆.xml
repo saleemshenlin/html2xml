@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海农业科普馆松江馆</name>
+			<location>
+				<lat>30.938751</lat>
+				<lng>121.138686</lng>
+			</location>
+							<address>松江区松江西厍路1号(近现代农业园区五厍示范区)</address>
+													<uid>4aa20ca9a4069367ae080f00</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

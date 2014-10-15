@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>龚华街心公园</name>
+			<location>
+				<lat>31.269363</lat>
+				<lng>121.691276</lng>
+			</location>
+							<address>龚华路龚路支路以北</address>
+													<uid>480b24d0313151f09dec2bab</uid>
+								</result>
+			<result>
+			<name>千姿百秀专业美发</name>
+			<location>
+				<lat>31.26964</lat>
+				<lng>121.691642</lng>
+			</location>
+							<address>龚华路246龚华街心公园附近</address>
+													<uid>575c1e1282fc8685c16c145b</uid>
+								</result>
+			<result>
+			<name>雅兰女子专业护肤</name>
+			<location>
+				<lat>31.26964</lat>
+				<lng>121.691642</lng>
+			</location>
+							<address>龚华路246龚华街心公园附近</address>
+										<telephone>(021)58565551</telephone>
+										<uid>e4c8e8706bc211768605bf54</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

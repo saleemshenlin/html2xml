@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>景容楼</name>
+			<location>
+				<lat>31.232633</lat>
+				<lng>121.49785</lng>
+			</location>
+							<address>上海市黄浦区九狮路18号</address>
+													<uid>e889a7445e4dbfb68605bf07</uid>
+								</result>
+			<result>
+			<name>老庙黄金景容楼店</name>
+			<location>
+				<lat>31.231938</lat>
+				<lng>121.498039</lng>
+			</location>
+							<address>黄浦区九狮路18号(梧桐路硝皮弄)</address>
+										<telephone>(021)63554421</telephone>
+										<uid>2848ffd61905771649cc4af1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

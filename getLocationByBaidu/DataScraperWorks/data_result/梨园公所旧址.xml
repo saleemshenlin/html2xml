@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>梨园公所旧址</name>
+			<location>
+				<lat>31.229514</lat>
+				<lng>121.493187</lng>
+			</location>
+							<address>黄浦区方浜中路593号（近城隍庙豫龙坊）</address>
+										<telephone>(021)63282892</telephone>
+										<uid>ba6a9fce5905d58f9e82ea90</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

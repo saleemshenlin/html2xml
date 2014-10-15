@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>东方明珠演艺剧场</name>
+			<location>
+				<lat>31.24601</lat>
+				<lng>121.507071</lng>
+			</location>
+							<address>浦东新区浦东世纪大道1号东方明珠塔8号门(近二号线陆家嘴站)</address>
+										<telephone>(021)58824999,(021)58828888</telephone>
+										<uid>c5ddcc081e8f2bc7d91318b1</uid>
+								</result>
+			<result>
+			<name>东方明珠演艺剧场</name>
+			<location>
+				<lat>31.244482</lat>
+				<lng>121.506245</lng>
+			</location>
+							<address>浦东新区浦东世纪大道1号东方明珠塔8号门（近二号线陆家嘴站）</address>
+										<telephone>(021)58828888</telephone>
+										<uid>e78b37e3fec1ce0bf82d6116</uid>
+								</result>
+			<result>
+			<name>东方明珠演艺剧场售票处(丰和路)</name>
+			<location>
+				<lat>31.244752</lat>
+				<lng>121.50739</lng>
+			</location>
+							<address>陆家嘴环路丰和路(南行)附近</address>
+										<telephone>(021)58828888,(021)58824999</telephone>
+										<uid>c3482bc0bf5b3a8130621297</uid>
+								</result>
+			<result>
+			<name>东方明珠演艺剧场导游取票处</name>
+			<location>
+				<lat>31.244597</lat>
+				<lng>121.506214</lng>
+			</location>
+							<address>丰和路1号附近</address>
+													<uid>051c48aac5dc031d32870ace</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>手工艺朱家角展示馆</name>
+			<location>
+				<lat>31.115518</lat>
+				<lng>121.061265</lng>
+			</location>
+							<address>青浦区北大街327号(近手工艺朱家角展示馆)</address>
+										<telephone>(021)59245734</telephone>
+										<uid>7595e249c68500a01ce9997e</uid>
+								</result>
+			<result>
+			<name>贵妃食品</name>
+			<location>
+				<lat>31.11565</lat>
+				<lng>121.061166</lng>
+			</location>
+							<address>青浦区朱家角北大街330号(手工艺展示馆对面)</address>
+										<telephone>13482681665</telephone>
+										<uid>d11c1e4b19e0032a17b54bdd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>新泾堂</name>
+			<location>
+				<lat>31.225678</lat>
+				<lng>121.382478</lng>
+			</location>
+							<address>长宁区北翟路74号(近哈密路)</address>
+													<uid>99ab7a09bfd5b58117b54bfc</uid>
+								</result>
+			<result>
+			<name>新泾堂-南门</name>
+			<location>
+				<lat>31.225585</lat>
+				<lng>121.382758</lng>
+			</location>
+							<address>北翟路74</address>
+													<uid>c251c378b373566efbf0cba2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

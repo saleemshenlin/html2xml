@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>古巴驻上海总领事馆</name>
+			<location>
+				<lat>31.208762</lat>
+				<lng>121.409218</lng>
+			</location>
+							<address>娄山关路55号新虹桥大厦5层501、512-513</address>
+										<telephone>(021)62753078</telephone>
+										<uid>bd6140be914cfa1c931fc98f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海祥和博物馆</name>
+			<location>
+				<lat>31.249606</lat>
+				<lng>121.386638</lng>
+			</location>
+							<address>普陀区梅川路1293号(近真光路)</address>
+													<uid>eb367503dca7686600ec0109</uid>
+								</result>
+			<result>
+			<name>大龙燚火锅(上海店)</name>
+			<location>
+				<lat>31.249969</lat>
+				<lng>121.387017</lng>
+			</location>
+							<address>普陀区梅川路1382-1386号1楼(祥和博物馆对面)</address>
+										<telephone>(021)52751717</telephone>
+										<uid>2a71a0839c00156ba6da39b3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

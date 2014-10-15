@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>四川北路人口文化公园</name>
+			<location>
+				<lat>31.254639</lat>
+				<lng>121.493302</lng>
+			</location>
+							<address>昆山花园路13</address>
+										<telephone>(021)65873268</telephone>
+										<uid>3e56df124a246d3ed8131833</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

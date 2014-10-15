@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>沁乐时尚广场</name>
+			<location>
+				<lat>31.312017</lat>
+				<lng>121.164274</lng>
+			</location>
+							<address>嘉定安亭民丰路806号</address>
+										<telephone>(021)59560939</telephone>
+										<uid>ed4776ce21dfe47d95ec84fc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

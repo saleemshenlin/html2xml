@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>李天马故居</name>
+			<location>
+				<lat>31.231938</lat>
+				<lng>121.447075</lng>
+			</location>
+							<address>静安区万航渡路223弄19号（近新闸路）</address>
+													<uid>bffa5cefc233cdca130daaec</uid>
+								</result>
+			<result>
+			<name>李天马故居</name>
+			<location>
+				<lat>31.232116</lat>
+				<lng>121.447426</lng>
+			</location>
+							<address>静安区万航渡路223弄19号(近新闸路)</address>
+													<uid>53349ee3012a8d1322026209</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

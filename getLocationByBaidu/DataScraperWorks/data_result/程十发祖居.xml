@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>程十发祖居</name>
+			<location>
+				<lat>30.892604</lat>
+				<lng>121.026743</lng>
+			</location>
+							<address>上海市金山区和平街151号</address>
+													<uid>8c60138fe6c25c5c1df74d35</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

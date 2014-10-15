@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>太平洋衡山会议中心</name>
+			<location>
+				<lat>31.066186</lat>
+				<lng>121.792922</lng>
+			</location>
+							<address>学海路328号</address>
+										<telephone>(021)38020888</telephone>
+										<uid>2527be1e374d51aa4afc8d1a</uid>
+								</result>
+			<result>
+			<name>加油站(太平洋衡山会议中心东)</name>
+			<location>
+				<lat>31.065428</lat>
+				<lng>121.797211</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>ad32f8a7c1b1ba892902e1ff</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

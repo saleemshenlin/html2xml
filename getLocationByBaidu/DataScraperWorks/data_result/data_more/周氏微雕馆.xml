@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>七宝周氏微雕馆</name>
+			<location>
+				<lat>31.157145</lat>
+				<lng>121.361189</lng>
+			</location>
+							<address>闵行区富强街64号（近南横沥）</address>
+										<telephone>(021)34100340</telephone>
+										<uid>fa5143fb6ff0ca683be4a6ae</uid>
+								</result>
+			<result>
+			<name>七宝周氏微雕馆</name>
+			<location>
+				<lat>31.157084</lat>
+				<lng>121.36126</lng>
+			</location>
+							<address>闵行区富强街64号(近南横沥)</address>
+										<telephone>(021)34100340</telephone>
+										<uid>dffd631c03d334bf38221c1e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

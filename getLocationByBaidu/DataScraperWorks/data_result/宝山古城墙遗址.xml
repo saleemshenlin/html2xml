@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>宝山古城墙遗址</name>
+			<location>
+				<lat>31.414163</lat>
+				<lng>121.501261</lng>
+			</location>
+							<address>友谊路1</address>
+										<telephone>(021)66786355</telephone>
+										<uid>50fb64ffb978a920e9f85306</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

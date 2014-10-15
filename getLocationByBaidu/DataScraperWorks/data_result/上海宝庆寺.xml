@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>宝庆寺</name>
+			<location>
+				<lat>31.149373</lat>
+				<lng>121.11931</lng>
+			</location>
+							<address>南门街100号(近城中南路)</address>
+										<telephone>(021)59737360</telephone>
+										<uid>b0d056f29c85d800cbc3db88</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

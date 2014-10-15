@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>俄罗斯驻上海总领事馆</name>
+			<location>
+				<lat>31.249529</lat>
+				<lng>121.497518</lng>
+			</location>
+							<address>虹口区黄浦路20号(黄浦路金山路)</address>
+										<telephone>(021)63242682</telephone>
+										<uid>0ce65c2d805492272d473356</uid>
+								</result>
+			<result>
+			<name>俄罗斯驻上海总领事馆签证处</name>
+			<location>
+				<lat>31.249529</lat>
+				<lng>121.497518</lng>
+			</location>
+							<address>黄浦路20号</address>
+													<uid>ce2c935481608429b5147f88</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

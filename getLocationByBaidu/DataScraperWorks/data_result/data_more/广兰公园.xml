@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>广兰公园</name>
+			<location>
+				<lat>31.21378</lat>
+				<lng>121.626321</lng>
+			</location>
+							<address>广兰路965号(近紫薇路)</address>
+													<uid>448f7f556a7fd13ad5b74ed9</uid>
+								</result>
+			<result>
+			<name>广兰公园</name>
+			<location>
+				<lat>31.214375</lat>
+				<lng>121.626714</lng>
+			</location>
+							<address>浦东新区广兰路965号（近紫薇路）</address>
+													<uid>93abbe2cded1277c09b93a6e</uid>
+								</result>
+			<result>
+			<name>广兰公园-西门</name>
+			<location>
+				<lat>31.213711</lat>
+				<lng>121.625865</lng>
+			</location>
+							<address>广兰路965</address>
+													<uid>9f1e2c5354432cc9abf0cd8e</uid>
+								</result>
+			<result>
+			<name>广兰公园-停车场</name>
+			<location>
+				<lat>31.213711</lat>
+				<lng>121.625792</lng>
+			</location>
+							<address>广兰路965</address>
+													<uid>6015aa339803ca92465726d6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

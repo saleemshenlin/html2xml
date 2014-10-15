@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海西郊淀山湖湿地</name>
+			<location>
+				<lat>31.076656</lat>
+				<lng>121.014025</lng>
+			</location>
+							<address>上海市青浦区</address>
+													<uid>6a4d36fe46c50119f32d833f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

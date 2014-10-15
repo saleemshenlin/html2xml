@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>太平禅寺</name>
+			<location>
+				<lat>31.362206</lat>
+				<lng>121.417812</lng>
+			</location>
+							<address>宝山区顾村镇盛宅村盛宅生产队</address>
+										<telephone>(021)56181655</telephone>
+										<uid>4642844a6c79c1d8c9fa5f69</uid>
+								</result>
+			<result>
+			<name>太平寺</name>
+			<location>
+				<lat>30.847278</lat>
+				<lng>121.204413</lng>
+			</location>
+							<address>吕巷一路</address>
+													<uid>c02be7d6a14154a42ce67b13</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

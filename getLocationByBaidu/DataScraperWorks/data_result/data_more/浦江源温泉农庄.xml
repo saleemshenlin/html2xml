@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>浦江源温泉农庄</name>
+			<location>
+				<lat>30.956281</lat>
+				<lng>121.174308</lng>
+			</location>
+							<address>泖港镇黄桥村陆庄455号(近叶新公路)</address>
+													<uid>ed1a69efca68bcc2260bd02f</uid>
+								</result>
+			<result>
+			<name>浦江源温泉农庄森林度假村</name>
+			<location>
+				<lat>30.956212</lat>
+				<lng>121.17429</lng>
+			</location>
+							<address>松江区泖港镇黄桥村陆庄</address>
+										<telephone>(021)52399027</telephone>
+										<uid>a9112926863f44c284330420</uid>
+								</result>
+			<result>
+			<name>上海浦江源温泉农庄</name>
+			<location>
+				<lat>30.956103</lat>
+				<lng>121.178901</lng>
+			</location>
+							<address>上海市松江区泖港镇黄桥村陆庄455号</address>
+										<telephone>(021)57866023</telephone>
+										<uid>16145c117646927a6268587c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

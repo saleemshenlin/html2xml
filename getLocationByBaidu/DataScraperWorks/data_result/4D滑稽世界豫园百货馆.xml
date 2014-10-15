@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>4D滑稽世界(豫园百货馆)</name>
+			<location>
+				<lat>31.231352</lat>
+				<lng>121.497855</lng>
+			</location>
+							<address>黄浦区旧校场路159号豫园商城天裕百货3楼(方浜中路（上海老街）)</address>
+										<telephone>(021)63557503</telephone>
+										<uid>f61a0e0879079f508bf15d43</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

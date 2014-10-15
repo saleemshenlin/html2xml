@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>知青墙</name>
+			<location>
+				<lat>31.687535</lat>
+				<lng>121.489509</lng>
+			</location>
+							<address>崇明森林旅游园区国家森林公园上海东平森林高尔夫俱乐部附近</address>
+													<uid>27b7002babfc58edab0dd810</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

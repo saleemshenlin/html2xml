@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>大同幼稚园旧址</name>
+			<location>
+				<lat>31.2255</lat>
+				<lng>121.477009</lng>
+			</location>
+							<address>南昌路48</address>
+										<telephone>(021)53835355</telephone>
+										<uid>53cebd50d8e66e602b02e196</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

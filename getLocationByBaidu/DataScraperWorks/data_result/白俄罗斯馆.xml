@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>白俄罗斯共和国驻上海总领事馆</name>
+			<location>
+				<lat>31.207148</lat>
+				<lng>121.406249</lng>
+			</location>
+							<address>延安西路2299上海世贸大厦16层1607～1608</address>
+										<telephone>(021)62363866</telephone>
+										<uid>18a826a5a7c40f374107c11f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

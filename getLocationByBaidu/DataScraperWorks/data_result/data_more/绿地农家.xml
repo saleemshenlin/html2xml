@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>绿地农家</name>
+			<location>
+				<lat>31.757918</lat>
+				<lng>121.265763</lng>
+			</location>
+							<address>上海近郊崇明县三星镇三华公路438号(近明珠湖北大门)</address>
+										<telephone>(021)59601717</telephone>
+										<uid>2a7a25ec66fa907a6d3e1bf6</uid>
+								</result>
+			<result>
+			<name>绿地水韵农庄</name>
+			<location>
+				<lat>31.065019</lat>
+				<lng>120.949275</lng>
+			</location>
+							<address>上海青浦区金泽镇岑卜路220号近沪青平公路</address>
+										<telephone>(021)59295557</telephone>
+										<uid>5d8b6685b0c233a963180982</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

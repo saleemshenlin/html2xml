@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>贺绿汀旧居</name>
+			<location>
+				<lat>31.212089</lat>
+				<lng>121.442927</lng>
+			</location>
+							<address>长宁区泰安路76弄亦村4号（近兴国路）</address>
+													<uid>773e316f2f7b75ea4d554747</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>刘晦之情系藏书楼</name>
+			<location>
+				<lat>31.237782</lat>
+				<lng>121.457888</lng>
+			</location>
+							<address>新闸路1321</address>
+													<uid>d533a16ec51065b0db131892</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

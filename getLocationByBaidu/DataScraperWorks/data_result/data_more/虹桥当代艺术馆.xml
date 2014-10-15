@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海虹桥当代艺术馆</name>
+			<location>
+				<lat>31.211765</lat>
+				<lng>121.394402</lng>
+			</location>
+							<address>长宁区仙霞路650号长宁文化艺术中心2楼</address>
+										<telephone>(021)62618834</telephone>
+										<uid>d24e48ebabcaeac9afee7a09</uid>
+								</result>
+			<result>
+			<name>虹桥当代艺术馆</name>
+			<location>
+				<lat>31.211703</lat>
+				<lng>121.394187</lng>
+			</location>
+							<address>长宁区仙霞路650号</address>
+										<telephone>(021)62618834</telephone>
+										<uid>fb461ec79a2bc8e704026f95</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

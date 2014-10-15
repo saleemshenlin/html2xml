@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>金鳌山公园</name>
+			<location>
+				<lat>31.622041</lat>
+				<lng>121.428319</lng>
+			</location>
+							<address>上海市崇明县城桥镇鳌山路老效河东首</address>
+										<telephone>(021)69693204</telephone>
+										<uid>e24b0b5d348f583e81288a1c</uid>
+								</result>
+			<result>
+			<name>金鳌山公园</name>
+			<location>
+				<lat>31.62447</lat>
+				<lng>121.408157</lng>
+			</location>
+							<address>崇明县城桥镇鳌山路696号</address>
+										<telephone>(021)69693204</telephone>
+										<uid>fc8d01da6d904492c9e33cf3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

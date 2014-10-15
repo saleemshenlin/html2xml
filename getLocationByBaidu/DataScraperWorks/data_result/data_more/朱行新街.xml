@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>朱行新街</name>
+			<location>
+				<lat>31.127799</lat>
+				<lng>121.427883</lng>
+			</location>
+							<address>莘朱路1851号</address>
+										<telephone>(021)54630318</telephone>
+										<uid>56f2f696a8a20e990aa8d458</uid>
+								</result>
+			<result>
+			<name>梦娜摄影</name>
+			<location>
+				<lat>31.127637</lat>
+				<lng>121.428136</lng>
+			</location>
+							<address>朱行镇莘朱路1851号朱行新街</address>
+										<telephone>(021)54307169,13818718082</telephone>
+										<uid>795c4b6865d3d6c9ae31e58c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

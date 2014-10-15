@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海市跳水池</name>
+			<location>
+				<lat>31.217795</lat>
+				<lng>121.459168</lng>
+			</location>
+							<address>徐汇区复兴中路1380号(复兴中路瑞金二路)</address>
+													<uid>480b24d074b814e89cec2b08</uid>
+								</result>
+			<result>
+			<name>东方体育中心室外跳水池</name>
+			<location>
+				<lat>31.161588</lat>
+				<lng>121.479249</lng>
+			</location>
+							<address>耀体路701</address>
+										<telephone>(021)20238305</telephone>
+										<uid>bf364987a68354c395f08c8f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>中山万博广场</name>
+			<location>
+				<lat>31.20199</lat>
+				<lng>121.428966</lng>
+			</location>
+							<address>凯旋路1580号（淮海西路680号）</address>
+													<uid>d2a537b5a2475261d3ff2355</uid>
+								</result>
+			<result>
+			<name>上海迈雅服饰有限公司</name>
+			<location>
+				<lat>31.203225</lat>
+				<lng>121.429803</lng>
+			</location>
+							<address>上海市淮海西路666号中山万博广场9楼906</address>
+													<uid>b503cd52078bf7744207c1c8</uid>
+								</result>
+			<result>
+			<name>上海太阳岛国际俱乐部有限公司(总部)</name>
+			<location>
+				<lat>31.203156</lat>
+				<lng>121.42923</lng>
+			</location>
+							<address>长宁区淮海西路666号中山万博广场1002室</address>
+										<telephone>(021)61869650</telephone>
+										<uid>d68af27d9326c5cd373a7194</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

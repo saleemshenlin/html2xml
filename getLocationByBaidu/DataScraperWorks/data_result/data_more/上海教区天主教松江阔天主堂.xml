@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天主教上海教区松江阔街天主堂</name>
+			<location>
+				<lat>31.011482</lat>
+				<lng>121.236554</lng>
+			</location>
+							<address>阔街53弄</address>
+													<uid>cde9e2c7e51885b5e81e97e4</uid>
+								</result>
+			<result>
+			<name>天主教上海教区松江阔街天主堂(北门)</name>
+			<location>
+				<lat>31.011374</lat>
+				<lng>121.23663</lng>
+			</location>
+							<address>阔街53弄</address>
+													<uid>898827f3ff492e84a1046407</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

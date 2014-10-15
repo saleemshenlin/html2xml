@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>汉石丽苑休闲广场</name>
+			<location>
+				<lat>31.027528</lat>
+				<lng>121.420289</lng>
+			</location>
+							<address>安宁路911附近</address>
+													<uid>9da8339efbcdcdd06e20b924</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

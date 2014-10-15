@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>渔乐湾</name>
+			<location>
+				<lat>31.016519</lat>
+				<lng>121.668275</lng>
+			</location>
+							<address>浦东新区新场镇笋王路1688号（地处渔乐湾旅游度假区）</address>
+										<telephone>(021)68170666</telephone>
+										<uid>bf95d383255c104d2fb908ad</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

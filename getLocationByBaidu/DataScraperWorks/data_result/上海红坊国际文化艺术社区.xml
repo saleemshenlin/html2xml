@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>红坊国际艺术文化社区</name>
+			<location>
+				<lat>31.204669</lat>
+				<lng>121.430546</lng>
+			</location>
+							<address>淮海西路570号新十钢创意产业集聚区A区103</address>
+													<uid>000690c6b359ba22246e98ef</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

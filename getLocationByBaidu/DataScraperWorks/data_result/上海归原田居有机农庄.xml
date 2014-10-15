@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>归原田居有机农庄</name>
+			<location>
+				<lat>30.929211</lat>
+				<lng>121.137644</lng>
+			</location>
+							<address>松江区西厍公路344号现代农业观光园五厍示范区内(近渔场公路)</address>
+										<telephone>(021)57878202</telephone>
+										<uid>b7021bf8110bdf84f5e73bad</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

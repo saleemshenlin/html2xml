@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>诸圣堂</name>
+			<location>
+				<lat>31.221547</lat>
+				<lng>121.480021</lng>
+			</location>
+							<address>卢湾区复兴中路425号(近淡水路)</address>
+										<telephone>(021)63850906</telephone>
+										<uid>8ab0dfc43cb87317d9eced96</uid>
+								</result>
+			<result>
+			<name>诸圣堂</name>
+			<location>
+				<lat>31.22154</lat>
+				<lng>121.480017</lng>
+			</location>
+							<address>卢湾区复兴中路425号（近淡水路）</address>
+										<telephone>(021)63850906</telephone>
+										<uid>7444ef1b67f3d3d63686f4bf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>紫海鹭缘浪漫爱情主题公园</name>
+			<location>
+				<lat>31.678109</lat>
+				<lng>121.501805</lng>
+			</location>
+							<address>崇明县东平镇北沿公路2018号（蟠龙公路口）</address>
+										<telephone>(021)51036343</telephone>
+										<uid>d9a2cf353fee2539fbdc850e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>桔香园农家乐</name>
+			<location>
+				<lat>31.756997</lat>
+				<lng>121.235716</lng>
+			</location>
+							<address>崇明县绿港生态村建民713号(近西沙湿地)</address>
+										<telephone>(021)59353001</telephone>
+										<uid>7ac20e37e37138257069d393</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

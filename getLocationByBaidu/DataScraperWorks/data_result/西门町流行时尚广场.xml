@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>西门町流行时尚广场</name>
+			<location>
+				<lat>31.245763</lat>
+				<lng>121.42754</lng>
+			</location>
+							<address>西门町流行时尚广场</address>
+													<uid>293dac4ad17ecac1fbdc85e5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

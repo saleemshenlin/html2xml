@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海奶牛科普馆</name>
+			<location>
+				<lat>31.679423</lat>
+				<lng>121.560852</lng>
+			</location>
+							<address>上海市崇明县</address>
+										<telephone>(021)59666607,(021)32052062</telephone>
+										<uid>057d40f1dac21a1e715e8033</uid>
+								</result>
+			<result>
+			<name>上海奶牛科普馆</name>
+			<location>
+				<lat>31.310297</lat>
+				<lng>121.442064</lng>
+			</location>
+							<address>场中路3110</address>
+													<uid>36bb9db5f318ca5e49fd3f66</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

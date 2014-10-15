@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海梨文化博物馆</name>
+			<location>
+				<lat>30.968807</lat>
+				<lng>121.231007</lng>
+			</location>
+							<address>仓桥镇</address>
+													<uid>f5bc9ade947f6f1b2902e103</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

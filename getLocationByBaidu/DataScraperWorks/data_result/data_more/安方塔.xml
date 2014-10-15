@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>安方塔</name>
+			<location>
+				<lat>31.116809</lat>
+				<lng>121.281894</lng>
+			</location>
+							<address>开江中路411号</address>
+										<telephone>(021)57612211</telephone>
+										<uid>22e11407671de3b5d5b74eed</uid>
+								</result>
+			<result>
+			<name>马相伯故居</name>
+			<location>
+				<lat>31.117281</lat>
+				<lng>121.28275</lng>
+			</location>
+							<address>松江区泗泾镇开江中路358号（近安方塔）</address>
+													<uid>0095af47ab49ae4b0a5cb38c</uid>
+								</result>
+			<result>
+			<name>马相伯故居</name>
+			<location>
+				<lat>31.117311</lat>
+				<lng>121.282781</lng>
+			</location>
+							<address>松江区泗泾镇开江中路358号(近安方塔)</address>
+													<uid>57a7e0d8b556521d343a719e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

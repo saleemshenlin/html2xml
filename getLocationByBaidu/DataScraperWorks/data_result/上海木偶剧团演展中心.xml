@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海木偶剧团演展中心</name>
+			<location>
+				<lat>31.237404</lat>
+				<lng>121.475535</lng>
+			</location>
+							<address>南京西路388号仙乐斯广场5层</address>
+										<telephone>(021)63345141,(021)63345200,(021)63596791</telephone>
+										<uid>8d7831372f47649c38221c00</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

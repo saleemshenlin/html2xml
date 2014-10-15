@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>大漠商务温泉（三元路店）</name>
+			<location>
+				<lat>31.154496</lat>
+				<lng>121.116295</lng>
+			</location>
+							<address>三元路36号</address>
+										<telephone>15021052351</telephone>
+										<uid>402a8ee7d13b4549d518b7ea</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

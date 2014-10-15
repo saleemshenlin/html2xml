@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天山世纪广场</name>
+			<location>
+				<lat>31.216614</lat>
+				<lng>121.407705</lng>
+			</location>
+							<address>长宁天山路（娄山关路）</address>
+													<uid>fbbc7f1953a7c0a5a2a9347d</uid>
+								</result>
+			<result>
+			<name>beyond游泳俱乐部</name>
+			<location>
+				<lat>31.210252</lat>
+				<lng>121.410106</lng>
+			</location>
+							<address>长宁区兴义路48号近娄山关路新世纪广场游泳池（室内）(白木屋天山店)</address>
+										<telephone>15800807665</telephone>
+										<uid>04384d3879d4a0d017948ef1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

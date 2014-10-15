@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>虹桥文化广场</name>
+			<location>
+				<lat>31.179339</lat>
+				<lng>121.393089</lng>
+			</location>
+							<address>万源路2800号</address>
+													<uid>005861086696d2a446e27419</uid>
+								</result>
+			<result>
+			<name>番禺文化广场</name>
+			<location>
+				<lat>31.200862</lat>
+				<lng>121.43327</lng>
+			</location>
+							<address>上海市徐汇区虹桥路637号</address>
+													<uid>9e0f900e6d28614e8a36ee3f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

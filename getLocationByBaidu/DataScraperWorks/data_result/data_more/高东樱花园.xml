@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>高东镇樱花园</name>
+			<location>
+				<lat>31.340426</lat>
+				<lng>121.618559</lng>
+			</location>
+							<address>光耀路300号</address>
+													<uid>3f826ed3d1035447d0f49eab</uid>
+								</result>
+			<result>
+			<name>红咖啡</name>
+			<location>
+				<lat>31.335592</lat>
+				<lng>121.622141</lng>
+			</location>
+							<address>上海浦东新区高东新路樱花园内</address>
+										<telephone>13621967314</telephone>
+										<uid>2619ef2e75d18b4e93114c6d</uid>
+								</result>
+			<result>
+			<name>红点咖啡</name>
+			<location>
+				<lat>31.340095</lat>
+				<lng>121.618214</lng>
+			</location>
+							<address>上海浦东新区高东镇光耀路300号樱花园内(近航津路)</address>
+										<telephone>(021)50323801</telephone>
+										<uid>bc52aaf66e616b0af4b916ce</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

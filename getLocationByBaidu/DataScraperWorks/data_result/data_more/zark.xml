@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>战鼓Zark模型</name>
+			<location>
+				<lat>31.280581</lat>
+				<lng>121.457638</lng>
+			</location>
+							<address>闸北区共和新路1988号大宁国际商业广场12座4层427号</address>
+													<uid>66e5eed285bd4995abf72933</uid>
+								</result>
+			<result>
+			<name>ZARK战锤店</name>
+			<location>
+				<lat>31.231081</lat>
+				<lng>121.487316</lng>
+			</location>
+							<address>黄浦区淮海东路99号新尚数码广场3楼（近西藏南路）</address>
+													<uid>272a8ec1fb41abbde812e49c</uid>
+								</result>
+			<result>
+			<name>ZARK战锤(新尚数码广场店)</name>
+			<location>
+				<lat>31.231081</lat>
+				<lng>121.487315</lng>
+			</location>
+							<address>黄浦区淮海东路99号新尚数码广场3楼(近西藏南路)</address>
+													<uid>6ed3083aca6516ae2b3a9f19</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

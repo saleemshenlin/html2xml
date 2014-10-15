@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海图书馆徐家汇藏书楼</name>
+			<location>
+				<lat>31.198368</lat>
+				<lng>121.443989</lng>
+			</location>
+							<address>徐汇区漕溪北路80号(近东方商厦)</address>
+										<telephone>(021)64874072</telephone>
+										<uid>0ce65c2df7ec81402d4733cb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

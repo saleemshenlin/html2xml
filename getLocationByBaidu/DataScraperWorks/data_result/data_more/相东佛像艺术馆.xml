@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>相东佛像艺术馆</name>
+			<location>
+				<lat>31.374817</lat>
+				<lng>121.232664</lng>
+			</location>
+							<address>嘉定区沪宜公路4532号（近嘉朱公路）</address>
+										<telephone>(021)69968885</telephone>
+										<uid>40ab9f631e316cca6f3e1b19</uid>
+								</result>
+			<result>
+			<name>上海相东佛像艺术馆</name>
+			<location>
+				<lat>31.375271</lat>
+				<lng>121.233667</lng>
+			</location>
+							<address>嘉定区沪宜公路4532号(近嘉朱公路)</address>
+										<telephone>(021)69968885,(021)69968885</telephone>
+										<uid>33034e34e9840ffa17c8f69a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

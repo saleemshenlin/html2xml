@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>金沙丽晶商业广场</name>
+			<location>
+				<lat>31.248526</lat>
+				<lng>121.367409</lng>
+			</location>
+							<address>嘉定金沙江路2890号</address>
+										<telephone>4006066969</telephone>
+										<uid>577d2e146c95fae73786f475</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

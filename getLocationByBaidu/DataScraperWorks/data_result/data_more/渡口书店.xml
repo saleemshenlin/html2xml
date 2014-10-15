@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>渡口书店(巨鹿路店)</name>
+			<location>
+				<lat>31.225438</lat>
+				<lng>121.455854</lng>
+			</location>
+							<address>静安区巨鹿路828号(近常熟路)</address>
+										<telephone>(021)62496339</telephone>
+										<uid>56e88cba92bd707ca5c756ee</uid>
+								</result>
+			<result>
+			<name>渡口书店(新天地店)</name>
+			<location>
+				<lat>31.222551</lat>
+				<lng>121.48176</lng>
+			</location>
+							<address>马当路245号新天地时尚购物中心-1层</address>
+													<uid>a1418eb4fbde0566ebe58279</uid>
+								</result>
+			<result>
+			<name>渡口书店（巨鹿路店）</name>
+			<location>
+				<lat>31.225392</lat>
+				<lng>121.455888</lng>
+			</location>
+							<address>静安区巨鹿路828号（富民路常熟路之间）</address>
+										<telephone>(021)62496339</telephone>
+										<uid>0511dd1bc5b145fc49fd3f1a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

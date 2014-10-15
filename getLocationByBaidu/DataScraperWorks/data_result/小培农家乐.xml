@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>崇明前卫小培农家乐</name>
+			<location>
+				<lat>31.724898</lat>
+				<lng>121.515475</lng>
+			</location>
+							<address>上海崇明岛前卫生态村426号</address>
+										<telephone>021-59649277/13661540733</telephone>
+										<uid>b798a793a24ff1dc2dfaa76b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

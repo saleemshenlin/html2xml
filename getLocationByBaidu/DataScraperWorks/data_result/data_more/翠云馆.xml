@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>翠云馆</name>
+			<location>
+				<lat>31.242135</lat>
+				<lng>121.289711</lng>
+			</location>
+							<address>上海长宁区华漕镇纪友路298号(近纪王镇)</address>
+										<telephone>(021)52967588</telephone>
+										<uid>2ad32cc399b1bf969c95dea3</uid>
+								</result>
+			<result>
+			<name>上海翠云馆农家乐有限公司</name>
+			<location>
+				<lat>31.242127</lat>
+				<lng>121.289706</lng>
+			</location>
+							<address>上海市闵行区华漕镇纪友路298号</address>
+													<uid>edd4dafd56d53698ad080fec</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

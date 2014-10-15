@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>加拿大驻沪总领事馆</name>
+			<location>
+				<lat>31.228766</lat>
+				<lng>121.450806</lng>
+			</location>
+							<address>上海市静安区</address>
+										<telephone>(021)32792800</telephone>
+										<uid>a97d9ce79b77e18158f6be9e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

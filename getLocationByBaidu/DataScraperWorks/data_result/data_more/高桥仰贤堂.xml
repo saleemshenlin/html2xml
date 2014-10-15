@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>高桥仰贤堂</name>
+			<location>
+				<lat>31.351606</lat>
+				<lng>121.590319</lng>
+			</location>
+							<address>浦东新区高桥镇东街81-93号(季景北路石家街)</address>
+										<telephone>(021)50416885</telephone>
+										<uid>5c2dc21d587c5b796fc02c06</uid>
+								</result>
+			<result>
+			<name>仰贤堂</name>
+			<location>
+				<lat>31.351698</lat>
+				<lng>121.590265</lng>
+			</location>
+							<address>浦东新区高桥镇义王路1号（高桥东街口）</address>
+										<telephone>(021)50416882</telephone>
+										<uid>6b5d4e2de23623b5a7c7561d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

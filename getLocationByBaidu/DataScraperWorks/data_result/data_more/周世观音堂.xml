@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>周世观音堂</name>
+			<location>
+				<lat>31.399131</lat>
+				<lng>121.409188</lng>
+			</location>
+							<address>杨行镇</address>
+													<uid>7fd723115f2089e25dbe86a9</uid>
+								</result>
+			<result>
+			<name>加油站(周世观音堂西)</name>
+			<location>
+				<lat>31.399747</lat>
+				<lng>121.40524</lng>
+			</location>
+							<address>富锦路2681号附近</address>
+										<telephone>(021)56391328</telephone>
+										<uid>8ab0dfc43dc37217d8eced6f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

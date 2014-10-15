@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>松声马术俱乐部</name>
+			<location>
+				<lat>30.848163</lat>
+				<lng>121.56561</lng>
+			</location>
+							<address>奉贤区奉贤区人民塘东路621号(近浦星公路)</address>
+										<telephone>(021)51398100</telephone>
+										<uid>925c550f2f3ab2cf5a3ac8d8</uid>
+								</result>
+			<result>
+			<name>松声马术俱乐部</name>
+			<location>
+				<lat>30.848163</lat>
+				<lng>121.56561</lng>
+			</location>
+							<address>奉贤区人民塘东路621号</address>
+										<telephone>(021)51398100</telephone>
+										<uid>553af93b586b84badeee8bce</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

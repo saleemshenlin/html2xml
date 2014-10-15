@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>芷江梦工场</name>
+			<location>
+				<lat>31.243393</lat>
+				<lng>121.450582</lng>
+			</location>
+							<address>上海市静安区海防路555号同乐坊内（近西康路）</address>
+													<uid>7635b9cde758c5dca5da3913</uid>
+								</result>
+			<result>
+			<name>芷江梦工场 话剧主题餐厅</name>
+			<location>
+				<lat>31.243393</lat>
+				<lng>121.450582</lng>
+			</location>
+							<address>上海静安区余姚路34号（同乐坊15号）3楼近西康路</address>
+										<telephone>(021)62554062</telephone>
+										<uid>c08b8b36f427a69af02d8366</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

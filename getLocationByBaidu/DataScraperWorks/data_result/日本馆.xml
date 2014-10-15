@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>米沢日本馆</name>
+			<location>
+				<lat>31.037043</lat>
+				<lng>121.217846</lng>
+			</location>
+							<address>上海松江区江学路381弄40-48号近文诚路</address>
+										<telephone>(021)67735999,(021)67736866</telephone>
+										<uid>a2fa42d68923c16cf4e73b0a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

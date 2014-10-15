@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>滨江森林公园</name>
+			<location>
+				<lat>31.389491</lat>
+				<lng>121.533989</lng>
+			</location>
+							<address>高桥镇凌桥高沙滩3号</address>
+										<telephone>(021)58644791</telephone>
+										<uid>9fbfeef237113044ece4a5ab</uid>
+								</result>
+			<result>
+			<name>滨江森林公园</name>
+			<location>
+				<lat>31.389491</lat>
+				<lng>121.533989</lng>
+			</location>
+							<address>浦东新区高桥镇凌桥高沙滩3号（近公安高等专科学校）</address>
+										<telephone>(021)58644791</telephone>
+										<uid>26513221c5f4e967f7e73b42</uid>
+								</result>
+			<result>
+			<name>滨江森林公园真人CS野战场</name>
+			<location>
+				<lat>31.390161</lat>
+				<lng>121.533163</lng>
+			</location>
+							<address>浦东新区高桥镇凌桥高沙滩3号上海滨江森林公园内(近公安高等专科学校)</address>
+										<telephone>(021)34613988,4006668023</telephone>
+										<uid>2f9a3de140544fde0482c24b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

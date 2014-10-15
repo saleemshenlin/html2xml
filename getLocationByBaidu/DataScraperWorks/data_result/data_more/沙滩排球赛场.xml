@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>沙滩排球</name>
+			<location>
+				<lat>31.694694</lat>
+				<lng>121.494563</lng>
+			</location>
+							<address>森林沐浴附近</address>
+													<uid>1fc367645419a72de60738a4</uid>
+								</result>
+			<result>
+			<name>上海金山沙滩排球场</name>
+			<location>
+				<lat>30.711082</lat>
+				<lng>121.352023</lng>
+			</location>
+							<address>金山区金山区新城路5号城市沙滩内(南康路新城路)</address>
+													<uid>cbbf5174a2c135dc58f6bec8</uid>
+								</result>
+			<result>
+			<name>上海海事大学-沙滩排球场</name>
+			<location>
+				<lat>30.877666</lat>
+				<lng>121.907636</lng>
+			</location>
+							<address>浦东新区海港大道1550号上海海事大学临港校区院内(近海事大学六号门)</address>
+													<uid>be54cde96a927e4179f796a7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

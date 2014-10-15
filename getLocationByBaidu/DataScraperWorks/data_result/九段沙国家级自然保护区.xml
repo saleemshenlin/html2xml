@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海市九段沙湿地国家级自然保护区管理署</name>
+			<location>
+				<lat>31.258682</lat>
+				<lng>121.573841</lng>
+			</location>
+							<address>博山东路383</address>
+										<telephone>(021)58502213</telephone>
+										<uid>15ed53ce226747559322e0a9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

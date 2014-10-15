@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海瀛东度假村</name>
+			<location>
+				<lat>31.469241</lat>
+				<lng>121.850219</lng>
+			</location>
+							<address>崇明县瀛东村</address>
+										<telephone>(021)59436276</telephone>
+										<uid>cd9d05dd539b26b585420ede</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

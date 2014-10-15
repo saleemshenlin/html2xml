@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>视平线艺术</name>
+			<location>
+				<lat>31.205179</lat>
+				<lng>121.429669</lng>
+			</location>
+							<address>上海长宁区淮海西路570号红坊创意园区G101号(近虹桥路)</address>
+										<telephone>(021)62596695</telephone>
+										<uid>d0b8923fb29c66e1b5f42f06</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>友谊会堂</name>
+			<location>
+				<lat>31.231961</lat>
+				<lng>121.458793</lng>
+			</location>
+							<address>静安区南京西路1333号(近铜仁路)</address>
+										<telephone>(021)62472751</telephone>
+										<uid>b0d056f2658ef17fcbc3db88</uid>
+								</result>
+			<result>
+			<name>宝山宾馆友谊会堂</name>
+			<location>
+				<lat>31.414888</lat>
+				<lng>121.486725</lng>
+			</location>
+							<address>宝山区牡丹江路1813号北楼2楼(漠河路牡丹江路)</address>
+													<uid>cc788fde7398d39389fc06a4</uid>
+								</result>
+			<result>
+			<name>上海展览中心友谊会堂</name>
+			<location>
+				<lat>31.232116</lat>
+				<lng>121.458169</lng>
+			</location>
+							<address>静安区南京西路1333号（近铜仁路）</address>
+										<telephone>(021)62472751</telephone>
+										<uid>746228e87dbeceaea30464cf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

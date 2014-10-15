@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>殡葬博物馆</name>
+			<location>
+				<lat>31.178126</lat>
+				<lng>121.441021</lng>
+			</location>
+							<address>徐汇区漕溪路210号（近田林东路）</address>
+													<uid>6661543738a6baea1911d519</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

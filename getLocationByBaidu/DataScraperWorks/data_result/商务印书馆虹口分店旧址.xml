@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>商务印书馆虹口分店旧址</name>
+			<location>
+				<lat>31.254507</lat>
+				<lng>121.491708</lng>
+			</location>
+							<address>四川北路856</address>
+													<uid>480b24d031a651f09cec2b36</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

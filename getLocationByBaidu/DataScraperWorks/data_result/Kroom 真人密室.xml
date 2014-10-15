@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>Kroom真人密室</name>
+			<location>
+				<lat>31.265103</lat>
+				<lng>121.468709</lng>
+			</location>
+							<address>上海市闸北区共和新路966号共和大厦966号1202室(近中山北路)</address>
+										<telephone>(021)56618519</telephone>
+										<uid>f6d6a3ae2463e3cd373a71cb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

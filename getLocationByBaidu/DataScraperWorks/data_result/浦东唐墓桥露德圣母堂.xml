@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>浦东唐墓桥露德圣母堂</name>
+			<location>
+				<lat>31.215494</lat>
+				<lng>121.663745</lng>
+			</location>
+							<address>唐镇老街40号</address>
+													<uid>0635fb86717effe8a2046494</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

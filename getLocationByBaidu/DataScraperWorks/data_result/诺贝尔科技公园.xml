@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>诺贝尔科技公园</name>
+			<location>
+				<lat>31.40706</lat>
+				<lng>121.365495</lng>
+			</location>
+							<address>罗迎路与美兰湖大道交叉口西北角</address>
+													<uid>65140e3e8edd4aa9d72ce22d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

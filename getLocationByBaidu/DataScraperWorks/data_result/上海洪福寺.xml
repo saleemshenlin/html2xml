@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>洪福寺</name>
+			<location>
+				<lat>30.935174</lat>
+				<lng>121.706283</lng>
+			</location>
+							<address>洪庙路</address>
+										<telephone>(021)57132124</telephone>
+										<uid>e96b4420b3ea735882288a34</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

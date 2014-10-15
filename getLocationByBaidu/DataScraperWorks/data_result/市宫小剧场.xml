@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海市工人文化宫小剧场</name>
+			<location>
+				<lat>31.236037</lat>
+				<lng>121.484907</lng>
+			</location>
+							<address>黄浦区北海路251号（近云南中路）</address>
+										<telephone>(021)63220108</telephone>
+										<uid>009d4f45a3b89a1ad2f49e45</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

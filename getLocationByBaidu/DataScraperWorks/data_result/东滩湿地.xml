@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>东滩湿地保护区治安派出所</name>
+			<location>
+				<lat>31.457221</lat>
+				<lng>121.881439</lng>
+			</location>
+							<address>瀛东公路0公里处</address>
+										<telephone>(021)59436650</telephone>
+										<uid>d82d6697a20092a5d518b7d2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

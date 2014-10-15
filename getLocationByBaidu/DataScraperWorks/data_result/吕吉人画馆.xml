@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>吕吉人画馆</name>
+			<location>
+				<lat>30.893697</lat>
+				<lng>121.024749</lng>
+			</location>
+							<address>金山区枫泾古镇旅游区和平街51号（近三百园）</address>
+										<telephone>(021)37355019</telephone>
+										<uid>5f4c4ba1a45d9f60abf0cd72</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

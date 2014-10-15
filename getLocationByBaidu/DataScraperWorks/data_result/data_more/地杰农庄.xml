@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>地杰农庄</name>
+			<location>
+				<lat>31.261445</lat>
+				<lng>121.728597</lng>
+			</location>
+							<address>合庆镇勤奋村朝勤路朝勤桥</address>
+										<telephone>(021)58978393</telephone>
+										<uid>4553b2b417a43f72c0364474</uid>
+								</result>
+			<result>
+			<name>地杰农庄</name>
+			<location>
+				<lat>31.262217</lat>
+				<lng>121.732644</lng>
+			</location>
+							<address>浦东新区合庆镇勤奋村朝勤路朝勤桥</address>
+										<telephone>(021)58978393</telephone>
+										<uid>ae8e34e4bcc83acfc9e33c44</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

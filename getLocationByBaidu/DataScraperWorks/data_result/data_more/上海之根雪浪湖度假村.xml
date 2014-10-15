@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海之根雪浪湖度假村</name>
+			<location>
+				<lat>30.926121</lat>
+				<lng>121.094799</lng>
+			</location>
+							<address>新浜镇胡曹路699弄100号</address>
+										<telephone>(021)23099999</telephone>
+										<uid>bfc0d9ba86a0fd1b0b1cc7be</uid>
+								</result>
+			<result>
+			<name>上海之根雪浪湖度假村</name>
+			<location>
+				<lat>30.929064</lat>
+				<lng>121.092144</lng>
+			</location>
+							<address>上海新浜镇胡曹路699弄100号</address>
+										<telephone>(021)23099999</telephone>
+										<uid>3ac7a908870b35b1b42655cb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

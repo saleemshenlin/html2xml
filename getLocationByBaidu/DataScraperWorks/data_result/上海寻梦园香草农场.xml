@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>雪纱票务 寻梦园香草农场</name>
+			<location>
+				<lat>31.0473</lat>
+				<lng>121.096733</lng>
+			</location>
+							<address>朱家角镇沈太路2365号（近太阳岛温泉度假村）</address>
+										<telephone>(021)62758862</telephone>
+										<uid>606289fda2cdca54a2046449</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

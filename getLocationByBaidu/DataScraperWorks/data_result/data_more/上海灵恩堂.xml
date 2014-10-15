@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>灵恩堂</name>
+			<location>
+				<lat>31.350511</lat>
+				<lng>121.587637</lng>
+			</location>
+							<address>浦东新区高桥石家街69弄4号</address>
+										<telephone>(021)50402663</telephone>
+										<uid>67b501ad78fc474a6240a95a</uid>
+								</result>
+			<result>
+			<name>灵恩堂</name>
+			<location>
+				<lat>31.35065</lat>
+				<lng>121.587481</lng>
+			</location>
+							<address>浦东新区高桥石家街69弄4号</address>
+										<telephone>(021)50402663</telephone>
+										<uid>8a6af3bd12366e24081cc78d</uid>
+								</result>
+			<result>
+			<name>灵恩堂-西南门</name>
+			<location>
+				<lat>31.350688</lat>
+				<lng>121.587502</lng>
+			</location>
+							<address>石家街69弄</address>
+													<uid>96eb50e629d5471043ab9a12</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

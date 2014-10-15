@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>杨思天主堂</name>
+			<location>
+				<lat>31.169645</lat>
+				<lng>121.514307</lng>
+			</location>
+							<address>浦东新区云台路731号(近杨思路)</address>
+													<uid>480b24d06f527b8f9cec2b41</uid>
+								</result>
+			<result>
+			<name>杨思天主堂-西门</name>
+			<location>
+				<lat>31.169575</lat>
+				<lng>121.514318</lng>
+			</location>
+							<address>云台路731</address>
+													<uid>52a32d73160e51cc22f017f8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

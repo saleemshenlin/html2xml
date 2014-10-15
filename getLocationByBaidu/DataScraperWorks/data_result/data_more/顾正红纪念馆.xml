@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>顾正红纪念馆</name>
+			<location>
+				<lat>31.253527</lat>
+				<lng>121.448889</lng>
+			</location>
+							<address>普陀区澳门路300号(陕西北路宜昌路)</address>
+										<telephone>(021)62661500,(021)62091651</telephone>
+										<uid>00f1c7fbe86af41ec056acc9</uid>
+								</result>
+			<result>
+			<name>顾正红纪念馆</name>
+			<location>
+				<lat>31.253427</lat>
+				<lng>121.449069</lng>
+			</location>
+							<address>普陀区澳门路300号（陕西北路宜昌路）</address>
+										<telephone>(021)62661500</telephone>
+										<uid>95305a3c3396dea379dbd277</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

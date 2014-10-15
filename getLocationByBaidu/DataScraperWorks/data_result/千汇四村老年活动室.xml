@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>千汇四村老年活动室</name>
+			<location>
+				<lat>31.125117</lat>
+				<lng>121.77377</lng>
+			</location>
+							<address>浦东新区华星路446号</address>
+													<uid>bda4936e4fd389d572210b03</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

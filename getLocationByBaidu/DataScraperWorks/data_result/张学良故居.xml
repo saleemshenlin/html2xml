@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>张学良故居</name>
+			<location>
+				<lat>31.223315</lat>
+				<lng>121.473837</lng>
+			</location>
+							<address>卢湾区皋兰路1号（近复兴公园）</address>
+													<uid>b40d9170c3e7c76e4151c0bf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

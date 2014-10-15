@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>三泾庙</name>
+			<location>
+				<lat>31.220822</lat>
+				<lng>121.423391</lng>
+			</location>
+							<address>长宁区长宁路三泾北宅244号(安化路凯旋路)</address>
+										<telephone>(021)62412538</telephone>
+										<uid>8e911665bb7790275e0d02b5</uid>
+								</result>
+			<result>
+			<name>三泾庙</name>
+			<location>
+				<lat>31.220814</lat>
+				<lng>121.423483</lng>
+			</location>
+							<address>长宁区长宁路三泾北宅244号（安化路凯旋路）</address>
+										<telephone>(021)62412538</telephone>
+										<uid>f192d5f26b0c7dd825e0a017</uid>
+								</result>
+			<result>
+			<name>三泾庙</name>
+			<location>
+				<lat>31.313598</lat>
+				<lng>121.16666</lng>
+			</location>
+							<address>上海市嘉定区</address>
+													<uid>ff394fc605069de2293a9f91</uid>
+								</result>
+			<result>
+			<name>三泾庙-北门</name>
+			<location>
+				<lat>31.22086</lat>
+				<lng>121.423416</lng>
+			</location>
+							<address>长宁路三泾北宅244</address>
+													<uid>e773f3f0d9d48ea0a01de9b0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

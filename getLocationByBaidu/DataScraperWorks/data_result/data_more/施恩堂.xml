@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>施恩堂</name>
+			<location>
+				<lat>31.344821</lat>
+				<lng>121.462734</lng>
+			</location>
+							<address>泗塘一村7号</address>
+										<telephone>(021)56993462</telephone>
+										<uid>72e57fd71422e5d2f9dc85a9</uid>
+								</result>
+			<result>
+			<name>泗塘施恩堂</name>
+			<location>
+				<lat>31.345207</lat>
+				<lng>121.462629</lng>
+			</location>
+							<address>宝山区泗塘一村7号</address>
+										<telephone>(021)56993462</telephone>
+										<uid>e521e8de357038889de3214e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

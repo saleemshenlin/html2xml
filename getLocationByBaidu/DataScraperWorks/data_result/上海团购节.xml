@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>中国团购节展览会</name>
+			<location>
+				<lat>31.173723</lat>
+				<lng>121.433892</lng>
+			</location>
+							<address>徐汇区漕宝路88号（上海光大会展中心）</address>
+										<telephone>4006191090</telephone>
+										<uid>90020cdda1996e3fafee7a26</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

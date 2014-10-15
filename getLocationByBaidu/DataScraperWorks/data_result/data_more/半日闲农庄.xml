@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>六安市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>苏州市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>荆州市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

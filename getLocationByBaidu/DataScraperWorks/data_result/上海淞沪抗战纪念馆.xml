@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海淞沪抗战纪念馆</name>
+			<location>
+				<lat>31.415088</lat>
+				<lng>121.501742</lng>
+			</location>
+							<address>宝山区友谊路1号临江公园内(近东林路)</address>
+										<telephone>(021)56115728,(021)66786322</telephone>
+										<uid>93df0dc38bcac62a882fb5f9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

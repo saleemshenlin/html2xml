@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>松江城市规划展示馆</name>
+			<location>
+				<lat>31.040315</lat>
+				<lng>121.204524</lng>
+			</location>
+							<address>松江区新北路900弄泰晤士小镇682号(近沪杭高速公路)</address>
+										<telephone>(021)37720099,(021)37722542</telephone>
+										<uid>9ee392b89459543cbbbd6310</uid>
+								</result>
+			<result>
+			<name>城市规划展示馆</name>
+			<location>
+				<lat>31.044508</lat>
+				<lng>121.200056</lng>
+			</location>
+							<address>松江区新北路900弄泰晤士小镇682号（近沪杭高速公路）</address>
+										<telephone>(021)37720099</telephone>
+										<uid>e7478757a9cc07018605bf5e</uid>
+								</result>
+			<result>
+			<name>泰晤士星空剧场</name>
+			<location>
+				<lat>31.039364</lat>
+				<lng>121.204886</lng>
+			</location>
+							<address>松江区泰晤士小镇626号城市规划展示馆两楼</address>
+										<telephone>(021)54106136,15221009197</telephone>
+										<uid>9d5d81bcf5e68db89b68b4e2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

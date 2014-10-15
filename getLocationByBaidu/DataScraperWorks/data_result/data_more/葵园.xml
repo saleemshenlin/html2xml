@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>葵园农家乐</name>
+			<location>
+				<lat>30.985526</lat>
+				<lng>121.894637</lng>
+			</location>
+							<address>浦东新区书院镇东大公路4677号(近两港大道)</address>
+										<telephone>021-68190777,021-68253185</telephone>
+										<uid>373cf757a13165774354d7d9</uid>
+								</result>
+			<result>
+			<name>葵园</name>
+			<location>
+				<lat>31.196036</lat>
+				<lng>121.444507</lng>
+			</location>
+							<address>上海徐汇区漕溪北路439号建国宾馆1楼(南丹路口)</address>
+										<telephone>(021)64399299-3370</telephone>
+										<uid>53349ee374e83e77230262ab</uid>
+								</result>
+			<result>
+			<name>建国宾馆（葵园）</name>
+			<location>
+				<lat>31.196391</lat>
+				<lng>121.444442</lng>
+			</location>
+							<address>上海徐汇区漕溪北路439号建国宾馆1楼(南丹路口)</address>
+										<telephone>(021)64399299</telephone>
+										<uid>637df60a4b8c176b40afe65b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

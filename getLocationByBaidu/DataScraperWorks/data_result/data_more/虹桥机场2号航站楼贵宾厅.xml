@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>虹桥机场2号航站楼贵宾厅</name>
+			<location>
+				<lat>31.19324</lat>
+				<lng>121.354808</lng>
+			</location>
+							<address>长宁区虹桥路2550号虹桥机场2号航站楼</address>
+													<uid>cac5fc7684baf1ea2cb96d19</uid>
+								</result>
+			<result>
+			<name>虹桥机场2号航站楼东航贵宾室</name>
+			<location>
+				<lat>31.19324</lat>
+				<lng>121.354799</lng>
+			</location>
+							<address>长宁区虹桥路2550号虹桥机场2号航站楼内</address>
+													<uid>c00238c87439a72354bfffd6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

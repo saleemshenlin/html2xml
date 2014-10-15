@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>智利驻上海总领事馆</name>
+			<location>
+				<lat>31.207148</lat>
+				<lng>121.406249</lng>
+			</location>
+							<address>延安西路2299号上海世贸大厦25层2501室</address>
+													<uid>8d2c37ccb336e316057ce80e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

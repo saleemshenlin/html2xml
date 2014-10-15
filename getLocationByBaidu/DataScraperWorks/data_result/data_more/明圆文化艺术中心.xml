@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海明圆文化艺术中心</name>
+			<location>
+				<lat>31.218953</lat>
+				<lng>121.465281</lng>
+			</location>
+							<address>复兴中路1199号明园商务中心A座1-5层</address>
+										<telephone>(021)64738383</telephone>
+										<uid>b0d056f2624af27fcac3dbc4</uid>
+								</result>
+			<result>
+			<name>明圆文化艺术中心</name>
+			<location>
+				<lat>31.218984</lat>
+				<lng>121.465262</lng>
+			</location>
+							<address>徐汇区复兴中路1199号</address>
+										<telephone>(021)64738383</telephone>
+										<uid>7bbe89913cb3bcb8b2077d31</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

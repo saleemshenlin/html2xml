@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>西摩会堂</name>
+			<location>
+				<lat>31.237851</lat>
+				<lng>121.459186</lng>
+			</location>
+							<address>陕西北路500号</address>
+													<uid>05dd7d5f15966202ad080f06</uid>
+								</result>
+			<result>
+			<name>西摩会堂-西门</name>
+			<location>
+				<lat>31.237851</lat>
+				<lng>121.458927</lng>
+			</location>
+							<address>陕西北路500号</address>
+													<uid>835409c816600e6f4e5547e6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

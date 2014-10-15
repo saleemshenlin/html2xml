@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海交响乐团音乐厅</name>
+			<location>
+				<lat>31.217564</lat>
+				<lng>121.458174</lng>
+			</location>
+							<address>徐汇区复兴中路1380号(近宝庆路)</address>
+													<uid>7004798070a561790d3dda58</uid>
+								</result>
+			<result>
+			<name>上海交响乐团</name>
+			<location>
+				<lat>31.214653</lat>
+				<lng>121.448301</lng>
+			</location>
+							<address>徐汇区湖南路105号(近武康路)</address>
+										<telephone>(021)64375617,4008210522</telephone>
+										<uid>b4ca90d3fc1222c8c6effb61</uid>
+								</result>
+			<result>
+			<name>斯图加特交响乐团音乐会</name>
+			<location>
+				<lat>31.228549</lat>
+				<lng>121.548337</lng>
+			</location>
+							<address>上海市浦东新区丁香路425号东方艺术中心音乐厅</address>
+													<uid>7aa89360cdaf1ae004fef538</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

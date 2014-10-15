@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>柬埔寨王国驻上海总领事馆</name>
+			<location>
+				<lat>31.252825</lat>
+				<lng>121.476673</lng>
+			</location>
+							<address>闸北区天目中路267号蓝宝石大厦12FA座(西藏北路)</address>
+										<telephone>(021)51015866</telephone>
+										<uid>126cfca9bf8b7d384c6d4616</uid>
+								</result>
+			<result>
+			<name>香港光大国际艺术品拍卖有限公司</name>
+			<location>
+				<lat>31.252786</lat>
+				<lng>121.476682</lng>
+			</location>
+							<address>上海市上海闸北区天目中路267号蓝宝石大厦21层(柬埔寨领事馆上)</address>
+										<telephone>(021)60768941</telephone>
+										<uid>d235d8989bd1b60915c905da</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>陈止善堂</name>
+			<location>
+				<lat>31.209881</lat>
+				<lng>121.433515</lng>
+			</location>
+							<address>长宁区新华路294弄5号（玉屏南路遵义路）</address>
+													<uid>741fbfeeccb0ea932bb97c2b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>陈毅塑像</name>
+			<location>
+				<lat>31.244783</lat>
+				<lng>121.49699</lng>
+			</location>
+							<address>上海市黄浦区中山东一路外滩</address>
+													<uid>0a46dc0f46e5e15f316212ab</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

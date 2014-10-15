@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>罗店龙船文化展示馆</name>
+			<location>
+				<lat>31.421089</lat>
+				<lng>121.354011</lng>
+			</location>
+							<address>宝山区市一路199号（罗溪路市一路）</address>
+										<telephone>(021)66860859</telephone>
+										<uid>ca2807de0e076153ae045717</uid>
+								</result>
+			<result>
+			<name>罗店龙船文化展示馆</name>
+			<location>
+				<lat>31.420781</lat>
+				<lng>121.354121</lng>
+			</location>
+							<address>宝山区市一路199号(罗溪路市一路)</address>
+										<telephone>(021)56861335,(021)66860859</telephone>
+										<uid>61f634f6b482b0046a49f3af</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

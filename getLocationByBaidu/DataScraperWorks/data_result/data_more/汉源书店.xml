@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>汉源书店</name>
+			<location>
+				<lat>31.214923</lat>
+				<lng>121.469465</lng>
+			</location>
+							<address>卢湾区绍兴路27号(近瑞金二路)</address>
+										<telephone>(021)64150675</telephone>
+										<uid>7fd72311e0673c865cbe8644</uid>
+								</result>
+			<result>
+			<name>子贤荟Club1911</name>
+			<location>
+				<lat>31.216027</lat>
+				<lng>121.471504</lng>
+			</location>
+							<address>卢湾区绍兴路38号（近汉源书店）</address>
+										<telephone>(021)33689550</telephone>
+										<uid>9b9f41d3b1353207fea77831</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

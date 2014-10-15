@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>东岳庙</name>
+			<location>
+				<lat>31.013401</lat>
+				<lng>121.239992</lng>
+			</location>
+							<address>中山中路196弄9</address>
+										<telephone>(021)57722809,(021)67731861</telephone>
+										<uid>75d0881afcf81b4e3b04b183</uid>
+								</result>
+			<result>
+			<name>东岳庙</name>
+			<location>
+				<lat>31.013447</lat>
+				<lng>121.239811</lng>
+			</location>
+							<address>松江区中山中路196弄9号（近庙前街）</address>
+										<telephone>(021)67731861</telephone>
+										<uid>2b94c446c071c4c479b55c89</uid>
+								</result>
+			<result>
+			<name>东岳庙(南门)</name>
+			<location>
+				<lat>31.013316</lat>
+				<lng>121.240072</lng>
+			</location>
+							<address>中山中路196弄9</address>
+													<uid>cfe8d28946a115670ba8d4a5</uid>
+								</result>
+			<result>
+			<name>普洱天星阁</name>
+			<location>
+				<lat>31.013656</lat>
+				<lng>121.240737</lng>
+			</location>
+							<address>中山中路196弄9东岳庙附近</address>
+													<uid>4b6b222a8f027d70d0ff235c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

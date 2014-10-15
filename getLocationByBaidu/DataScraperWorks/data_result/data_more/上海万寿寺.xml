@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>万寿寺</name>
+			<location>
+				<lat>30.738005</lat>
+				<lng>121.335449</lng>
+			</location>
+							<address>近郊金山区卫镇金卫村1148号</address>
+										<telephone>(021)57262454</telephone>
+										<uid>d7fd2ad3b771c8550bccdd32</uid>
+								</result>
+			<result>
+			<name>万寿寺-停车场</name>
+			<location>
+				<lat>30.737772</lat>
+				<lng>121.335185</lng>
+			</location>
+							<address>城河路280号万寿寺附近</address>
+													<uid>c8d08797b2b18e01da2f28dc</uid>
+								</result>
+			<result>
+			<name>万寿寺-南门</name>
+			<location>
+				<lat>30.737888</lat>
+				<lng>121.335189</lng>
+			</location>
+							<address>金山卫镇金卫村1148号</address>
+													<uid>e01a387bf6dabc158733043b</uid>
+								</result>
+			<result>
+			<name>万寿寺-停车场</name>
+			<location>
+				<lat>30.737593</lat>
+				<lng>121.333711</lng>
+			</location>
+							<address>金山区金山区城河路277号</address>
+													<uid>7d1c6d192d58d81d6fc02cc5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

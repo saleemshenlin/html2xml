@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>玉观缘翡翠玉石城</name>
+			<location>
+				<lat>31.258528</lat>
+				<lng>121.475121</lng>
+			</location>
+							<address>西藏北路605号</address>
+										<telephone>(021)36366263</telephone>
+										<uid>aa40108b77dc5f0cc4effb86</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

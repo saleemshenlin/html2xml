@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>清真女寺</name>
+			<location>
+				<lat>31.227075</lat>
+				<lng>121.495987</lng>
+			</location>
+							<address>黄浦区小桃园街26号（近复兴东路）</address>
+										<telephone>(021)63775442</telephone>
+										<uid>d82d66979a948aa7d518b75c</uid>
+								</result>
+			<result>
+			<name>小桃园清真女寺(东门)</name>
+			<location>
+				<lat>31.227036</lat>
+				<lng>121.496054</lng>
+			</location>
+							<address>小桃园街24号附近</address>
+													<uid>994f43ba5ed4238ed13ce3c8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

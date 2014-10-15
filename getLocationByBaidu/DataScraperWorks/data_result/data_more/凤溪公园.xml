@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>凤溪公园</name>
+			<location>
+				<lat>31.212406</lat>
+				<lng>121.233833</lng>
+			</location>
+							<address>凤溪镇</address>
+													<uid>5211d2198b3a3a597cc876b9</uid>
+								</result>
+			<result>
+			<name>枫溪公园</name>
+			<location>
+				<lat>30.891148</lat>
+				<lng>121.024385</lng>
+			</location>
+							<address>近郊金山区枫泾镇新枫路45号(枫丽路新枫路)</address>
+										<telephone>(021)57351429</telephone>
+										<uid>3be122e11fb76d531ef74d30</uid>
+								</result>
+			<result>
+			<name>枫溪公园</name>
+			<location>
+				<lat>30.891419</lat>
+				<lng>121.020875</lng>
+			</location>
+							<address>金山区枫泾镇新枫路45号（枫丽路新枫路）</address>
+										<telephone>(021)57357429</telephone>
+										<uid>0a571a07c582b75d8936eee1</uid>
+								</result>
+			<result>
+			<name>枫溪公园-东北门</name>
+			<location>
+				<lat>30.891953</lat>
+				<lng>121.024434</lng>
+			</location>
+							<address>新泾路45</address>
+													<uid>6d678f725c1daa1c94ec84cd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

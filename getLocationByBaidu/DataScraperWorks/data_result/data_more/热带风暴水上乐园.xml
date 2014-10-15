@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>热带风暴水上乐园</name>
+			<location>
+				<lat>31.145448</lat>
+				<lng>121.379768</lng>
+			</location>
+							<address>新镇路78号</address>
+										<telephone>(021)64783333</telephone>
+										<uid>15e1e85e976fa5dc58109357</uid>
+								</result>
+			<result>
+			<name>热带风暴水上乐园</name>
+			<location>
+				<lat>31.144274</lat>
+				<lng>121.377328</lng>
+			</location>
+							<address>上海市闵行区新镇路78号（近顾戴路）</address>
+										<telephone>(021)64783333</telephone>
+										<uid>fae2fc7ce75390ce902ca343</uid>
+								</result>
+			<result>
+			<name>上海维也纳精品酒店（七宝店）</name>
+			<location>
+				<lat>31.148392</lat>
+				<lng>121.367142</lng>
+			</location>
+							<address>上海中谊路528号（靠近七莘路邻近久负盛名的七宝古镇、热带风暴水上乐园、银七星滑雪场）</address>
+										<telephone>(021)31088118</telephone>
+										<uid>dc3b409c6393a8308f55ec85</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

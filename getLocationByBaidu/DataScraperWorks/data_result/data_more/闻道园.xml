@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>闻道园</name>
+			<location>
+				<lat>31.443928</lat>
+				<lng>121.364892</lng>
+			</location>
+							<address>宝山区潘泾路2888号（潘泾路市一东路）</address>
+										<telephone>(021)66866777</telephone>
+										<uid>d24e48ebfe0859adaeee7aab</uid>
+								</result>
+			<result>
+			<name>卫斯嘉闻道园</name>
+			<location>
+				<lat>31.443928</lat>
+				<lng>121.364892</lng>
+			</location>
+							<address>宝山区潘泾路2888号（潘泾路市一东路）</address>
+										<telephone>(021)66860859</telephone>
+										<uid>aeaa70ce404f936c9e82eaa9</uid>
+								</result>
+			<result>
+			<name>闻道园停车场</name>
+			<location>
+				<lat>31.444622</lat>
+				<lng>121.364396</lng>
+			</location>
+							<address>上海市宝山区</address>
+													<uid>4fcd9a90e6be2a22e5e965d0</uid>
+								</result>
+			<result>
+			<name>闻道园-游客中心</name>
+			<location>
+				<lat>31.444129</lat>
+				<lng>121.364376</lng>
+			</location>
+							<address>上海市宝山区</address>
+													<uid>ec475a9461215ccb28d7ab96</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

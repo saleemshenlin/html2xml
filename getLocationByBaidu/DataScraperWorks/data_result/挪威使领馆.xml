@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>挪威驻上海总领事馆</name>
+			<location>
+				<lat>31.238083</lat>
+				<lng>121.494224</lng>
+			</location>
+							<address>延安东路222号外滩中心1701室</address>
+										<telephone>(021)60397500</telephone>
+										<uid>a582b270abf654afad04579d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

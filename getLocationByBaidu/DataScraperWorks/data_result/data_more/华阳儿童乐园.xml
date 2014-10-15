@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>7</total>
+    <results>
+			<result>
+			<name>深圳市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>成都市</name>
+			<num>3</num>
+		</result>
+			<result>
+			<name>济南市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>青岛市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>石家庄市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>保定市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>景德镇市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

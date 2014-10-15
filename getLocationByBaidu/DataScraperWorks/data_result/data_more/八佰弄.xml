@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>八佰弄</name>
+			<location>
+				<lat>31.181493</lat>
+				<lng>121.50148</lng>
+			</location>
+							<address>浦东新区上南路886号6楼(近昌里路)</address>
+										<telephone>(021)68589599</telephone>
+										<uid>f9fd60625e4000060f0e6b3e</uid>
+								</result>
+			<result>
+			<name>八佰弄</name>
+			<location>
+				<lat>31.181679</lat>
+				<lng>121.501434</lng>
+			</location>
+							<address>浦东新区上南路850号（近昌里路）</address>
+										<telephone>(021)68589599,(021)50569893</telephone>
+										<uid>fa3a01b12be16edb04fef521</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

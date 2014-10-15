@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>云林寺</name>
+			<location>
+				<lat>31.54106</lat>
+				<lng>121.683888</lng>
+			</location>
+							<address>五滧村登瀛1199</address>
+										<telephone>(021)59450090</telephone>
+										<uid>5211d2198b503a597dc87657</uid>
+								</result>
+			<result>
+			<name>云林寺-东北门</name>
+			<location>
+				<lat>31.541099</lat>
+				<lng>121.683825</lng>
+			</location>
+							<address>五滧村登瀛1199</address>
+													<uid>b19be299d8b73d63354aae52</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

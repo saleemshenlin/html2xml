@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>圣母院旧址</name>
+			<location>
+				<lat>31.197727</lat>
+				<lng>121.444988</lng>
+			</location>
+							<address>漕溪北路201号</address>
+													<uid>02f80aacd9eb561b0a1cc705</uid>
+								</result>
+			<result>
+			<name>圣母院旧址-西二门</name>
+			<location>
+				<lat>31.197781</lat>
+				<lng>121.444755</lng>
+			</location>
+							<address>漕溪北路201</address>
+													<uid>0e33ed217cd2e7fad2f49ed1</uid>
+								</result>
+			<result>
+			<name>圣母院旧址-西一门</name>
+			<location>
+				<lat>31.197905</lat>
+				<lng>121.444796</lng>
+			</location>
+							<address>漕溪北路97号附近</address>
+													<uid>26205c497e66ad11734b877d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

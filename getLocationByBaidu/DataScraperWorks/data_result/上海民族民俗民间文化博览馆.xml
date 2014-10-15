@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海民族民俗民间文化博览馆</name>
+			<location>
+				<lat>31.176697</lat>
+				<lng>121.501571</lng>
+			</location>
+							<address>浦东新区成山路216号(近上南路)</address>
+										<telephone>(021)50565186</telephone>
+										<uid>b64a7b1f6532792b9703194c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

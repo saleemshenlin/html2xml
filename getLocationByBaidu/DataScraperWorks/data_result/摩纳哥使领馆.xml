@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>摩纳哥驻上海名誉领事馆</name>
+			<location>
+				<lat>31.234872</lat>
+				<lng>121.530737</lng>
+			</location>
+							<address>东方路710号汤臣金融大厦2楼A-11室</address>
+										<telephone>(021)58314008</telephone>
+										<uid>e81a4b32a86e66f9d23ce3c2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>主恩堂</name>
+			<location>
+				<lat>31.28599</lat>
+				<lng>121.592816</lng>
+			</location>
+							<address>东陆路431识别</address>
+										<telephone>(021)50695480</telephone>
+										<uid>c879fa014646604bc909f073</uid>
+								</result>
+			<result>
+			<name>主恩堂</name>
+			<location>
+				<lat>31.172819</lat>
+				<lng>121.275973</lng>
+			</location>
+							<address>徐泾镇育才路569号(近明珠路)</address>
+													<uid>cb4fd1464eb7d23f9d9d685f</uid>
+								</result>
+			<result>
+			<name>徐泾主恩堂</name>
+			<location>
+				<lat>31.17302</lat>
+				<lng>121.27605</lng>
+			</location>
+							<address>青浦区徐泾镇育才路569号（近明珠路）</address>
+													<uid>4ceda876da1f89d5af31e535</uid>
+								</result>
+			<result>
+			<name>主恩堂-西门</name>
+			<location>
+				<lat>31.286028</lat>
+				<lng>121.592791</lng>
+			</location>
+							<address>东陆路431</address>
+													<uid>96d27be4495cf0feca29152b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

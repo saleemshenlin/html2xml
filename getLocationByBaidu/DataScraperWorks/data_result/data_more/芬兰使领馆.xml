@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>芬兰驻上海总领事馆</name>
+			<location>
+				<lat>31.234926</lat>
+				<lng>121.462336</lng>
+			</location>
+							<address>南京西路1168号中信泰富广场25层2501～2505</address>
+										<telephone>(021)52929900</telephone>
+										<uid>823d71bdbab92e20f219371c</uid>
+								</result>
+			<result>
+			<name>芬兰驻沪总领事馆</name>
+			<location>
+				<lat>31.234872</lat>
+				<lng>121.462154</lng>
+			</location>
+							<address>南京西路1168号中信泰富广场2501-05</address>
+													<uid>448b0811a56f85ec3ce231c4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

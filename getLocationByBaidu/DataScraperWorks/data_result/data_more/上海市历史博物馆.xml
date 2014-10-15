@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海城市历史发展陈列馆</name>
+			<location>
+				<lat>31.245076</lat>
+				<lng>121.506591</lng>
+			</location>
+							<address>浦东世纪大道1号东方明珠零米大厅内（丰和路明珠塔路）</address>
+										<telephone>(021)52392222</telephone>
+										<uid>71fee14308ce66284d554773</uid>
+								</result>
+			<result>
+			<name>上海市历史博物馆</name>
+			<location>
+				<lat>31.21666</lat>
+				<lng>121.430787</lng>
+			</location>
+							<address>长宁区延安西路1357号（定西路昭化路）</address>
+													<uid>e250fc9c2ebf316e9e82ea97</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>99广中绿地</name>
+			<location>
+				<lat>31.285079</lat>
+				<lng>121.460193</lng>
+			</location>
+							<address>广延路418号(近广中路)</address>
+													<uid>d82d6697d4f0d8bfd418b798</uid>
+								</result>
+			<result>
+			<name>英伦宝贝精致儿童摄影</name>
+			<location>
+				<lat>31.288104</lat>
+				<lng>121.456493</lng>
+			</location>
+							<address>闸北区广中西路99弄新梅共和城58号1103室(近大宁绿地)</address>
+										<telephone>(021)61474880</telephone>
+										<uid>318483a8ee8044c7d8131885</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海世博城市最佳实践区商务有限公司</name>
+			<location>
+				<lat>31.209256</lat>
+				<lng>121.501924</lng>
+			</location>
+							<address>南车站路585</address>
+													<uid>86348526a75838a2fbdc85e3</uid>
+								</result>
+			<result>
+			<name>上海世博城市最佳实践区北区</name>
+			<location>
+				<lat>31.207804</lat>
+				<lng>121.49979</lng>
+			</location>
+							<address>上海市黄浦区</address>
+													<uid>cfb0a9c02ccb88509cec2bf0</uid>
+								</result>
+			<result>
+			<name>实践家管理咨询（上海）有限公司分公司</name>
+			<location>
+				<lat>31.261144</lat>
+				<lng>121.425501</lng>
+			</location>
+							<address>上海市普陀区铜川路70号新城市中心广场2202室</address>
+										<telephone>(021)31262518,4000214098</telephone>
+										<uid>854a31ae219387dc260bd04b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

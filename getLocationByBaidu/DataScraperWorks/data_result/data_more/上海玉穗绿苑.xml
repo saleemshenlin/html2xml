@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>玉穗绿苑</name>
+			<location>
+				<lat>30.89186</lat>
+				<lng>121.504825</lng>
+			</location>
+							<address>金海公路2229</address>
+										<telephone>(021)33654460</telephone>
+										<uid>d52831f9a658edd92efaa758</uid>
+								</result>
+			<result>
+			<name>上海西陆真人CS俱乐部</name>
+			<location>
+				<lat>30.891589</lat>
+				<lng>121.504911</lng>
+			</location>
+							<address>奉贤区金海公路2229号玉穗绿苑</address>
+										<telephone>15221700236</telephone>
+										<uid>2a4c663919a5530f3be4a61d</uid>
+								</result>
+			<result>
+			<name>飞扬真人CS野战俱乐部(奉贤玉穗店)</name>
+			<location>
+				<lat>30.891643</lat>
+				<lng>121.504947</lng>
+			</location>
+							<address>奉贤区奉贤区金海公路玉穗绿苑AAA级景区2229号(近平庄路)</address>
+										<telephone>15800318405</telephone>
+										<uid>28576ff1718f4b181d389426</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

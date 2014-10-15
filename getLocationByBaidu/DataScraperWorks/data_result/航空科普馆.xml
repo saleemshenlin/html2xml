@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海航空科普馆</name>
+			<location>
+				<lat>31.142435</lat>
+				<lng>121.41313</lng>
+			</location>
+							<address>沪闵路7900号</address>
+										<telephone>(021)54809490</telephone>
+										<uid>9009257d1bdbaf5bc7f50d8a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

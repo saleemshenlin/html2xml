@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海油画雕塑院</name>
+			<location>
+				<lat>31.204584</lat>
+				<lng>121.406794</lng>
+			</location>
+							<address>金珠路111号</address>
+										<telephone>(021)62705109,(021)62759870</telephone>
+										<uid>dbf4d6ee0ca68c2b6fa3cc62</uid>
+								</result>
+			<result>
+			<name>上海油画雕塑院美术馆</name>
+			<location>
+				<lat>31.204584</lat>
+				<lng>121.406795</lng>
+			</location>
+							<address>长宁区金珠路111号（虹桥路金珠路）</address>
+										<telephone>(021)62708433</telephone>
+										<uid>17cd104def383c8203ff2dea</uid>
+								</result>
+			<result>
+			<name>上海油画雕塑院-东门</name>
+			<location>
+				<lat>31.204762</lat>
+				<lng>121.406854</lng>
+			</location>
+							<address>金珠路111号</address>
+													<uid>1cf71f3ac97df55d210262af</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

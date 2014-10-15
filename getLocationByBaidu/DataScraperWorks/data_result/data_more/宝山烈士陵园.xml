@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>宝山烈士陵园</name>
+			<location>
+				<lat>31.405796</lat>
+				<lng>121.497266</lng>
+			</location>
+							<address>宝山区宝杨路599号（近友谊支路）</address>
+										<telephone>(021)56108277</telephone>
+										<uid>d146b388de8a60df74026969</uid>
+								</result>
+			<result>
+			<name>雍业汽车维修服务(宝山店)</name>
+			<location>
+				<lat>31.40595</lat>
+				<lng>121.497857</lng>
+			</location>
+							<address>宝山区宝杨路581号（近烈士陵园）</address>
+										<telephone>(021)66590678</telephone>
+										<uid>e93761f6409ab015223bf24c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

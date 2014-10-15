@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>胡蝶旧居</name>
+			<location>
+				<lat>31.226125</lat>
+				<lng>121.456846</lng>
+			</location>
+							<address>巨鹿路786弄13号</address>
+													<uid>21b2bb231c4149cb2811d125</uid>
+								</result>
+			<result>
+			<name>胡蝶故居</name>
+			<location>
+				<lat>31.229345</lat>
+				<lng>121.459629</lng>
+			</location>
+							<address>静安区延安中路913弄四明村</address>
+													<uid>6ac28a7656f56e18d8131808</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

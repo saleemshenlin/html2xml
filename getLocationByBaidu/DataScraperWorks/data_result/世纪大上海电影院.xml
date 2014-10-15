@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>Jessica Wannius</name>
+			<location>
+				<lat>31.240869</lat>
+				<lng>121.481598</lng>
+			</location>
+							<address>黄浦区西藏中路500号第一百货商店新楼8楼(世纪大上海电影院旁)</address>
+													<uid>15e1e85ead5afbbb5810937f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>沙特阿拉伯馆</name>
+			<location>
+				<lat>31.194144</lat>
+				<lng>121.502662</lng>
+			</location>
+							<address>浦东新区博成路1221号（近高科西路口）</address>
+										<telephone>13816623478</telephone>
+										<uid>0095eb355ed357333ae4a68a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

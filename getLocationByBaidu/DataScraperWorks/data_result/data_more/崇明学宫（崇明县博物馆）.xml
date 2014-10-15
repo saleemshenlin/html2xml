@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>崇明学宫</name>
+			<location>
+				<lat>31.624501</lat>
+				<lng>121.408182</lng>
+			</location>
+							<address>崇明县鳌山路696号(近南门码头)</address>
+										<telephone>(021)69696655,(021)69696655</telephone>
+										<uid>3810c879554aeb8a9c09f755</uid>
+								</result>
+			<result>
+			<name>崇明学宫</name>
+			<location>
+				<lat>31.62447</lat>
+				<lng>121.408157</lng>
+			</location>
+							<address>上海市崇明县城桥镇鳌山路696号</address>
+										<telephone>(021)59623827,(021)69696501</telephone>
+										<uid>37962b49d7dbe1fe8bf15d1a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

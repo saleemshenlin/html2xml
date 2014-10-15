@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>东海观音寺</name>
+			<location>
+				<lat>30.82162</lat>
+				<lng>121.521099</lng>
+			</location>
+							<address>奉贤区奉贤区金汇塘路999号(近海乐路)</address>
+										<telephone>(021)57123999</telephone>
+										<uid>083a55faabf38760246e98c0</uid>
+								</result>
+			<result>
+			<name>东海观音寺</name>
+			<location>
+				<lat>30.82162</lat>
+				<lng>121.521099</lng>
+			</location>
+							<address>奉贤区金汇塘路999号（近海乐路）</address>
+										<telephone>(021)57123999</telephone>
+										<uid>7351224440a4af40d2f49e9e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

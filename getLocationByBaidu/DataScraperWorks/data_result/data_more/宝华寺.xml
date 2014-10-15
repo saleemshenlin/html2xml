@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>宝华寺</name>
+			<location>
+				<lat>31.302568</lat>
+				<lng>121.43464</lng>
+			</location>
+							<address>闸北区高平路1000号(近江场西路)</address>
+										<telephone>(021)56503032</telephone>
+										<uid>75d0881ac602014c3a04b1ff</uid>
+								</result>
+			<result>
+			<name>宝华寺</name>
+			<location>
+				<lat>31.302537</lat>
+				<lng>121.434677</lng>
+			</location>
+							<address>闸北区高平路1000号（近江场西路）</address>
+										<telephone>(021)56503032</telephone>
+										<uid>72758d31e8a3a4740782c2d7</uid>
+								</result>
+			<result>
+			<name>宝华寺-西门</name>
+			<location>
+				<lat>31.303116</lat>
+				<lng>121.4343</lng>
+			</location>
+							<address>高平路1000</address>
+										<telephone>(021)56503032</telephone>
+										<uid>2ca528aaee6895b6a2d23017</uid>
+								</result>
+			<result>
+			<name>宝华寺-南门</name>
+			<location>
+				<lat>31.302468</lat>
+				<lng>121.434504</lng>
+			</location>
+							<address>高平路1000</address>
+													<uid>7350ba2301b148c8bea240a3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

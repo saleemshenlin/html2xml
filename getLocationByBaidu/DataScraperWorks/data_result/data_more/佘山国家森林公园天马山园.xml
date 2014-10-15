@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>佘山国家森林公园天马山园</name>
+			<location>
+				<lat>31.082216</lat>
+				<lng>121.158731</lng>
+			</location>
+							<address>莱乐东路78号</address>
+										<telephone>(021)57744980</telephone>
+										<uid>64ff3be1a36a9fc690114c10</uid>
+								</result>
+			<result>
+			<name>佘山国家森林公园天马山园-西门</name>
+			<location>
+				<lat>31.080182</lat>
+				<lng>121.15458</lng>
+			</location>
+							<address>莱乐东路78号</address>
+										<telephone>(021)57744980</telephone>
+										<uid>e8fe738cc19365dcebe58214</uid>
+								</result>
+			<result>
+			<name>佘山国家森林公园天马山园-东门</name>
+			<location>
+				<lat>31.079989</lat>
+				<lng>121.162965</lng>
+			</location>
+							<address>刘家山村460</address>
+										<telephone>(021)57744980</telephone>
+										<uid>70c8b04da58b6ffacac3db73</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

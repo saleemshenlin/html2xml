@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海师范大学博物馆</name>
+			<location>
+				<lat>31.168656</lat>
+				<lng>121.42766</lng>
+			</location>
+							<address>桂林路81号上海师范大学徐汇校区东部文苑楼4楼</address>
+										<telephone>(021)64324672</telephone>
+										<uid>16a951559fe56855373a7138</uid>
+								</result>
+			<result>
+			<name>华东师范大学古钱币博物馆</name>
+			<location>
+				<lat>31.233004</lat>
+				<lng>121.414957</lng>
+			</location>
+							<address>中山北路3663号华东师范大学中山北路校区-文科大楼7层</address>
+										<telephone>(021)62232334</telephone>
+										<uid>299d773e977e8fa6ab0dd853</uid>
+								</result>
+			<result>
+			<name>上海师范大学文物博物馆</name>
+			<location>
+				<lat>31.168648</lat>
+				<lng>121.42766</lng>
+			</location>
+							<address>徐汇区桂林路81号文苑楼4楼（漕宝路桂林路）</address>
+										<telephone>(021)64324672</telephone>
+										<uid>6179188e2bb762c2bd48427e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

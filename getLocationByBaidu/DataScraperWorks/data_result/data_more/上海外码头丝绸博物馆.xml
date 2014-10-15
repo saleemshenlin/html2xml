@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海外码头丝绸博物馆</name>
+			<location>
+				<lat>31.21656</lat>
+				<lng>121.511523</lng>
+			</location>
+							<address>黄浦区中山南路1029号幸福码头创意园1号楼(近南浦大桥)</address>
+										<telephone>(021)33310030,(021)33310050</telephone>
+										<uid>f97b618581bd96d8f822132f</uid>
+								</result>
+			<result>
+			<name>上海外码头丝绸博物馆</name>
+			<location>
+				<lat>31.21656</lat>
+				<lng>121.511431</lng>
+			</location>
+							<address>中山南路1029号幸福码头创意园1号楼</address>
+										<telephone>(021)33310030,(021)33310050</telephone>
+										<uid>d7fd2ad35cfee32a0accdda2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

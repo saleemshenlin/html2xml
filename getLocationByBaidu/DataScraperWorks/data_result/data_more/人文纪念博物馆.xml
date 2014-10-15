@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>人文纪念博物馆</name>
+			<location>
+				<lat>31.116871</lat>
+				<lng>121.138999</lng>
+			</location>
+							<address>青浦区外青松公路7270号福寿园</address>
+													<uid>a7b8cef4b094631d0bccdde7</uid>
+								</result>
+			<result>
+			<name>人文纪念博物馆</name>
+			<location>
+				<lat>31.116871</lat>
+				<lng>121.138999</lng>
+			</location>
+							<address>青浦区外青松公路7270号福寿园</address>
+													<uid>eda2f0f1d9ca3845f723106c</uid>
+								</result>
+			<result>
+			<name>人文纪念博物馆</name>
+			<location>
+				<lat>31.117327</lat>
+				<lng>121.140347</lng>
+			</location>
+							<address>青浦区外青松公路7270号福寿园</address>
+										<telephone>(021)69209026</telephone>
+										<uid>e889a744ef5b2ec88605bf13</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

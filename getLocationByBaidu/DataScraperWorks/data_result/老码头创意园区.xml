@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>老北门饭店月光码头店</name>
+			<location>
+				<lat>31.327649</lat>
+				<lng>120.711445</lng>
+			</location>
+							<address>苏州工业园区月光码头A1号(近科文博览中心)</address>
+										<telephone>(0512)69367738</telephone>
+										<uid>39d43f82ceea339fa9059d83</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

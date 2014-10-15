@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海农业展览馆</name>
+			<location>
+				<lat>31.196708</lat>
+				<lng>121.383053</lng>
+			</location>
+							<address>虹桥路2268号虹桥商务大厦1层</address>
+										<telephone>(021)62376370</telephone>
+										<uid>655c97ba079c48a40b1cc7ce</uid>
+								</result>
+			<result>
+			<name>上海农业展览馆有限公司</name>
+			<location>
+				<lat>31.196708</lat>
+				<lng>121.383053</lng>
+			</location>
+							<address>虹桥路2268号</address>
+										<telephone>(021)62376449</telephone>
+										<uid>ad29134f5f6587a48505bf51</uid>
+								</result>
+			<result>
+			<name>福牌阿胶直营店</name>
+			<location>
+				<lat>31.19894</lat>
+				<lng>121.378305</lng>
+			</location>
+							<address>上海长宁区平溪路51号商铺(近动物园或上海农业展览馆)</address>
+										<telephone>18019718803</telephone>
+										<uid>22980ad2068d7ff8c61b7593</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>金谷村</name>
+			<location>
+				<lat>31.216344</lat>
+				<lng>121.472029</lng>
+			</location>
+							<address>绍兴路18弄1～83号</address>
+													<uid>d4034eb32c35818ac136449a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

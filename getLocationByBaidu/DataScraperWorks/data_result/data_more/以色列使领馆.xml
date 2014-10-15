@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>以色列驻上海总领事馆</name>
+			<location>
+				<lat>31.20887</lat>
+				<lng>121.409498</lng>
+			</location>
+							<address>娄山关路55号新虹桥大厦703室</address>
+										<telephone>(021)61264500</telephone>
+										<uid>af55114fb3d952827dc8769b</uid>
+								</result>
+			<result>
+			<name>以色列驻上海总领事馆</name>
+			<location>
+				<lat>31.240661</lat>
+				<lng>121.490783</lng>
+			</location>
+							<address>福州路318号腾飞浦汇大厦13层1301～1308室</address>
+										<telephone>(021)60102500</telephone>
+										<uid>8279589a714ed56f343a71f8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

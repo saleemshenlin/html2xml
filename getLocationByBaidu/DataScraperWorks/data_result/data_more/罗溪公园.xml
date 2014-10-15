@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>罗溪公园</name>
+			<location>
+				<lat>31.42394</lat>
+				<lng>121.357738</lng>
+			</location>
+							<address>罗店镇市一路88号</address>
+										<telephone>(021)56866820</telephone>
+										<uid>a7c56ee078b61acda3acc405</uid>
+								</result>
+			<result>
+			<name>罗溪公园-东门</name>
+			<location>
+				<lat>31.424294</lat>
+				<lng>121.359045</lng>
+			</location>
+							<address>市一路130</address>
+										<telephone>(021)56866820</telephone>
+										<uid>29b950a854765e96e81e97ac</uid>
+								</result>
+			<result>
+			<name>罗溪公园-南门</name>
+			<location>
+				<lat>31.4229</lat>
+				<lng>121.358592</lng>
+			</location>
+							<address>市一路130</address>
+										<telephone>(021)56866820</telephone>
+										<uid>e88b5c2ae6646c4409b93a94</uid>
+								</result>
+			<result>
+			<name>罗溪公园-东南门</name>
+			<location>
+				<lat>31.422954</lat>
+				<lng>121.358626</lng>
+			</location>
+							<address>市一路</address>
+													<uid>b8eb9675d3dfb092ae31e53a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

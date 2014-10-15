@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>菲律宾驻沪总领事馆</name>
+			<location>
+				<lat>31.216251</lat>
+				<lng>121.435072</lng>
+			</location>
+							<address>延安西路1160号首信银都国际广场3层301</address>
+													<uid>f19faec7349ee7fe9ee32144</uid>
+								</result>
+			<result>
+			<name>菲律宾驻上海总领事馆</name>
+			<location>
+				<lat>31.216266</lat>
+				<lng>121.435164</lng>
+			</location>
+							<address>延安西路1160号首信银都大厦301</address>
+										<telephone>(021)62818020</telephone>
+										<uid>f69a4a09a38b52fa0bf5eb80</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

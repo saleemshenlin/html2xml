@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>天主教上海教区主教府</name>
+			<location>
+				<lat>31.197905</lat>
+				<lng>121.443279</lng>
+			</location>
+							<address>蒲西路120号</address>
+										<telephone>(021)64412211</telephone>
+										<uid>d305db1f6721403f932ca3ef</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

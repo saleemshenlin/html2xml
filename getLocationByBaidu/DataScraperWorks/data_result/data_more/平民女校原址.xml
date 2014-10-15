@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>平民女校原址</name>
+			<location>
+				<lat>31.230294</lat>
+				<lng>121.473172</lng>
+			</location>
+							<address>老成都北路7弄20-44号</address>
+													<uid>38ae4eb7107c88beb817e7c2</uid>
+								</result>
+			<result>
+			<name>平民女校原址</name>
+			<location>
+				<lat>31.230379</lat>
+				<lng>121.473052</lng>
+			</location>
+							<address>老成都北路7弄30号</address>
+										<telephone>(021)63590984</telephone>
+										<uid>d670bcf714f1370285420e93</uid>
+								</result>
+			<result>
+			<name>平民女校-原址西门</name>
+			<location>
+				<lat>31.230302</lat>
+				<lng>121.472985</lng>
+			</location>
+							<address>老成都北路7弄中共第二次全国代表大会会址纪念馆附近</address>
+													<uid>21d2bfb3ec41408f8e7727a1</uid>
+								</result>
+			<result>
+			<name>平民女校-原址东门</name>
+			<location>
+				<lat>31.230302</lat>
+				<lng>121.473343</lng>
+			</location>
+							<address>老成都北路7弄20-44号</address>
+													<uid>d0133442fffd35d5461a326d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

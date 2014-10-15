@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>瑞典驻上海总领事馆签证处</name>
+			<location>
+				<lat>31.227986</lat>
+				<lng>121.479563</lng>
+			</location>
+							<address>淮海中路381号中环广场办公楼15层1521～1541室</address>
+										<telephone>(021)53599610</telephone>
+										<uid>74e6abe29102ace936b06c20</uid>
+								</result>
+			<result>
+			<name>瑞典驻上海总领事馆商务处</name>
+			<location>
+				<lat>31.224875</lat>
+				<lng>121.467634</lng>
+			</location>
+							<address>茂名南路59号锦江饭店西楼六组W6313</address>
+													<uid>8f80991351b9bf118bb988f9</uid>
+								</result>
+			<result>
+			<name>瑞典驻上海总领事馆投资处</name>
+			<location>
+				<lat>31.229098</lat>
+				<lng>121.481843</lng>
+			</location>
+							<address>淮海中路283香港广场南座21层s2102</address>
+													<uid>2aa83e150c9b138ea1046436</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

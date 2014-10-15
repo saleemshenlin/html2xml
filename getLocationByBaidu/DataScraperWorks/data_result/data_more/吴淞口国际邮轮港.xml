@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海吴淞口国际邮轮港</name>
+			<location>
+				<lat>31.410458</lat>
+				<lng>121.512053</lng>
+			</location>
+							<address>宝杨路1</address>
+													<uid>4e50940ba32864aec42ba167</uid>
+								</result>
+			<result>
+			<name>上海吴淞口国际邮轮港发展有限公司</name>
+			<location>
+				<lat>31.409025</lat>
+				<lng>121.510246</lng>
+			</location>
+							<address>宝杨路256</address>
+										<telephone>021-56120623</telephone>
+										<uid>ea2679ed0e5a1e50e215f9db</uid>
+								</result>
+			<result>
+			<name>精品五芳面馆</name>
+			<location>
+				<lat>31.409371</lat>
+				<lng>121.50983</lng>
+			</location>
+							<address>宝山区宝杨路1号吴淞口国际游轮港</address>
+													<uid>1b99602586416be877026989</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

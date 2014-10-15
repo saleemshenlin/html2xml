@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>哈米儿童畅想小镇</name>
+			<location>
+				<lat>31.261082</lat>
+				<lng>121.426719</lng>
+			</location>
+							<address>普陀区铜川路68号弘基时尚生活中心3楼（近品尊国际）</address>
+										<telephone>(021)52669889</telephone>
+										<uid>8809b7979e156d4cd518b71c</uid>
+								</result>
+			<result>
+			<name>哈米儿童畅想小镇（上海店）</name>
+			<location>
+				<lat>31.260797</lat>
+				<lng>121.42581</lng>
+			</location>
+							<address>普陀区铜川路68号弘基时尚生活中心3楼(近品尊国际)</address>
+										<telephone>(021)52669889</telephone>
+										<uid>e16ea02999159d29ad080f82</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

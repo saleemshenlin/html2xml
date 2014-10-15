@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>古城墙大境阁</name>
+			<location>
+				<lat>31.230418</lat>
+				<lng>121.489859</lng>
+			</location>
+							<address>小北门大境路269号</address>
+													<uid>37d60a46913608611f1d11ab</uid>
+								</result>
+			<result>
+			<name>古城墙大境阁</name>
+			<location>
+				<lat>31.230333</lat>
+				<lng>121.489834</lng>
+			</location>
+							<address>上海市黄浦区大境路259号</address>
+													<uid>33b1e52565ccef523a04b132</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

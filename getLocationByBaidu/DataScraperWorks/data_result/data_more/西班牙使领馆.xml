@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>西班牙驻上海总领事馆</name>
+			<location>
+				<lat>31.240916</lat>
+				<lng>121.512628</lng>
+			</location>
+							<address>世纪大道88号金茂大厦办公楼二区1201-1203室</address>
+										<telephone>(021)63213543</telephone>
+										<uid>5a25294347299c7d14948ed1</uid>
+								</result>
+			<result>
+			<name>西班牙总领事馆文化处</name>
+			<location>
+				<lat>31.220497</lat>
+				<lng>121.450151</lng>
+			</location>
+							<address>安福路208</address>
+													<uid>5c2dc21df8acfb7a6fc02c56</uid>
+								</result>
+			<result>
+			<name>西班牙驻上海总领事馆经济商务处</name>
+			<location>
+				<lat>31.23569</lat>
+				<lng>121.463501</lng>
+			</location>
+							<address>南京西路1038号梅龙镇商厦25层2501～05+10B</address>
+													<uid>d4aa7c39d2d72fea00294f5b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>7</total>
+    <results>
+			<result>
+			<name>武汉市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>长沙市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>上饶市</name>
+			<num>50</num>
+		</result>
+			<result>
+			<name>佛山市</name>
+			<num>39</num>
+		</result>
+			<result>
+			<name>南昌市</name>
+			<num>4</num>
+		</result>
+			<result>
+			<name>九江市</name>
+			<num>2</num>
+		</result>
+			<result>
+			<name>鄂尔多斯市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

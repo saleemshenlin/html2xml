@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>蒋介石故居</name>
+			<location>
+				<lat>31.214745</lat>
+				<lng>121.456677</lng>
+			</location>
+							<address>东平路9号(近衡山路)</address>
+													<uid>cec896d99f7191902a02e12a</uid>
+								</result>
+			<result>
+			<name>蒋介石故居-北门</name>
+			<location>
+				<lat>31.214738</lat>
+				<lng>121.456539</lng>
+			</location>
+							<address>东平路9</address>
+													<uid>6eb6ec34912a8f5e35b06c51</uid>
+								</result>
+			<result>
+			<name>蒋介石故居-东门</name>
+			<location>
+				<lat>31.214236</lat>
+				<lng>121.458253</lng>
+			</location>
+							<address>岳阳路40号附近</address>
+													<uid>6f6a57595fd26f205abbbca5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>爱思儿童公园北门</name>
+			<location>
+				<lat>31.263999</lat>
+				<lng>121.494026</lng>
+			</location>
+							<address>海伦路499</address>
+													<uid>08a7978db2e255f28bf15d62</uid>
+								</result>
+			<result>
+			<name>爱思儿童公园西门</name>
+			<location>
+				<lat>31.263166</lat>
+				<lng>121.49194</lng>
+			</location>
+							<address>上海市虹口区</address>
+													<uid>2cdfe57be68f7ace58109381</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

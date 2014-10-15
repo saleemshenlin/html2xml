@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天马山景区</name>
+			<location>
+				<lat>31.082216</lat>
+				<lng>121.158731</lng>
+			</location>
+							<address>莱乐东路78号</address>
+										<telephone>(021)57744980</telephone>
+										<uid>64ff3be1a36a9fc690114c10</uid>
+								</result>
+			<result>
+			<name>天马山公墓</name>
+			<location>
+				<lat>31.087357</lat>
+				<lng>121.157051</lng>
+			</location>
+							<address>松江区佘山镇沈砖公路3555号（昆港公路沈砖公路）</address>
+										<telephone>(021)57668324</telephone>
+										<uid>adaadee8c10eb30e210220af</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

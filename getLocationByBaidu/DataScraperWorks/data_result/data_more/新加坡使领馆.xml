@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>新加坡共和国驻上海总领事馆</name>
+			<location>
+				<lat>31.210916</lat>
+				<lng>121.408185</lng>
+			</location>
+							<address>上海长宁区万山路89号</address>
+										<telephone>(021)62785566</telephone>
+										<uid>5c56edd609a82724a1d23056</uid>
+								</result>
+			<result>
+			<name>新加坡驻上海总领事馆信息产业处</name>
+			<location>
+				<lat>31.235582</lat>
+				<lng>121.463347</lng>
+			</location>
+							<address>南京西路1038号梅龙镇商厦18层1801</address>
+													<uid>2f250bc076baecc838e4a68a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

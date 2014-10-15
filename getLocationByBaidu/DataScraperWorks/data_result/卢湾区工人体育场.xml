@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>工人体育场</name>
+			<location>
+				<lat>31.205812</lat>
+				<lng>121.489509</lng>
+			</location>
+							<address>卢湾区局门路600号（近中山南一路）</address>
+										<telephone>(021)63013088</telephone>
+										<uid>127c3c4ab91dfb69b8bd63ab</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>张闻天故居</name>
+			<location>
+				<lat>31.137652</lat>
+				<lng>121.769423</lng>
+			</location>
+							<address>上海市浦东新区川沙新镇闻居路50号(川南奉公路闻居路)</address>
+										<telephone>(021)68960317,(021)68961738</telephone>
+										<uid>850815e12573249a42e192b7</uid>
+								</result>
+			<result>
+			<name>张闻天故居</name>
+			<location>
+				<lat>31.13759</lat>
+				<lng>121.769513</lng>
+			</location>
+							<address>浦东新区川沙新镇闻居路50号（周祝公路祝惠路）</address>
+										<telephone>(021)68960317</telephone>
+										<uid>79a92f7e8a36c7619222e0b9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

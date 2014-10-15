@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>申农酒家</name>
+			<location>
+				<lat>31.68162</lat>
+				<lng>121.486262</lng>
+			</location>
+							<address>崇明县崇明县北沿公路2111号(近东平国家森林公园)</address>
+										<telephone>(021)59338979</telephone>
+										<uid>7c86b2d414b2ce0af50e77a1</uid>
+								</result>
+			<result>
+			<name>申农土菜馆</name>
+			<location>
+				<lat>31.633563</lat>
+				<lng>121.5354</lng>
+			</location>
+							<address>北沿公路2112号</address>
+										<telephone>(021)59338979</telephone>
+										<uid>032a648128efd084b34c49f0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

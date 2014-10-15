@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>荷花公社</name>
+			<location>
+				<lat>30.96153</lat>
+				<lng>121.059107</lng>
+			</location>
+							<address>松江区新浜镇南杨村</address>
+													<uid>2f3d746f0d510699b45f1ea5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

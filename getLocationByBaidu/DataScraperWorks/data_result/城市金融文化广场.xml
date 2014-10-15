@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>城市金融文化广场</name>
+			<location>
+				<lat>31.234694</lat>
+				<lng>121.522961</lng>
+			</location>
+							<address>浦东新区浦东南路999号(新梅联合广场旁)</address>
+													<uid>b9aac5ee653ce12914948e4f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>绿岛温泉休闲会所</name>
+			<location>
+				<lat>31.039828</lat>
+				<lng>121.226621</lng>
+			</location>
+							<address>松江区文诚路238弄15号</address>
+										<telephone>(021)37793882</telephone>
+										<uid>235fa83f73c6a8414afd3f06</uid>
+								</result>
+			<result>
+			<name>绿岛温泉休闲会所</name>
+			<location>
+				<lat>31.039503</lat>
+				<lng>121.22631</lng>
+			</location>
+							<address>松江区文诚路238弄15号</address>
+										<telephone>(021)37793882</telephone>
+										<uid>34c7a69f045092eecc06a4fc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

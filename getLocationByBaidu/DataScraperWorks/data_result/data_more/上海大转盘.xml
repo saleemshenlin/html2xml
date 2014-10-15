@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海动物园-快乐大转盘</name>
+			<location>
+				<lat>31.19904</lat>
+				<lng>121.372142</lng>
+			</location>
+							<address>上海市长宁区虹桥路2381号(近虹井路)上海动物园内</address>
+													<uid>43c30a17bc52c2b00f0a7024</uid>
+								</result>
+			<result>
+			<name>快乐大转盘售票处</name>
+			<location>
+				<lat>31.19904</lat>
+				<lng>121.372133</lng>
+			</location>
+							<address>上海市长宁区虹桥路2381号(近虹井路)上海动物园内</address>
+													<uid>bae5553c49a8685b9de3211b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

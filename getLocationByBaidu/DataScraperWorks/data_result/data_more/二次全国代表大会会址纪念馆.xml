@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>中共第二次全国代表大会会址纪念馆</name>
+			<location>
+				<lat>31.230225</lat>
+				<lng>121.473371</lng>
+			</location>
+							<address>卢湾区老成都北路7弄44号（老成都北路延安中路）</address>
+													<uid>73e75f0aaa53a89db13c816e</uid>
+								</result>
+			<result>
+			<name>中共第二次全国代表大会会址纪念馆</name>
+			<location>
+				<lat>31.230348</lat>
+				<lng>121.473142</lng>
+			</location>
+							<address>老成都北路7弄20-44号</address>
+										<telephone>(021)63590984</telephone>
+										<uid>dc0f0adc59a75e20f822135e</uid>
+								</result>
+			<result>
+			<name>平民女校-原址西门</name>
+			<location>
+				<lat>31.230302</lat>
+				<lng>121.472985</lng>
+			</location>
+							<address>老成都北路7弄中共第二次全国代表大会会址纪念馆附近</address>
+													<uid>21d2bfb3ec41408f8e7727a1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

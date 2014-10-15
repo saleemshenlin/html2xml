@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>四明邨</name>
+			<location>
+				<lat>31.229136</lat>
+				<lng>121.459415</lng>
+			</location>
+							<address>延安中路913弄9～121号</address>
+													<uid>af1ae56b1d712b134207c10d</uid>
+								</result>
+			<result>
+			<name>四明邨-南门</name>
+			<location>
+				<lat>31.227368</lat>
+				<lng>121.460096</lng>
+			</location>
+							<address>延安中路913弄9-121号</address>
+													<uid>350edfb7d8752a4c95f08cad</uid>
+								</result>
+			<result>
+			<name>四明邨-北门</name>
+			<location>
+				<lat>31.229128</lat>
+				<lng>121.459385</lng>
+			</location>
+							<address>延安中路913弄9-121号</address>
+													<uid>5bbc65115f4a2e671ce999bb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>喜羊羊和灰太狼欢笑乐园</name>
+			<location>
+				<lat>31.240607</lat>
+				<lng>121.480362</lng>
+			</location>
+							<address>黄浦区南京西路2-68号新世界城8楼（近西藏中路）</address>
+													<uid>ff68ee5ff350763bd5b74e88</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>仁人艺术造像馆</name>
+			<location>
+				<lat>31.20419</lat>
+				<lng>121.540817</lng>
+			</location>
+							<address>龙阳路1245、1255号</address>
+										<telephone>(021)58810558</telephone>
+										<uid>d6ee8724edbdb99ea9f0cdb0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>管弄公园</name>
+			<location>
+				<lat>31.263999</lat>
+				<lng>121.434067</lng>
+			</location>
+							<address>管弄路29号</address>
+										<telephone>(021)62147620</telephone>
+										<uid>f44609182e8ced6bb11e36ca</uid>
+								</result>
+			<result>
+			<name>管弄公园</name>
+			<location>
+				<lat>31.263143</lat>
+				<lng>121.434357</lng>
+			</location>
+							<address>普陀区管弄路29号（近华池路）</address>
+										<telephone>(021)62147620</telephone>
+										<uid>866dffbee1a893285e17c319</uid>
+								</result>
+			<result>
+			<name>管弄公园-南门</name>
+			<location>
+				<lat>31.26329</lat>
+				<lng>121.434037</lng>
+			</location>
+							<address>管弄路29</address>
+													<uid>bc4abc3e4f5447a6b54f54ec</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

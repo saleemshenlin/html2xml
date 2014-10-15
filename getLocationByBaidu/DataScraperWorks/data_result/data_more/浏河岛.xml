@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>浏河岛度假村</name>
+			<location>
+				<lat>31.48972</lat>
+				<lng>121.240013</lng>
+			</location>
+							<address>嘉定区唐行镇（近唐华公路）</address>
+										<telephone>(021)59951555</telephone>
+										<uid>c9e7b5ce3aa44a6ad8131848</uid>
+								</result>
+			<result>
+			<name>浏河岛游览村</name>
+			<location>
+				<lat>31.490698</lat>
+				<lng>121.239306</lng>
+			</location>
+							<address>上海市嘉定区</address>
+													<uid>9265bd83cb6a9f6728201abf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

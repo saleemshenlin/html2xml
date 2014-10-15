@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>一茶一坐(长宁龙之梦二店)</name>
+			<location>
+				<lat>31.225184</lat>
+				<lng>121.423092</lng>
+			</location>
+							<address>长宁区长宁路1018号龙之梦购物中心B2楼2020A号铺(近凯旋路)</address>
+													<uid>eef2d528ae1353be3be4a6d2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>乐草园</name>
+			<location>
+				<lat>31.229437</lat>
+				<lng>121.473425</lng>
+			</location>
+							<address>上海市卢湾区</address>
+													<uid>6761156f5cda95bc8c1a8901</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>东方虹珠盆景园</name>
+			<location>
+				<lat>31.226728</lat>
+				<lng>121.564603</lng>
+			</location>
+							<address>上海市浦东新区锦绣路1001号世纪公园内</address>
+													<uid>8e5d2081734b7b88c2f1cf03</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

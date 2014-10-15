@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>艺土留声DIY(愚园路店)</name>
+			<location>
+				<lat>31.229638</lat>
+				<lng>121.449189</lng>
+			</location>
+							<address>静安区愚园路300号申乐大厦2楼1室（主楼外，右侧露天楼梯上二楼)</address>
+										<telephone>18930780399</telephone>
+										<uid>04976aa4fbbdfb8ff8f0cb55</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>永升都市犬俱乐部</name>
+			<location>
+				<lat>31.257108</lat>
+				<lng>121.075602</lng>
+			</location>
+							<address>上海-上海市青浦区白鹤镇江南村江平路115号</address>
+										<telephone>13816413841</telephone>
+										<uid>19c721f4edf16d9e04fef50e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

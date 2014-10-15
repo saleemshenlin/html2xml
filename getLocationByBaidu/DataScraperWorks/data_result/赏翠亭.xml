@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>赏翠亭</name>
+			<location>
+				<lat>31.102548</lat>
+				<lng>121.20476</lng>
+			</location>
+							<address>上海市松江区外青松公路9142号上海佘山国家森林公园东佘山园内</address>
+										<telephone>(021)57657231</telephone>
+										<uid>ef4ee6e3670598c83904b1ee</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

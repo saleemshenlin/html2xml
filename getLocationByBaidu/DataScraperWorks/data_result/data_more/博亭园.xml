@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>博亭园</name>
+			<location>
+				<lat>31.493354</lat>
+				<lng>121.348152</lng>
+			</location>
+							<address>潘徐路1号</address>
+										<telephone>(021)56870087</telephone>
+										<uid>fa835ce23df2b0afe812e469</uid>
+								</result>
+			<result>
+			<name>上海宜基商业设备有限公司</name>
+			<location>
+				<lat>31.147117</lat>
+				<lng>121.315825</lng>
+			</location>
+							<address>上海市松江区沪松公路1588号-九里亭工业园区博安路288号</address>
+													<uid>8bff8f32101e27e3a1046460</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

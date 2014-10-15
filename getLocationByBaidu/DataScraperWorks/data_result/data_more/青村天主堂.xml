@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>青村天主堂</name>
+			<location>
+				<lat>30.929304</lat>
+				<lng>121.586225</lng>
+			</location>
+							<address>南奉公路2895号</address>
+										<telephone>(021)57560451</telephone>
+										<uid>4e8866d78e807d48d42ce276</uid>
+								</result>
+			<result>
+			<name>青村天主堂-北门</name>
+			<location>
+				<lat>30.929738</lat>
+				<lng>121.586263</lng>
+			</location>
+							<address>南奉公路2895</address>
+													<uid>f026a57008b01932047ce86f</uid>
+								</result>
+			<result>
+			<name>青村镇天主教堂</name>
+			<location>
+				<lat>30.929799</lat>
+				<lng>121.586249</lng>
+			</location>
+							<address>奉贤区奉贤青村镇南奉公路2895号</address>
+										<telephone>(021)57560451</telephone>
+										<uid>dbba05d8b7934f81bbbd6325</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

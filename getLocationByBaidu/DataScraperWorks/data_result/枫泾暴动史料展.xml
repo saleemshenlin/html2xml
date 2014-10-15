@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>枫泾暴动史料展</name>
+			<location>
+				<lat>30.913318</lat>
+				<lng>121.055189</lng>
+			</location>
+							<address>上海市松江区</address>
+													<uid>5508504d2866f5c8c7f02569</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

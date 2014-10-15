@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>法制宣传主题公园</name>
+			<location>
+				<lat>31.114135</lat>
+				<lng>121.378063</lng>
+			</location>
+							<address>莘潭路与莘西路交叉口北侧</address>
+													<uid>5a973b84601d3553e311032b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

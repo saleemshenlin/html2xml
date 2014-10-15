@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>外滩源33</name>
+			<location>
+				<lat>31.248047</lat>
+				<lng>121.495653</lng>
+			</location>
+							<address>上海市黄浦区中山东一路33号英国领事馆及领事官邸旧址内</address>
+										<telephone>(021)63235687</telephone>
+										<uid>be1ea5eff7319cc114948e5d</uid>
+								</result>
+			<result>
+			<name>南林外滩源青年旅舍南林青年酒店(上海外滩源店)</name>
+			<location>
+				<lat>31.248379</lat>
+				<lng>121.493588</lng>
+			</location>
+							<address>黄浦区香港路55号（上海工商学院旁）</address>
+										<telephone>(021)53500066</telephone>
+										<uid>5ce2637d9ca82c48ae31e51a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

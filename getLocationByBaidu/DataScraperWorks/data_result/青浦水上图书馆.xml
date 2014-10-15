@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>青浦水上图书馆</name>
+			<location>
+				<lat>31.154117</lat>
+				<lng>121.142122</lng>
+			</location>
+							<address>青浦区青龙路60号(华浦南路青龙路)</address>
+										<telephone>(021)33860430</telephone>
+										<uid>c98eccc6ada9c37128d7ab4e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

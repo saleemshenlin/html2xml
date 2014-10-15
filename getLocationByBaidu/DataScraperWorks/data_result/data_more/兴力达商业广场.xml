@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>兴力达商业广场</name>
+			<location>
+				<lat>31.250633</lat>
+				<lng>121.389488</lng>
+			</location>
+							<address>普陀区真光路1326号</address>
+													<uid>0bfcdaa4e062da6107026f8c</uid>
+								</result>
+			<result>
+			<name>安付宝商务有限公司</name>
+			<location>
+				<lat>31.250702</lat>
+				<lng>121.389277</lng>
+			</location>
+							<address>真光路1258号上海兴力达国际广场A楼6层</address>
+													<uid>0e670ff58a26465e72455b03</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

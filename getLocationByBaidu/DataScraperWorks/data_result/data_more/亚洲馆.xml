@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>亚洲婚纱摄影基地</name>
+			<location>
+				<lat>31.403924</lat>
+				<lng>121.363839</lng>
+			</location>
+							<address>宝山区罗芬路</address>
+													<uid>acf68a414c2e74123fe23195</uid>
+								</result>
+			<result>
+			<name>马爷面将</name>
+			<location>
+				<lat>31.211595</lat>
+				<lng>121.474234</lng>
+			</location>
+							<address>卢湾区徐家汇路618号日月光广场B2层亚洲馆(靠近9号线打浦桥站2号口)</address>
+										<telephone>15618956123</telephone>
+										<uid>9a28b85657f9e7b083a12e6f</uid>
+								</result>
+			<result>
+			<name>罗森（世博A片区店）</name>
+			<location>
+				<lat>31.228256</lat>
+				<lng>121.55146</lng>
+			</location>
+							<address>浦东新区世博园A片区亚洲联合馆旁</address>
+													<uid>48a1291b103b308aabf0cd4e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

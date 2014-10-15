@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>怡和苑</name>
+			<location>
+				<lat>31.151629</lat>
+				<lng>121.496485</lng>
+			</location>
+							<address>上浦路69弄1-52号凌兆十三村附近</address>
+													<uid>29d02fcec9fb1ad716c90572</uid>
+								</result>
+			<result>
+			<name>怡和科技(工程)有限公司上海分公司</name>
+			<location>
+				<lat>31.227252</lat>
+				<lng>121.50954</lng>
+			</location>
+							<address>中山南路268号新源广场1号楼7层</address>
+													<uid>26f8f0142b74d8b0fea7781f</uid>
+								</result>
+			<result>
+			<name>颐和纤然</name>
+			<location>
+				<lat>31.231097</lat>
+				<lng>121.525131</lng>
+			</location>
+							<address>浦东新区南泉北路1035号紫金汉宫317室（华润时代广场旁）</address>
+										<telephone>(021)58362057</telephone>
+										<uid>2b718ea736af65b39f09f72f</uid>
+								</result>
+			<result>
+			<name>颐和纤然</name>
+			<location>
+				<lat>31.231135</lat>
+				<lng>121.525003</lng>
+			</location>
+							<address>浦东新区南泉北路1035号紫金汉宫317室(华润时代广场旁)</address>
+										<telephone>(021)58362059</telephone>
+										<uid>bd299e8a0cf19fa517948e1d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

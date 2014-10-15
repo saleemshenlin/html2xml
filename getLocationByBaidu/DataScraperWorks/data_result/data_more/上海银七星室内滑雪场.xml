@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海银七星室内滑雪场</name>
+			<location>
+				<lat>31.140596</lat>
+				<lng>121.367245</lng>
+			</location>
+							<address>上海市七莘路1835号（近华中路）</address>
+										<telephone>(021)64788666</telephone>
+										<uid>ba8b44382b845ee428d7abc0</uid>
+								</result>
+			<result>
+			<name>银七星室内滑雪场</name>
+			<location>
+				<lat>31.14133</lat>
+				<lng>121.368481</lng>
+			</location>
+							<address>上海市闵行区七莘路1835号</address>
+										<telephone>(021)64788666</telephone>
+										<uid>ee614e9c75ea86d59222e08a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

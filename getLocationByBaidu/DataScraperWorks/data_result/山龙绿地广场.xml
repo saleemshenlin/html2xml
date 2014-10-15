@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>山龙绿地广场</name>
+			<location>
+				<lat>30.736608</lat>
+				<lng>121.343583</lng>
+			</location>
+							<address>上海市金山区</address>
+													<uid>eef2d528f98a0aa43be4a66f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

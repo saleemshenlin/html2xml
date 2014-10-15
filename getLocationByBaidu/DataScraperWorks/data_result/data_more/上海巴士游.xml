@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>敞篷双层巴士游</name>
+			<location>
+				<lat>31.240707</lat>
+				<lng>121.480338</lng>
+			</location>
+							<address>黄浦区南京西路2-68号新世界城对面（近西藏中路）</address>
+										<telephone>(021)63515988</telephone>
+										<uid>3e3919d5454458c1ae045722</uid>
+								</result>
+			<result>
+			<name>Big Bus上海观光游</name>
+			<location>
+				<lat>31.240645</lat>
+				<lng>121.485633</lng>
+			</location>
+							<address>取票地点：上海市黄埔区九江路588号（近湖北路）</address>
+										<telephone>4007777777</telephone>
+										<uid>7fb059a497e16dcb41d63e70</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

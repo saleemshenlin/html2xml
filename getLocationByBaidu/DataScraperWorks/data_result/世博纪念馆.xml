@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>博大汽车公园</name>
+			<location>
+				<lat>31.184212</lat>
+				<lng>121.479489</lng>
+			</location>
+							<address>浦东新区国展路189号(近世博大道)</address>
+										<telephone>(021)60538892</telephone>
+										<uid>c0d1f03180c41ba2adb22ad4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

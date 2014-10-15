@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>惊声尖叫黑暗迷宫</name>
+			<location>
+				<lat>31.240707</lat>
+				<lng>121.480338</lng>
+			</location>
+							<address>黄浦区南京西路2-68号新世纪城10楼（近西藏中路）</address>
+										<telephone>13800138000</telephone>
+										<uid>9706547764c3a78995f08cb1</uid>
+								</result>
+			<result>
+			<name>惊声尖叫黑暗迷宫</name>
+			<location>
+				<lat>31.240476</lat>
+				<lng>121.479771</lng>
+			</location>
+							<address>黄浦区南京西路2-68号新世界城10楼（近西藏中路）</address>
+										<telephone>13800138000</telephone>
+										<uid>4a307ae483ba3b2c0e3ddacf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

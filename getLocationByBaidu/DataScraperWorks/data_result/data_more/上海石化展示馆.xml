@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>中国石化上海会议中心</name>
+			<location>
+				<lat>31.065869</lat>
+				<lng>120.922655</lng>
+			</location>
+							<address>沪青平公路8700号</address>
+										<telephone>(021)59262960,(021)59263784</telephone>
+										<uid>b7708b221a9aba9d2d4733fb</uid>
+								</result>
+			<result>
+			<name>上海中石化国际商务会展中心</name>
+			<location>
+				<lat>31.2501</lat>
+				<lng>121.544949</lng>
+			</location>
+							<address>浦东大道1537号中国石化大厦东楼14层</address>
+													<uid>32b87bd6376431d70482c25e</uid>
+								</result>
+			<result>
+			<name>上海中石化国际商务会展中心贸易部</name>
+			<location>
+				<lat>31.250162</lat>
+				<lng>121.544914</lng>
+			</location>
+							<address>浦东大道1539号中国石化大厦东楼14层</address>
+													<uid>7ed68d4f219ade6e26e0a02d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

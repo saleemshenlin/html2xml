@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>网上世博会国际信息发展网馆</name>
+			<location>
+				<lat>31.208399</lat>
+				<lng>121.46697</lng>
+			</location>
+							<address>肇嘉浜路333号亚太企业大楼401</address>
+													<uid>39f1c68bee008ee13686f42a</uid>
+								</result>
+			<result>
+			<name>上海世博会国际信息发展网馆组委会</name>
+			<location>
+				<lat>31.208414</lat>
+				<lng>121.466996</lng>
+			</location>
+							<address>肇嘉浜路333号亚太企业大楼403</address>
+													<uid>624d6075d8da4f3ec51b75cd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

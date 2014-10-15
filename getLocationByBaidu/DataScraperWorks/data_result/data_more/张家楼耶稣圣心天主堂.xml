@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>张家楼耶稣圣心天主堂(西南门)</name>
+			<location>
+				<lat>31.25027</lat>
+				<lng>121.595912</lng>
+			</location>
+							<address>红枫路151</address>
+													<uid>7a7ff7b1b628f0acab059d2c</uid>
+								</result>
+			<result>
+			<name>张家楼耶稣圣心天主堂</name>
+			<location>
+				<lat>31.250332</lat>
+				<lng>121.59594</lng>
+			</location>
+							<address>浦东新区红枫路151号（红枫路新金桥路）</address>
+										<telephone>(021)58546625,13817503946</telephone>
+										<uid>02f6d1343f629fc32b201a2e</uid>
+								</result>
+			<result>
+			<name>张家楼耶稣圣心天主堂</name>
+			<location>
+				<lat>31.250332</lat>
+				<lng>121.595942</lng>
+			</location>
+							<address>红枫路151号</address>
+										<telephone>(021)58546628</telephone>
+										<uid>d0b6934b2e777f6f40ab9af1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

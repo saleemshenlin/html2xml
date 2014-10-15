@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>七宝天主堂</name>
+			<location>
+				<lat>31.156249</lat>
+				<lng>121.361916</lng>
+			</location>
+							<address>闵行区南街50号(宝南路口)</address>
+										<telephone>(021)64799317</telephone>
+										<uid>2d5e46963c58ba14cb213d16</uid>
+								</result>
+			<result>
+			<name>七宝天主堂-东南门</name>
+			<location>
+				<lat>31.15594</lat>
+				<lng>121.362214</lng>
+			</location>
+							<address>南街50号</address>
+													<uid>c252ab8766fd76067069d3fe</uid>
+								</result>
+			<result>
+			<name>闵行区基督教七宝耶稣堂</name>
+			<location>
+				<lat>31.140263</lat>
+				<lng>121.370474</lng>
+			</location>
+							<address>七莘路1664号</address>
+													<uid>4fc3161a3e1781d43a13fddb</uid>
+								</result>
+			<result>
+			<name>七宝丰盛堂</name>
+			<location>
+				<lat>31.14024</lat>
+				<lng>121.370237</lng>
+			</location>
+							<address>七莘路1664号</address>
+													<uid>60ac9cf8ef338c5ec17da236</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

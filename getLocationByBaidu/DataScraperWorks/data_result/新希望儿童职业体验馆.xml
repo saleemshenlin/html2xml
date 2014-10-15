@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>新希望儿童职业体验馆</name>
+			<location>
+				<lat>31.237928</lat>
+				<lng>121.521317</lng>
+			</location>
+							<address>浦东新区浦东南路855号世界广场B1-B2楼（肯德基对面）</address>
+										<telephone>(021)68886232</telephone>
+										<uid>669775d030eb1042fd0eb0cb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

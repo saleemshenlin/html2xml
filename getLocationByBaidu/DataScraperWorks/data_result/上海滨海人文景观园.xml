@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>滨海人文景观园</name>
+			<location>
+				<lat>30.862579</lat>
+				<lng>121.721589</lng>
+			</location>
+							<address>古园大道与园外路交叉口西北角</address>
+													<uid>cde9e2c7e47d84b5e81e970b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

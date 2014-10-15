@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>金宾天の川日式温泉</name>
+			<location>
+				<lat>30.721071</lat>
+				<lng>121.350216</lng>
+			</location>
+							<address>金一东路1号</address>
+													<uid>f695b5650d98509d593ac874</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

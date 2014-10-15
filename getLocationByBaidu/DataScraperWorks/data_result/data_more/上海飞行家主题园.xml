@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>飞行家主题园</name>
+			<location>
+				<lat>31.184984</lat>
+				<lng>121.482341</lng>
+			</location>
+							<address>上海浦东新区世博C片区国展路311号</address>
+													<uid>80ec69d160ace8ea16c90513</uid>
+								</result>
+			<result>
+			<name>飞行家主题园</name>
+			<location>
+				<lat>31.19382</lat>
+				<lng>121.495236</lng>
+			</location>
+							<address>世博园区上钢路200号</address>
+										<telephone>(021)60895566</telephone>
+										<uid>0650c51728bc9b2246572646</uid>
+								</result>
+			<result>
+			<name>飞行家主题园停车场</name>
+			<location>
+				<lat>31.18639</lat>
+				<lng>121.483135</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>5bc926c284c64e85f942b2f3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

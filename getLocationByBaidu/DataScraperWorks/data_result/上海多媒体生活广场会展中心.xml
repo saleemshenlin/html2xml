@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>多媒体生活广场会展中心</name>
+			<location>
+				<lat>31.22428</lat>
+				<lng>121.425123</lng>
+			</location>
+							<address>长宁路999号多媒体生活广场6层</address>
+										<telephone>(021)62407282</telephone>
+										<uid>5e53af1ab009de214151c079</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

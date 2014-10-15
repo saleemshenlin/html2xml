@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>夏威屿海鲜城</name>
+			<location>
+				<lat>31.218822</lat>
+				<lng>121.779318</lng>
+			</location>
+							<address>浦东新区三甲港华夏东路东首海滨浴场</address>
+										<telephone>(021)68909052</telephone>
+										<uid>881a28e7b6bdff5ef842b2ac</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

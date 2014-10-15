@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海天马赛车场</name>
+			<location>
+				<lat>31.083592</lat>
+				<lng>121.126142</lng>
+			</location>
+							<address>松江区沈砖公路3000号(昆港公路沈砖公路)</address>
+										<telephone>(021)57669090</telephone>
+										<uid>637df60a91bc4d0c40afe64e</uid>
+								</result>
+			<result>
+			<name>郎傲赛车运动俱乐部</name>
+			<location>
+				<lat>31.0837</lat>
+				<lng>121.126443</lng>
+			</location>
+							<address>松江区沈砖公路3000号天马山赛车场（近G1501天马出口）</address>
+										<telephone>(021)57669300</telephone>
+										<uid>7ca4007858e6430ca2d230cf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

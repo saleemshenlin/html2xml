@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>王港公园</name>
+			<location>
+				<lat>31.242012</lat>
+				<lng>121.689776</lng>
+			</location>
+							<address>新雅路135</address>
+													<uid>a5097bfafdc99262f13cbaaf</uid>
+								</result>
+			<result>
+			<name>王港公园-西北门</name>
+			<location>
+				<lat>31.242398</lat>
+				<lng>121.689884</lng>
+			</location>
+							<address>新雅路135</address>
+													<uid>41e22c2b5d60cab8d81318bb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

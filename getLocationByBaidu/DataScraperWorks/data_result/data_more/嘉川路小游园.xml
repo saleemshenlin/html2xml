@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>嘉川路小游园</name>
+			<location>
+				<lat>31.140743</lat>
+				<lng>121.425274</lng>
+			</location>
+							<address>凌云路283临</address>
+													<uid>8eb48fa1ec440ca5f32d831b</uid>
+								</result>
+			<result>
+			<name>嘉川路小游园-西门</name>
+			<location>
+				<lat>31.140665</lat>
+				<lng>121.424627</lng>
+			</location>
+							<address>凌云路281临</address>
+													<uid>cc0849a0e6f4ae2d9403190d</uid>
+								</result>
+			<result>
+			<name>嘉川路小游园-北门</name>
+			<location>
+				<lat>31.141515</lat>
+				<lng>121.426345</lng>
+			</location>
+							<address>凌云路283</address>
+													<uid>a9b57b3bcb5336140c0e6b5a</uid>
+								</result>
+			<result>
+			<name>嘉川路小游园-东门</name>
+			<location>
+				<lat>31.141538</lat>
+				<lng>121.426468</lng>
+			</location>
+							<address>凌云路283临</address>
+													<uid>2bcb7024bf6e4dc1f6c59c9e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

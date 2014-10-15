@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>沈家祠堂</name>
+			<location>
+				<lat>31.255248</lat>
+				<lng>121.673193</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>4f8a79678bf07fa125e0a022</uid>
+								</result>
+			<result>
+			<name>东乐杂货店(虹三)</name>
+			<location>
+				<lat>31.255017</lat>
+				<lng>121.673191</lng>
+			</location>
+							<address>华东路沈家祠堂附近</address>
+													<uid>77b2f252de575459e9e58237</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

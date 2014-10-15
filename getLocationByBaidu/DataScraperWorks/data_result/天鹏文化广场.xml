@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>天鹏文化广场</name>
+			<location>
+				<lat>30.943343</lat>
+				<lng>121.734888</lng>
+			</location>
+							<address>上海市奉贤区</address>
+													<uid>fa7da3e854662f6142d63e64</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

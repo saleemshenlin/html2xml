@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>储店民沁园</name>
+			<location>
+				<lat>31.143184</lat>
+				<lng>121.74029</lng>
+			</location>
+							<address>川沙镇储店村村委普新路900号</address>
+													<uid>ef773a0fbd2b29352202201d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

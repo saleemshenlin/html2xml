@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>社庄庙</name>
+			<location>
+				<lat>31.239511</lat>
+				<lng>121.601995</lng>
+			</location>
+							<address>金桥镇</address>
+													<uid>5ffb18165721825c6e476089</uid>
+								</result>
+			<result>
+			<name>新星幼儿园</name>
+			<location>
+				<lat>31.239874</lat>
+				<lng>121.602719</lng>
+			</location>
+							<address>社庄庙附近</address>
+													<uid>0dca5e4ee653d0b5e812e4be</uid>
+								</result>
+			<result>
+			<name>停车场</name>
+			<location>
+				<lat>31.240105</lat>
+				<lng>121.605143</lng>
+			</location>
+							<address>社庄庙9号</address>
+										<telephone>(021)38750932</telephone>
+										<uid>fc9f0262b05bf99d2cb96d9c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

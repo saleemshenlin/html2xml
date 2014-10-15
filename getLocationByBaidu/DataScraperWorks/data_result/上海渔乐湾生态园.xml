@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海渔乐湾生态园</name>
+			<location>
+				<lat>31.016519</lat>
+				<lng>121.668275</lng>
+			</location>
+							<address>新场镇笋王路1688号</address>
+													<uid>f5e133d989273c153586f46c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

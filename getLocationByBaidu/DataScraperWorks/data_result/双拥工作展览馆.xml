@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海双拥工作展览馆</name>
+			<location>
+				<lat>31.267449</lat>
+				<lng>121.570548</lng>
+			</location>
+							<address>浦东大道2601号</address>
+										<telephone>(021)58719169</telephone>
+										<uid>a5ef680f7f34e8d6b8df8fa9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>武汉市</name>
+			<num>3</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>沙滩摩托车</name>
+			<location>
+				<lat>30.826597</lat>
+				<lng>121.564612</lng>
+			</location>
+							<address>上海市奉贤区海湾旅游区海涵路6号碧海金沙内</address>
+													<uid>b8f3ec40944fd13e9d82eac2</uid>
+								</result>
+			<result>
+			<name>上海棕榈滩海景酒店</name>
+			<location>
+				<lat>30.820666</lat>
+				<lng>121.527675</lng>
+			</location>
+							<address>上海市奉贤区海湾旅游区海鸥路1888号(近碧海金沙)</address>
+										<telephone>(021)57121777</telephone>
+										<uid>f4f5424a5152c10da7c75698</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

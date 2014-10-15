@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>福泉山古文化遗址</name>
+			<location>
+				<lat>31.206414</lat>
+				<lng>121.183726</lng>
+			</location>
+							<address>上海市青浦区福全山路重固乡钱家经村</address>
+										<telephone>(021)59785515,(021)59785515</telephone>
+										<uid>9d15d33504fdfed51d1d1169</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

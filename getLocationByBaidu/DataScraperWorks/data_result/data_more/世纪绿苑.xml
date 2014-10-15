@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>世纪绿苑</name>
+			<location>
+				<lat>31.420797</lat>
+				<lng>121.262884</lng>
+			</location>
+							<address>嘉行公路新建一路路口以东</address>
+													<uid>fa7da3e84de6346342d63eea</uid>
+								</result>
+			<result>
+			<name>世纪绿苑-南门</name>
+			<location>
+				<lat>31.42025</lat>
+				<lng>121.262691</lng>
+			</location>
+							<address>徐行镇</address>
+													<uid>84a7a03a8f1914437c29bd2e</uid>
+								</result>
+			<result>
+			<name>易捷便利店(世纪绿苑西)</name>
+			<location>
+				<lat>31.419965</lat>
+				<lng>121.260881</lng>
+			</location>
+							<address>嘉行公路1155</address>
+													<uid>5d83617c211a89314107c117</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

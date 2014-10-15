@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>天主堂(育婴堂路)</name>
+			<location>
+				<lat>31.259809</lat>
+				<lng>121.473763</lng>
+			</location>
+							<address>育婴堂路289号</address>
+													<uid>15a93810798bfbbc14c8f6f2</uid>
+								</result>
+			<result>
+			<name>上海市基督教闸北堂</name>
+			<location>
+				<lat>31.264131</lat>
+				<lng>121.483264</lng>
+			</location>
+							<address>闸北区宝通路340号(近中兴路)</address>
+										<telephone>(021)56629409</telephone>
+										<uid>1cea15a98ae2c9c407fef5f2</uid>
+								</result>
+			<result>
+			<name>上海泰晤士tinyhouse轰趴馆酒店</name>
+			<location>
+				<lat>31.259184</lat>
+				<lng>121.479365</lng>
+			</location>
+							<address>上海市松江区三新北路900弄泰晤士小镇（近大教堂）</address>
+										<telephone>13636465361</telephone>
+										<uid>a3807c277922aae11e1d117e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

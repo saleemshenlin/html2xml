@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>三泖森林</name>
+			<location>
+				<lat>31.023289</lat>
+				<lng>121.055677</lng>
+			</location>
+							<address>练塘镇</address>
+													<uid>f1badf73e26174292e473359</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

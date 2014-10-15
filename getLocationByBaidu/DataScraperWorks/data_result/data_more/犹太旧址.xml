@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>犹太俱乐部和花园住宅旧址</name>
+			<location>
+				<lat>31.219579</lat>
+				<lng>121.460814</lng>
+			</location>
+							<address>汾阳路20号</address>
+													<uid>831356f0a746e75b28201acd</uid>
+								</result>
+			<result>
+			<name>犹太人总会旧址</name>
+			<location>
+				<lat>31.237404</lat>
+				<lng>121.469958</lng>
+			</location>
+							<address>南京西路722</address>
+													<uid>59ae6bade6ba0495373a71cf</uid>
+								</result>
+			<result>
+			<name>犹太住宅旧址</name>
+			<location>
+				<lat>31.236516</lat>
+				<lng>121.459577</lng>
+			</location>
+							<address>陕西北路430</address>
+													<uid>b533ea4ad56da4424f6d4639</uid>
+								</result>
+			<result>
+			<name>上海犹太难民纪念馆-北门</name>
+			<location>
+				<lat>31.26001</lat>
+				<lng>121.515749</lng>
+			</location>
+							<address>长阳路62</address>
+													<uid>d7a415988a6e2f72b7265535</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

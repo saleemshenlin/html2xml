@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>中韩跆拳道港澳馆(水清路店)</name>
+			<location>
+				<lat>31.13878</lat>
+				<lng>121.379119</lng>
+			</location>
+							<address>闵行区水清路1460弄港澳购物中心2楼203-1室(近吉番屋,大润发港澳店)</address>
+										<telephone>13611980435</telephone>
+										<uid>6ffc852ace886b85b4265539</uid>
+								</result>
+			<result>
+			<name>精奥咖啡馆</name>
+			<location>
+				<lat>30.883826</lat>
+				<lng>121.891164</lng>
+			</location>
+							<address>上海浦东新区顺通路9号深水港商务广场E座1楼</address>
+										<telephone>(021)68281368</telephone>
+										<uid>44207646f9244572deee8b3b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

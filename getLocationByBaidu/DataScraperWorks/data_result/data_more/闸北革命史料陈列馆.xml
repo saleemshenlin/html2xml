@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>闸北革命史料陈列馆</name>
+			<location>
+				<lat>31.249514</lat>
+				<lng>121.482775</lng>
+			</location>
+							<address>闸北区浙江北路118号(近七浦路)</address>
+										<telephone>(021)63533989</telephone>
+										<uid>c21db9e58067898000ff2dc3</uid>
+								</result>
+			<result>
+			<name>闸北革命史料陈列馆</name>
+			<location>
+				<lat>31.249506</lat>
+				<lng>121.482776</lng>
+			</location>
+							<address>闸北区浙江北路118号（近七浦路）</address>
+										<telephone>(021)33010988</telephone>
+										<uid>d3169244f81a1298d42ce27d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>直属村文化广场</name>
+			<location>
+				<lat>31.223531</lat>
+				<lng>121.760845</lng>
+			</location>
+							<address>凌行路391临</address>
+													<uid>7524cb4f4fd3384904026f0a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

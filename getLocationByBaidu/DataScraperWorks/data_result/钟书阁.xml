@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>钟书阁</name>
+			<location>
+				<lat>31.040532</lat>
+				<lng>121.201337</lng>
+			</location>
+							<address>松江区三新北路900弄泰晤士小镇930号</address>
+										<telephone>(021)67661899</telephone>
+										<uid>164355e52c96d7cdbadf8f8f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

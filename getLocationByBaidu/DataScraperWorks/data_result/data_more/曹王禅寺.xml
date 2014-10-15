@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>曹王禅寺</name>
+			<location>
+				<lat>31.456628</lat>
+				<lng>121.329837</lng>
+			</location>
+							<address>嘉定区徐潘公路198号(近安新路)</address>
+										<telephone>(021)39533389</telephone>
+										<uid>083a55fafa1ed478256e988f</uid>
+								</result>
+			<result>
+			<name>曹王禅寺</name>
+			<location>
+				<lat>31.456859</lat>
+				<lng>121.329707</lng>
+			</location>
+							<address>嘉定区潘桥路198号（近安新路）</address>
+										<telephone>(021)39533389</telephone>
+										<uid>733fd0a8f72ee560d7851fc6</uid>
+								</result>
+			<result>
+			<name>徐潘路曹王禅寺</name>
+			<location>
+				<lat>31.456217</lat>
+				<lng>121.329213</lng>
+			</location>
+							<address>嘉定54路;嘉潘线</address>
+													<uid>b1c4a8d77101d6ad38e4a6b9</uid>
+								</result>
+			<result>
+			<name>曹王禅寺-东南门</name>
+			<location>
+				<lat>31.456643</lat>
+				<lng>121.32975</lng>
+			</location>
+							<address>潘桥路198</address>
+													<uid>d4959ef7fdae4ef3c62ba14f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

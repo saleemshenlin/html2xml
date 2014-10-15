@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>练塘古镇-游客中心</name>
+			<location>
+				<lat>31.013571</lat>
+				<lng>121.051563</lng>
+			</location>
+							<address>上海市青浦区老朱枫公路3433号附近陈云故里内</address>
+													<uid>43aa1faa5b135674fa42b232</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

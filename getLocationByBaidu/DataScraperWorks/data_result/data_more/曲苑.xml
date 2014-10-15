@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>曲苑</name>
+			<location>
+				<lat>31.282888</lat>
+				<lng>121.495664</lng>
+			</location>
+							<address>大连西路246</address>
+													<uid>181653349b588807fb2d6127</uid>
+								</result>
+			<result>
+			<name>曲苑小区</name>
+			<location>
+				<lat>31.282364</lat>
+				<lng>121.495198</lng>
+			</location>
+							<address>虹口区大连西路246号（近西南小区）</address>
+													<uid>e9a800b4bac241173a13fd71</uid>
+								</result>
+			<result>
+			<name>曲苑-南门</name>
+			<location>
+				<lat>31.282441</lat>
+				<lng>121.495234</lng>
+			</location>
+							<address>大连西路246</address>
+													<uid>ed1fd0db32a0f176faf0cb9a</uid>
+								</result>
+			<result>
+			<name>曲苑文化</name>
+			<location>
+				<lat>31.173159</lat>
+				<lng>121.431943</lng>
+			</location>
+							<address>柳州路399甲</address>
+													<uid>5f2136edd1379fea0c0e6bdd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

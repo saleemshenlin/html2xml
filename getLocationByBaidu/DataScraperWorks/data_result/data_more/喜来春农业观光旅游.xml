@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>喜来春农业观光旅游</name>
+			<location>
+				<lat>31.222474</lat>
+				<lng>121.754431</lng>
+			</location>
+							<address>上海浦东新区凌行路568号近川杨河路</address>
+										<telephone>(021)68905312</telephone>
+										<uid>3b19e09dbfcafd5188fc064e</uid>
+								</result>
+			<result>
+			<name>上海喜来春农业旅游区</name>
+			<location>
+				<lat>31.220768</lat>
+				<lng>121.749486</lng>
+			</location>
+							<address>凌杨路568号勤昌路星升路口往南600米\t</address>
+										<telephone>(021)68908550</telephone>
+										<uid>2f64e1ff667dff79d3ff2323</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

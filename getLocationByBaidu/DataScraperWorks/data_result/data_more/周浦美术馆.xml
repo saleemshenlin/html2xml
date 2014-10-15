@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>鸿祖武道盟功夫艺术馆（周浦馆）</name>
+			<location>
+				<lat>31.120372</lat>
+				<lng>121.576023</lng>
+			</location>
+							<address>浦东新区沪南路3468号二支弄9号（万达广场A门对面近年家浜路）</address>
+										<telephone>(021)60485031</telephone>
+										<uid>9774c2e1ba6fa4a52afc4842</uid>
+								</result>
+			<result>
+			<name>浦东周浦美术馆</name>
+			<location>
+				<lat>31.119599</lat>
+				<lng>121.603187</lng>
+			</location>
+							<address>周邓公路6851号周浦公园内</address>
+													<uid>9c4874bb4cdebe67b54f542c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

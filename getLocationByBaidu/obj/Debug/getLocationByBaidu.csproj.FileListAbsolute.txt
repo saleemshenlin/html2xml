@@ -1,0 +1,6 @@
+D:\gitHub\html2xml\getLocationByBaidu\bin\Debug\getLocationByBaidu.exe.config
+D:\gitHub\html2xml\getLocationByBaidu\obj\Debug\getLocationByBaidu.csprojResolveAssemblyReference.cache
+D:\gitHub\html2xml\getLocationByBaidu\bin\Debug\getLocationByBaidu.exe
+D:\gitHub\html2xml\getLocationByBaidu\bin\Debug\getLocationByBaidu.pdb
+D:\gitHub\html2xml\getLocationByBaidu\obj\Debug\getLocationByBaidu.exe
+D:\gitHub\html2xml\getLocationByBaidu\obj\Debug\getLocationByBaidu.pdb

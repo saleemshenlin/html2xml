@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海印刷博物馆</name>
+			<location>
+				<lat>31.288497</lat>
+				<lng>121.549742</lng>
+			</location>
+							<address>杨浦区水丰路100号(近舒兰路)</address>
+										<telephone>(021)65673587</telephone>
+										<uid>c879fa016c2f4a34c809f087</uid>
+								</result>
+			<result>
+			<name>印刷博物馆</name>
+			<location>
+				<lat>31.288219</lat>
+				<lng>121.548921</lng>
+			</location>
+							<address>杨浦区水丰路100号（近舒兰路）</address>
+										<telephone>(021)65673587-260</telephone>
+										<uid>262d7616b41e1da27bf796c5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

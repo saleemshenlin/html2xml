@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>新西兰总领事馆签证处</name>
+			<location>
+				<lat>31.213734</lat>
+				<lng>121.479316</lng>
+			</location>
+							<address>徐家汇路555号广东发展银行大楼2层</address>
+										<telephone>(021)33662734</telephone>
+										<uid>6c2e4fd167fc4741a8175a4c</uid>
+								</result>
+			<result>
+			<name>新西兰驻上海总领事馆</name>
+			<location>
+				<lat>31.221848</lat>
+				<lng>121.453376</lng>
+			</location>
+							<address>长乐路989号世纪商贸广场16层1605～1607A</address>
+										<telephone>(021)54075858</telephone>
+										<uid>0ec13492b90e1e8e9ff7798f</uid>
+								</result>
+			<result>
+			<name>新西兰驻沪总领事馆</name>
+			<location>
+				<lat>31.221694</lat>
+				<lng>121.45342</lng>
+			</location>
+							<address>长乐路989号世纪商贸广场二区1605-07A</address>
+										<telephone>(021)54075858</telephone>
+										<uid>a0b65eb47390c8b6d13ce3c6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

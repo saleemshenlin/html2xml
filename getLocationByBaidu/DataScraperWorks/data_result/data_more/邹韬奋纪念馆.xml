@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>邹韬奋纪念馆</name>
+			<location>
+				<lat>24.042761</lat>
+				<lng>115.994025</lng>
+			</location>
+							<address>畲江医院对面</address>
+													<uid>e85e25274406775394f08c88</uid>
+								</result>
+			<result>
+			<name>佘江镇文化活动中心</name>
+			<location>
+				<lat>24.042687</lat>
+				<lng>115.994112</lng>
+			</location>
+							<address>968县道邹韬奋纪念馆附近</address>
+													<uid>539f818c47145dd116764331</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

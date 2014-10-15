@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>m-box环境剧场</name>
+			<location>
+				<lat>31.311353</lat>
+				<lng>121.521434</lng>
+			</location>
+							<address>淞沪路234号江湾体育场环廊125～127单元</address>
+										<telephone>(021)51001691</telephone>
+										<uid>0d6674bdc2b8c4aa1ef74db5</uid>
+								</result>
+			<result>
+			<name>M-BOX BAR</name>
+			<location>
+				<lat>31.296867</lat>
+				<lng>121.165526</lng>
+			</location>
+							<address>上海嘉定区新源路66弄世昶生活广场1层</address>
+													<uid>8ec4c4ca398f287c8f55ec9e</uid>
+								</result>
+			<result>
+			<name>M-BOX BAR</name>
+			<location>
+				<lat>31.295687</lat>
+				<lng>121.166279</lng>
+			</location>
+							<address>新源路66弄6</address>
+													<uid>767eeaa14f42fab0430245bf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

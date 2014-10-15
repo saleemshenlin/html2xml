@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>庆典广场</name>
+			<location>
+				<lat>31.194383</lat>
+				<lng>121.498164</lng>
+			</location>
+							<address>世博大道1368号世博源LM层</address>
+													<uid>f103180fa1411b8294031939</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

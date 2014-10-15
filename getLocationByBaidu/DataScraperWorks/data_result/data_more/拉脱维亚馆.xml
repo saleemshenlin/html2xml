@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>北京市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>香港特别行政区</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

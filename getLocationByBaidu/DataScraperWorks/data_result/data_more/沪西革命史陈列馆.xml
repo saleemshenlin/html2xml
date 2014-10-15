@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>沪西革命史陈列馆</name>
+			<location>
+				<lat>31.244698</lat>
+				<lng>121.42674</lng>
+			</location>
+							<address>普陀区武宁路225号沪西工人文化宫内(近曹杨路)</address>
+													<uid>28e700f12a2c0400095cb3c9</uid>
+								</result>
+			<result>
+			<name>沪西革命史陈列馆</name>
+			<location>
+				<lat>31.24567</lat>
+				<lng>121.428208</lng>
+			</location>
+							<address>普陀区武宁路225号沪西工人文化宫内（近曹杨路）</address>
+										<telephone>(021)62442218</telephone>
+										<uid>f68fd569887a208f5d17c3f5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

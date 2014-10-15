@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>圣公会圣路加堂</name>
+			<location>
+				<lat>22.285214</lat>
+				<lng>114.135785</lng>
+			</location>
+							<address>加惠民道31号</address>
+													<uid>38e480370a60dc37373a710e</uid>
+								</result>
+			<result>
+			<name>圣路加堂幼稚园</name>
+			<location>
+				<lat>22.284996</lat>
+				<lng>114.135594</lng>
+			</location>
+							<address>香港特别行政区中西区</address>
+													<uid>f446091847e3ba17b11e362b</uid>
+								</result>
+			<result>
+			<name>圣路加堂幼稚园</name>
+			<location>
+				<lat>22.285866</lat>
+				<lng>114.152609</lng>
+			</location>
+							<address>香港岛巴丙顿道17</address>
+													<uid>cf21a1027d4009c06268583e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

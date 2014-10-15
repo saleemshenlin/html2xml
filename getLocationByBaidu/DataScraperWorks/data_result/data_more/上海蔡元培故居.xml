@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>蔡元培故居</name>
+			<location>
+				<lat>31.225145</lat>
+				<lng>121.453057</lng>
+			</location>
+							<address>静安区华山路303弄16号（希尔顿饭店斜对面）</address>
+										<telephone>(021)62484996</telephone>
+										<uid>1f2975e7eba9e6c75b1093b4</uid>
+								</result>
+			<result>
+			<name>华山路303弄3号</name>
+			<location>
+				<lat>31.225454</lat>
+				<lng>121.453294</lng>
+			</location>
+							<address>华山路303弄16蔡元培故居(西门)附近</address>
+													<uid>a5967dd9aa8b949ec4f025e8</uid>
+								</result>
+			<result>
+			<name>华山路303弄5号</name>
+			<location>
+				<lat>31.225253</lat>
+				<lng>121.453402</lng>
+			</location>
+							<address>华山路303弄16蔡元培故居(西门)附近</address>
+													<uid>4d032b8372ecf5f9a0acc4b0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

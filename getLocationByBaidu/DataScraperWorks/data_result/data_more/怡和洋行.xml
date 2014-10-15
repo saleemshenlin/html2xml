@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>怡和洋行</name>
+			<location>
+				<lat>31.243355</lat>
+				<lng>121.494895</lng>
+			</location>
+							<address>四川中路320号</address>
+										<telephone>(021)64393615</telephone>
+										<uid>2819ea81dda2c2cd28b97c98</uid>
+								</result>
+			<result>
+			<name>怡和洋行旧址</name>
+			<location>
+				<lat>31.246056</lat>
+				<lng>121.496573</lng>
+			</location>
+							<address>上海市黄浦区中山东一路27号</address>
+													<uid>5211d2198b263a597cc876a5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

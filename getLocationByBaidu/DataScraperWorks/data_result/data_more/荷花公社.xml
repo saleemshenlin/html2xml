@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>荷花公社</name>
+			<location>
+				<lat>30.96153</lat>
+				<lng>121.059107</lng>
+			</location>
+							<address>松江区新浜镇南杨村</address>
+													<uid>2f3d746f0d510699b45f1ea5</uid>
+								</result>
+			<result>
+			<name>田园会所(荷花公社)</name>
+			<location>
+				<lat>30.961402</lat>
+				<lng>121.058857</lng>
+			</location>
+							<address>1835路南向单环;1836路北向单环</address>
+													<uid>3d3b77de161e38534054d75f</uid>
+								</result>
+			<result>
+			<name>江南田园(荷花公社)(招呼站)</name>
+			<location>
+				<lat>30.961607</lat>
+				<lng>121.058849</lng>
+			</location>
+							<address>松江75路</address>
+													<uid>abbd4f9182b9ce43b5147f27</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

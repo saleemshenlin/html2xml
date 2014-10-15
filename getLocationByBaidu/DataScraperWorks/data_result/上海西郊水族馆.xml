@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海市艺川水族工程有限公司</name>
+			<location>
+				<lat>31.211889</lat>
+				<lng>121.371713</lng>
+			</location>
+							<address>上海市长宁区可乐路144-146号近平塘路(西郊百联10分钟步行路程)</address>
+										<telephone>(021)62396243</telephone>
+										<uid>e6ac497ba6fabc88d42ce271</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

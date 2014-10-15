@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>世博场馆公共交通国际联会馆</name>
+			<location>
+				<lat>31.190059</lat>
+				<lng>121.495344</lng>
+			</location>
+							<address>浦东新区浦东世博园B片区国展路国际组织联合馆内(世博馆路口)</address>
+										<telephone>(021)20225480,(021)20225479</telephone>
+										<uid>310d82b77d27b56d3586f4b2</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

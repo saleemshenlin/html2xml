@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>豫园戏苑</name>
+			<location>
+				<lat>31.231761</lat>
+				<lng>121.498471</lng>
+			</location>
+							<address>黄浦区豫园文昌路10号绿波廊4楼屋顶（方浜中路三牌楼路）</address>
+													<uid>c21db9e5b980908201ff2da8</uid>
+								</result>
+			<result>
+			<name>大顺文化艺术剧团</name>
+			<location>
+				<lat>31.232502</lat>
+				<lng>121.497491</lng>
+			</location>
+							<address>黄浦区城隍庙旧校场路69号(近地铁10号线支线/10号线豫园站)</address>
+										<telephone>15026926885</telephone>
+										<uid>f10078c6fd152b5585420e3f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

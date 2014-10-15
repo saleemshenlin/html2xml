@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>张裕葡萄酒品鉴中心</name>
+			<location>
+				<lat>20.031654</lat>
+				<lng>110.326391</lng>
+			</location>
+							<address>海口龙华区国贸大道32号周昌大厦</address>
+										<telephone>(0898)68718771</telephone>
+										<uid>cbcfff97ccd0259395ca07be</uid>
+								</result>
+			<result>
+			<name>张裕葡萄酒品鉴中心</name>
+			<location>
+				<lat>20.03033</lat>
+				<lng>110.326345</lng>
+			</location>
+							<address>玉沙路11-8玉沙国际23层2305号</address>
+													<uid>cb3159b5615c6d5a9e95de2a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

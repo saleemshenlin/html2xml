@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>明陈子龙墓</name>
+			<location>
+				<lat>31.066627</lat>
+				<lng>121.204643</lng>
+			</location>
+							<address>上海市松江区方松街道广富林村村北广富林文化遗址内</address>
+													<uid>d3bb89c9b1d20f9836b06ce6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

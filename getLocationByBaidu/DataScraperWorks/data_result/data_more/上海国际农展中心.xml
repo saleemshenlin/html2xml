@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海国际农展中心</name>
+			<location>
+				<lat>31.196661</lat>
+				<lng>121.382493</lng>
+			</location>
+							<address>虹桥路2272号</address>
+										<telephone>(021)62376018</telephone>
+										<uid>480b24d0318a51f09cec2b62</uid>
+								</result>
+			<result>
+			<name>上海国际农展中心</name>
+			<location>
+				<lat>31.197094</lat>
+				<lng>121.383312</lng>
+			</location>
+							<address>长宁区虹桥路2270号</address>
+										<telephone>(021)62376018</telephone>
+										<uid>fdfdbb5af043a5befb221360</uid>
+								</result>
+			<result>
+			<name>绿鸟图文社</name>
+			<location>
+				<lat>31.19643</lat>
+				<lng>121.38284</lng>
+			</location>
+							<address>虹桥路2270号上海国际农展中心附近</address>
+													<uid>830fff52ad65a578a8f7296e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

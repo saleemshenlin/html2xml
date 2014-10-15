@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>韬奋纪念馆</name>
+			<location>
+				<lat>31.220412</lat>
+				<lng>121.47791</lng>
+			</location>
+							<address>卢湾区重庆南路205弄53-54号(合肥路重庆南路)</address>
+										<telephone>(021)63842811</telephone>
+										<uid>3810c8794a0fe88a9d09f796</uid>
+								</result>
+			<result>
+			<name>韬奋纪念馆</name>
+			<location>
+				<lat>31.220289</lat>
+				<lng>121.47738</lng>
+			</location>
+							<address>黄浦区重庆南路205弄53-54号（合肥路重庆南路）</address>
+										<telephone>(021)63842811</telephone>
+										<uid>315cc6ed2b4c48b25fbe8625</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>丰镇公园</name>
+			<location>
+				<lat>31.311585</lat>
+				<lng>121.488592</lng>
+			</location>
+							<address>虹口区新市北路1507</address>
+										<telephone>(021)65172881,(021)64528772</telephone>
+										<uid>fd007c5e949daf11a8f72905</uid>
+								</result>
+			<result>
+			<name>江湾公园</name>
+			<location>
+				<lat>31.311554</lat>
+				<lng>121.487928</lng>
+			</location>
+							<address>虹口区新市北路1509号（近丰镇路）</address>
+										<telephone>(021)65172881</telephone>
+										<uid>1b7ca5ce885c16c3badf8f00</uid>
+								</result>
+			<result>
+			<name>1505北京烤鸭</name>
+			<location>
+				<lat>31.311184</lat>
+				<lng>121.487886</lng>
+			</location>
+							<address>虹口区新市北路1505号（近丰镇公园门口）</address>
+													<uid>8fde79cc10d033a695ca07d1</uid>
+								</result>
+			<result>
+			<name>绝味鸭脖(江湾公园店)</name>
+			<location>
+				<lat>31.311184</lat>
+				<lng>121.487886</lng>
+			</location>
+							<address>虹口区新市北路1505号1楼（近丰镇路）</address>
+													<uid>d6ee8724c861d4f9a8f0cdc1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

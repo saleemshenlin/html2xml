@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>夏允彝夏完淳父子之墓</name>
+			<location>
+				<lat>31.05727</lat>
+				<lng>121.130536</lng>
+			</location>
+							<address>上海市</address>
+													<uid>47b3a4f60c0904130c0a70bf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

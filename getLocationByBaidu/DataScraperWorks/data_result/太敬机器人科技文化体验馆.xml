@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>太敬机器人科技文化展示体验馆</name>
+			<location>
+				<lat>31.283853</lat>
+				<lng>121.383433</lng>
+			</location>
+							<address>武威路88号2号（中鑫企业广场）</address>
+													<uid>b64df15a13c8ad25c91b9530</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

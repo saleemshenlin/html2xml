@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>文兴港</name>
+			<location>
+				<lat>31.31632</lat>
+				<lng>121.861612</lng>
+			</location>
+							<address>上海市崇明县</address>
+													<uid>be1ea5efd86aadbc14948e79</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

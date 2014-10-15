@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>中国农民画村</name>
+			<location>
+				<lat>30.928096</lat>
+				<lng>121.023683</lng>
+			</location>
+							<address>金山区金山枫泾镇朱枫公路8258弄169号</address>
+										<telephone>(021)57355555</telephone>
+										<uid>ef8da90077e017fc1188245e</uid>
+								</result>
+			<result>
+			<name>倒置屋</name>
+			<location>
+				<lat>30.92784</lat>
+				<lng>121.024168</lng>
+			</location>
+							<address>上海市金山区枫泾镇中国农民画村</address>
+													<uid>81a7d0831b9c4a18eaf8530d</uid>
+								</result>
+			<result>
+			<name>荷风嬉鱼生态休闲园</name>
+			<location>
+				<lat>30.927902</lat>
+				<lng>121.023799</lng>
+			</location>
+							<address>上海近郊金山区枫泾镇朱枫公路8258弄208号(近中国农民画村)</address>
+										<telephone>021-67359777</telephone>
+										<uid>060f5e53955ca2ce091cc7b6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

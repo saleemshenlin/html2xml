@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>委内瑞拉玻利瓦尔共和国驻上海总领事馆</name>
+			<location>
+				<lat>31.238222</lat>
+				<lng>121.484417</lng>
+			</location>
+							<address>福州路666号金陵海欣大厦15层D座</address>
+										<telephone>(021)63917870</telephone>
+										<uid>67818fcbfbf97addad31e560</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>徐志摩与陆小曼故居</name>
+			<location>
+				<lat>31.229221</lat>
+				<lng>121.459404</lng>
+			</location>
+							<address>静安区延安中路913弄四明村内(近铜仁路)</address>
+													<uid>251374c996e3f83ea01de988</uid>
+								</result>
+			<result>
+			<name>徐志摩与陆小曼故居</name>
+			<location>
+				<lat>31.229221</lat>
+				<lng>121.459395</lng>
+			</location>
+							<address>静安区延安中路四明村923号（铜仁路延安中路）</address>
+										<telephone>(021)65400009</telephone>
+										<uid>f811bc2bd41dab47adb22ad3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

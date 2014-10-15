@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>星期8小镇上海站</name>
+			<location>
+				<lat>31.114034</lat>
+				<lng>121.394567</lng>
+			</location>
+							<address>闵行区都市路5001号仲盛世界商城5楼</address>
+										<telephone>021-32513777</telephone>
+										<uid>aeff485a0bf09c5d0bf5eb4c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

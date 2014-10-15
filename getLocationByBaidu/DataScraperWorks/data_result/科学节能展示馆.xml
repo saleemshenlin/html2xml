@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海科学节能展示馆</name>
+			<location>
+				<lat>31.277711</lat>
+				<lng>121.482869</lng>
+			</location>
+							<address>中山北一路121号</address>
+										<telephone>(021)36363555</telephone>
+										<uid>b67d0276dd281aa822022079</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

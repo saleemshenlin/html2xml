@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>华严寺</name>
+			<location>
+				<lat>30.909569</lat>
+				<lng>121.251248</lng>
+			</location>
+							<address>上海市金山区</address>
+													<uid>aea0d1f9e6acc001a3acc447</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

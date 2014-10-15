@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>基督教泰日恩光堂</name>
+			<location>
+				<lat>30.990983</lat>
+				<lng>121.599483</lng>
+			</location>
+							<address>光星村551</address>
+													<uid>6deee308c544e46928fc4891</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

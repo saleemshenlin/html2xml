@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>乌克兰驻上海总领事馆</name>
+			<location>
+				<lat>31.211418</lat>
+				<lng>121.410056</lng>
+			</location>
+							<address>仙霞路88号太阳广场西塔402室</address>
+										<telephone>(021)62953195</telephone>
+										<uid>eb3675037df4c91a00ec0123</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

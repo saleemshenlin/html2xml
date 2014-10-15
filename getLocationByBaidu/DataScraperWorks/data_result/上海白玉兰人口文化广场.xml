@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海白玉兰人口文化广场</name>
+			<location>
+				<lat>31.252964</lat>
+				<lng>121.460684</lng>
+			</location>
+							<address>天目西路</address>
+													<uid>56e88cba5a544864a4c756fc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

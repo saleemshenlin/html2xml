@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海邮政博物馆(新天地馆)</name>
+			<location>
+				<lat>31.22584</lat>
+				<lng>121.482013</lng>
+			</location>
+							<address>卢湾区兴业路123弄3号(近新天地北区)</address>
+										<telephone>(021)63936666</telephone>
+										<uid>15a938107977fbbc15c8f696</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

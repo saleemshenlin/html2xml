@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>远大馆</name>
+			<location>
+				<lat>31.204237</lat>
+				<lng>121.501259</lng>
+			</location>
+							<address>黄浦区浦西世博园E片区龙华东路南侧(近望达路)</address>
+													<uid>fc8fe177b950ff9a54bfff73</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

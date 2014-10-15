@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海宝山国际民间艺术博览馆</name>
+			<location>
+				<lat>31.350981</lat>
+				<lng>121.395762</lng>
+			</location>
+							<address>上海市宝山区沪太路4788号（近顾村公园一号门）</address>
+										<telephone>(021)56042007</telephone>
+										<uid>6f05dad67cfa52b640afe6be</uid>
+								</result>
+			<result>
+			<name>上海宝山国际民间艺术博览馆</name>
+			<location>
+				<lat>31.350503</lat>
+				<lng>121.391788</lng>
+			</location>
+							<address>上海市宝山区沪太路4788号（近顾村公园一号门）</address>
+										<telephone>(021)56042007</telephone>
+										<uid>c799a7d30570037d213bf27a</uid>
+								</result>
+			<result>
+			<name>上海宝山国际民间艺术博览馆停车场</name>
+			<location>
+				<lat>31.351429</lat>
+				<lng>121.395493</lng>
+			</location>
+							<address>上海市宝山区</address>
+													<uid>43e4a0a6e3504820ce04efd1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

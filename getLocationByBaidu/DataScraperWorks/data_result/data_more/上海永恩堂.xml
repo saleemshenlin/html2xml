@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>永恩堂</name>
+			<location>
+				<lat>31.016782</lat>
+				<lng>121.218494</lng>
+			</location>
+							<address>松江区镇永丰路建材市场西侧</address>
+										<telephone>(021)57820762</telephone>
+										<uid>be54cde9303b345978f796e4</uid>
+								</result>
+			<result>
+			<name>永恩堂-南门</name>
+			<location>
+				<lat>31.016875</lat>
+				<lng>121.218447</lng>
+			</location>
+							<address>仓丰路128</address>
+													<uid>5c523bd7c8883a7115c90524</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

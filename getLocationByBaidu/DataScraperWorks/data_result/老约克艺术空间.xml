@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>老约克艺术空间</name>
+			<location>
+				<lat>31.206963</lat>
+				<lng>121.451372</lng>
+			</location>
+							<address>徐汇区吴兴路248号甲（近衡山路）</address>
+										<telephone>(021)64664556</telephone>
+										<uid>6435de4fc725610abca2405a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

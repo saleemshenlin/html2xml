@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>1933老场坊空中剧院</name>
+			<location>
+				<lat>31.260218</lat>
+				<lng>121.498433</lng>
+			</location>
+							<address>虹口区溧阳路611号19333老场坊主楼4楼（近九龙宾馆）</address>
+													<uid>9a5f114dad3cfa7f42d63ed7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

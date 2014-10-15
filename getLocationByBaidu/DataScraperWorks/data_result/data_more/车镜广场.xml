@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>车镜广场</name>
+			<location>
+				<lat>30.835528</lat>
+				<lng>121.242509</lng>
+			</location>
+							<address>干巷镇</address>
+													<uid>3810c8794baee98a9c09f731</uid>
+								</result>
+			<result>
+			<name>好宜卖眼镜直通车(上南路店)</name>
+			<location>
+				<lat>31.16769</lat>
+				<lng>121.503782</lng>
+			</location>
+							<address>上南路3042-3044号东上海电脑广场2层</address>
+										<telephone>(021)50472132</telephone>
+										<uid>d80481c520c88af3b35c6a20</uid>
+								</result>
+			<result>
+			<name>眼镜公场直通车眼镜超市（长寿店）</name>
+			<location>
+				<lat>31.246241</lat>
+				<lng>121.443055</lng>
+			</location>
+							<address>普陀区长寿路522号2楼（亚新生活广场对面）</address>
+										<telephone>(021)62110882</telephone>
+										<uid>d2f1efeea0b02a06c07da20b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海三林塘老街投资发展有限公司</name>
+			<location>
+				<lat>31.144042</lat>
+				<lng>121.505164</lng>
+			</location>
+							<address>三林路344</address>
+										<telephone>021-58499993</telephone>
+										<uid>2e26c152da753ae5f01937b7</uid>
+								</result>
+			<result>
+			<name>优加宝贝</name>
+			<location>
+				<lat>31.143184</lat>
+				<lng>121.512981</lng>
+			</location>
+							<address>浦东新区三新路18号三林镇中心(近幼儿园,三林老街)</address>
+										<telephone>13391263159</telephone>
+										<uid>fef2dfdffaa79be8b817e711</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

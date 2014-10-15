@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>水景广场</name>
+			<location>
+				<lat>31.33654</lat>
+				<lng>121.231637</lng>
+			</location>
+							<address>方泰镇</address>
+													<uid>d82d6697852789a7d518b7e9</uid>
+								</result>
+			<result>
+			<name>水景广场-停车场</name>
+			<location>
+				<lat>31.335761</lat>
+				<lng>121.232218</lng>
+			</location>
+							<address>嘉定区伊宁路2199号</address>
+													<uid>8285fd5187dfcb50acee7a3b</uid>
+								</result>
+			<result>
+			<name>App自拍工作室</name>
+			<location>
+				<lat>31.207557</lat>
+				<lng>121.70277</lng>
+			</location>
+							<address>华夏东路2345号水景豪园11栋32号楼101室（金汇广场斜对面）</address>
+										<telephone>4000308630-2770</telephone>
+										<uid>ba743ebb45e7434fc3f1cf35</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

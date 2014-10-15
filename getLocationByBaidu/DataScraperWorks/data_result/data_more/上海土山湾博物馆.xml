@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>土山湾博物馆</name>
+			<location>
+				<lat>31.192939</lat>
+				<lng>121.441516</lng>
+			</location>
+							<address>蒲汇塘路55-1号（近漕溪北路）</address>
+										<telephone>(021)54249688</telephone>
+										<uid>46e86fdda5ad0111d13ce34f</uid>
+								</result>
+			<result>
+			<name>土山湾博物馆</name>
+			<location>
+				<lat>31.192947</lat>
+				<lng>121.441519</lng>
+			</location>
+							<address>上海市徐汇区蒲汇塘路55-1号（近漕溪北路）</address>
+										<telephone>(021)54249688</telephone>
+										<uid>6dccd09d692330359b68b436</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

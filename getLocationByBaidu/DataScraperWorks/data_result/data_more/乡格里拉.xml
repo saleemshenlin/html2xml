@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>乡格里拉农庄</name>
+			<location>
+				<lat>30.932285</lat>
+				<lng>121.142701</lng>
+			</location>
+							<address>中厍南路999号附近</address>
+										<telephone>(021)57878300</telephone>
+										<uid>083a55fa8141fd07246e9851</uid>
+								</result>
+			<result>
+			<name>乡格里拉大酒店</name>
+			<location>
+				<lat>30.957102</lat>
+				<lng>121.65314</lng>
+			</location>
+							<address>上海浦东新区新奉公路4373弄25号</address>
+										<telephone>(021)57550777</telephone>
+										<uid>e8f8dfbbcd23550b57bfff94</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

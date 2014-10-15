@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>人文纪念公园</name>
+			<location>
+				<lat>31.117327</lat>
+				<lng>121.140347</lng>
+			</location>
+							<address>青浦区外青松公路7270号福寿园</address>
+										<telephone>(021)69209026</telephone>
+										<uid>e889a744ef5b2ec88605bf13</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

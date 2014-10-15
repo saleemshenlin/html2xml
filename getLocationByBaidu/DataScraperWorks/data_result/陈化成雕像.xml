@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>抗英民族英雄陈化成雕像</name>
+			<location>
+				<lat>31.415851</lat>
+				<lng>121.499538</lng>
+			</location>
+							<address>友谊路1号</address>
+										<telephone>(021)66786355</telephone>
+										<uid>480b24d0306c50f09cec2b7c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

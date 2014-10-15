@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海基督教沪东堂</name>
+			<location>
+				<lat>31.314053</lat>
+				<lng>121.52559</lng>
+			</location>
+							<address>国和路350号</address>
+										<telephone>(021)65337102,(021)65337102,(021)65335963</telephone>
+										<uid>7bfa08fc66110d7e25d2bbd6</uid>
+								</result>
+			<result>
+			<name>上海基督教沪东堂(南门)</name>
+			<location>
+				<lat>31.313968</lat>
+				<lng>121.525159</lng>
+			</location>
+							<address>国和路350号附近</address>
+													<uid>12db6d84c8c2f889c8213d80</uid>
+								</result>
+			<result>
+			<name>上海基督教沪东堂-东门</name>
+			<location>
+				<lat>31.314037</lat>
+				<lng>121.525701</lng>
+			</location>
+							<address>国和路350</address>
+													<uid>cd9062a326c6344e5f17c3ae</uid>
+								</result>
+			<result>
+			<name>基督教沪东堂江浦聚会点</name>
+			<location>
+				<lat>31.27366</lat>
+				<lng>121.530093</lng>
+			</location>
+							<address>上海市杨浦区</address>
+													<uid>477fd780a1006f7aede4a583</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

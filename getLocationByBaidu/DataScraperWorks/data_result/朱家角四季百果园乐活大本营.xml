@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>朱家角四季百果园乐活大本营</name>
+			<location>
+				<lat>31.142357</lat>
+				<lng>121.060341</lng>
+			</location>
+							<address>上海市青浦区朱家角镇盛家埭叶塘村369号（沪青平高速朱家角出口）</address>
+										<telephone>(021)61319274,15800558240</telephone>
+										<uid>90950aeef5ec7fa296f08c89</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

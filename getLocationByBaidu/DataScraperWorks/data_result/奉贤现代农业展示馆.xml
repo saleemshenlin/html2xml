@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>奉贤现代农业展示馆</name>
+			<location>
+				<lat>30.94253</lat>
+				<lng>121.482813</lng>
+			</location>
+							<address>南桥镇现代农业园区望园路青长支路</address>
+													<uid>e3e2cd9d4f477ce2c7f50d0a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

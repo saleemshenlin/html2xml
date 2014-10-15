@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海大世界游乐城</name>
+			<location>
+				<lat>31.234262</lat>
+				<lng>121.485381</lng>
+			</location>
+							<address>西藏南路、延安东路交叉口</address>
+										<telephone>(021)63203484</telephone>
+										<uid>844a750e1ee60da062685874</uid>
+								</result>
+			<result>
+			<name>上海大世界游乐城</name>
+			<location>
+				<lat>31.233999</lat>
+				<lng>121.485511</lng>
+			</location>
+							<address>黄浦区西藏南路1号（徽宁路西藏南路）</address>
+													<uid>ce2147cf62479e8df02d8342</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

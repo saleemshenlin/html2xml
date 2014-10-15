@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>亨昌里</name>
+			<location>
+				<lat>31.225238</lat>
+				<lng>121.429517</lng>
+			</location>
+							<address>愚园路1376弄4～42号</address>
+													<uid>89fd4ea3d0725e46e5e9651d</uid>
+								</result>
+			<result>
+			<name>亨昌里-南门</name>
+			<location>
+				<lat>31.225245</lat>
+				<lng>121.429462</lng>
+			</location>
+							<address>愚园路1376弄4-42号</address>
+													<uid>70251e5b95e59510471a320a</uid>
+								</result>
+			<result>
+			<name>亨昌里-北门</name>
+			<location>
+				<lat>31.226056</lat>
+				<lng>121.429394</lng>
+			</location>
+							<address>上海市长宁区愚园路1376弄4-42号</address>
+													<uid>0064144a8c7f35bd0c0a70e1</uid>
+								</result>
+			<result>
+			<name>亨昌里(正门)</name>
+			<location>
+				<lat>31.225207</lat>
+				<lng>121.429515</lng>
+			</location>
+							<address>上海市长宁区愚园路1376弄4-42号</address>
+													<uid>f567bb90833a58fc774ff1b9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>希尔西海洋世界</name>
+			<location>
+				<lat>31.189062</lat>
+				<lng>121.448783</lng>
+			</location>
+							<address>徐汇区天钥桥路666号</address>
+													<uid>9ea76afc3a8637b2336212dd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

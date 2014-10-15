@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>柳亚子故居</name>
+			<location>
+				<lat>30.995278</lat>
+				<lng>120.717796</lng>
+			</location>
+							<address>江苏苏州吴江县黎里镇老街</address>
+										<telephone>(0512)63616852</telephone>
+										<uid>c8e8f633347df46faa0dd88b</uid>
+								</result>
+			<result>
+			<name>柳亚子旧居</name>
+			<location>
+				<lat>30.995278</lat>
+				<lng>120.717796</lng>
+			</location>
+							<address>中心街75</address>
+										<telephone>(0512)63616852</telephone>
+										<uid>a75a984d6b67bad0ce06a458</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

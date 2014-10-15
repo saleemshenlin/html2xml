@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>孙中山文物馆</name>
+			<location>
+				<lat>31.222088</lat>
+				<lng>121.474043</lng>
+			</location>
+							<address>香山路7号</address>
+													<uid>e2d242ee23a4e5492a02e1e1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

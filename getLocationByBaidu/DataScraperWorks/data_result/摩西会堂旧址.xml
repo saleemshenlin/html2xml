@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>犹太摩西会堂</name>
+			<location>
+				<lat>31.259987</lat>
+				<lng>121.515719</lng>
+			</location>
+							<address>长阳路62</address>
+										<telephone>(021)65126669</telephone>
+										<uid>0adce3e2862f046080a00c32</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

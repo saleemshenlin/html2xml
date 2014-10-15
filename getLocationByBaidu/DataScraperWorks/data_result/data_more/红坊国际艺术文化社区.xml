@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>6</total>
+    <results>
+			<result>
+			<name>红坊国际艺术文化社区</name>
+			<location>
+				<lat>31.204669</lat>
+				<lng>121.430546</lng>
+			</location>
+							<address>淮海西路570号新十钢创意产业集聚区A区103</address>
+													<uid>000690c6b359ba22246e98ef</uid>
+								</result>
+			<result>
+			<name>锦森食膳</name>
+			<location>
+				<lat>31.204978</lat>
+				<lng>121.429866</lng>
+			</location>
+							<address>上海长宁区淮海西路570号红坊国际艺术文化社区3C115近凯旋路</address>
+										<telephone>(021)61248111</telephone>
+										<uid>97e52e079b800e5b35b06c14</uid>
+								</result>
+			<result>
+			<name>CICI CLUB</name>
+			<location>
+				<lat>31.205032</lat>
+				<lng>121.428824</lng>
+			</location>
+							<address>长宁区淮海西路570号红坊国际艺术文化社区B区(城市雕塑馆隔壁)</address>
+													<uid>06d2dffda7e1beef88f15d14</uid>
+								</result>
+			<result>
+			<name>FANTOWN</name>
+			<location>
+				<lat>31.205032</lat>
+				<lng>121.428824</lng>
+			</location>
+							<address>长宁区淮海西路570号红坊国际艺术文化社区H101室-H103室(近虹桥路)</address>
+													<uid>2fbcca70de957c376f3e1be8</uid>
+								</result>
+			<result>
+			<name>沙龙奶茶</name>
+			<location>
+				<lat>31.205032</lat>
+				<lng>121.428824</lng>
+			</location>
+							<address>徐汇区淮海西路570号红坊国际艺术文化社区</address>
+													<uid>d456d2e4b129932b43ab9a29</uid>
+								</result>
+			<result>
+			<name>MAO LIVEHOUSE SHANGHAI</name>
+			<location>
+				<lat>31.204978</lat>
+				<lng>121.429866</lng>
+			</location>
+							<address>上海长宁区淮海西路570号红坊国际艺术文化社区32栋近凯旋路</address>
+										<telephone>(021)62277332</telephone>
+										<uid>e406bb5297d5cc96f50e771c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>环东公园</name>
+			<location>
+				<lat>31.189495</lat>
+				<lng>121.661311</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>669775d0672f295afc0eb0af</uid>
+								</result>
+			<result>
+			<name>环东公园-南门</name>
+			<location>
+				<lat>31.188468</lat>
+				<lng>121.66147</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>94e85a5a56810df58bfc067b</uid>
+								</result>
+			<result>
+			<name>环东公园-西门</name>
+			<location>
+				<lat>31.188553</lat>
+				<lng>121.661321</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>1f556135e169cad771455b82</uid>
+								</result>
+			<result>
+			<name>环东公园-北门</name>
+			<location>
+				<lat>31.19029</lat>
+				<lng>121.660914</lng>
+			</location>
+							<address>三灶路1118识别</address>
+													<uid>9766a5129ac228e5c5effb69</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

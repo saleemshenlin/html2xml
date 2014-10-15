@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>七二九画廊</name>
+			<location>
+				<lat>31.226851</lat>
+				<lng>121.441639</lng>
+			</location>
+							<address>长宁区愚园路729号（愚园路镇宁路）</address>
+										<telephone>(021)62120046</telephone>
+										<uid>6ba1e4f036e3216c0e3ddaaa</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

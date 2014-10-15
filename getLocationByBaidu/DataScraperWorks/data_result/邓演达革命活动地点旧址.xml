@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>邓演达革命活动地点旧址</name>
+			<location>
+				<lat>31.228202</lat>
+				<lng>121.446004</lng>
+			</location>
+							<address>愚园路483弄12号</address>
+													<uid>a2092b76808c085ff02d8374</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

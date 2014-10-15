@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>秘鲁驻沪总领事馆</name>
+			<location>
+				<lat>31.230641</lat>
+				<lng>121.456799</lng>
+			</location>
+							<address>南京西路1515号静安嘉里中心办公楼一座27层2705室</address>
+										<telephone>(021)52985900</telephone>
+										<uid>08ff808275eb64e4902ca360</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>三元宫坤道院</name>
+			<location>
+				<lat>31.193951</lat>
+				<lng>121.542788</lng>
+			</location>
+							<address>高科西路2119</address>
+										<telephone>(021)50899283,(021)58813960</telephone>
+										<uid>2c0bd6c50cc2e0ab43ab9a4d</uid>
+								</result>
+			<result>
+			<name>三元宫坤道院-南门</name>
+			<location>
+				<lat>31.193866</lat>
+				<lng>121.542926</lng>
+			</location>
+							<address>高科西路2119</address>
+													<uid>26d3c46e9307e869b35c6ab4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

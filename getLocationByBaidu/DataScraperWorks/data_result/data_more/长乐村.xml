@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>长乐村</name>
+			<location>
+				<lat>31.226535</lat>
+				<lng>121.464339</lng>
+			</location>
+							<address>陕西南路39-45弄</address>
+													<uid>1fa25f2befda6c2a2dfaa70d</uid>
+								</result>
+			<result>
+			<name>长乐村-北门</name>
+			<location>
+				<lat>31.226511</lat>
+				<lng>121.465505</lng>
+			</location>
+							<address>上海市黄浦区长乐路197号</address>
+													<uid>9e036e54e05356433904b1d4</uid>
+								</result>
+			<result>
+			<name>LIZA婚纱工作室</name>
+			<location>
+				<lat>31.224798</lat>
+				<lng>121.464863</lng>
+			</location>
+							<address>陕西南路39弄长乐村31号2楼（近新乐路）</address>
+										<telephone>(021)54042131</telephone>
+										<uid>dab7eb15b6204c311894c60f</uid>
+								</result>
+			<result>
+			<name>LIZA婚纱工作室</name>
+			<location>
+				<lat>31.224798</lat>
+				<lng>121.464863</lng>
+			</location>
+							<address>卢湾区陕西南路39弄长乐村31号2楼(近新乐路)</address>
+													<uid>efaaf23993d904ae0bccddfe</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

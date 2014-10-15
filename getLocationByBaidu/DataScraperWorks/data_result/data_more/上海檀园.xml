@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>檀园</name>
+			<location>
+				<lat>31.204785</lat>
+				<lng>121.395336</lng>
+			</location>
+							<address>上海长宁区虹桥路1881-1883号</address>
+										<telephone>(021)62617118</telephone>
+										<uid>ce25f5800a02a8fc28201a32</uid>
+								</result>
+			<result>
+			<name>檀园-南门</name>
+			<location>
+				<lat>31.297546</lat>
+				<lng>121.314514</lng>
+			</location>
+							<address>解放街230号</address>
+													<uid>3f892d08d92d36ae0c0a70a7</uid>
+								</result>
+			<result>
+			<name>南翔檀园售票服务中心</name>
+			<location>
+				<lat>31.298441</lat>
+				<lng>121.314584</lng>
+			</location>
+							<address>上海市嘉定区</address>
+													<uid>f5931aad0be835221c38941b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

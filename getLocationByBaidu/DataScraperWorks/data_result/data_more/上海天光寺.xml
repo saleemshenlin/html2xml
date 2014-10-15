@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>练东村路天光寺桥</name>
+			<location>
+				<lat>31.020287</lat>
+				<lng>121.063035</lng>
+			</location>
+							<address>上海市青浦区</address>
+													<uid>ea4a3dc958e4a92d4f554784</uid>
+								</result>
+			<result>
+			<name>上海新来果蔬专业合作社</name>
+			<location>
+				<lat>31.019459</lat>
+				<lng>121.063699</lng>
+			</location>
+							<address>练塘镇东三路天光寺对面</address>
+										<telephone>(021)59227101,18816996360</telephone>
+										<uid>c81050523bf30b77bb17e763</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

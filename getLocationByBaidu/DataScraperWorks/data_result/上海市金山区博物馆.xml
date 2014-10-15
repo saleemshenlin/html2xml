@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海市金山区博物馆</name>
+			<location>
+				<lat>30.903504</lat>
+				<lng>121.176025</lng>
+			</location>
+							<address>金山区朱泾镇罗星路200号</address>
+										<telephone>(021)57317092,(021)57320267</telephone>
+										<uid>f757e6eebf62be16260bd030</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

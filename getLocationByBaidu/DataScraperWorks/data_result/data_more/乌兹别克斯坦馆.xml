@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>乌兹别克斯坦共和国驻上海总领事馆</name>
+			<location>
+				<lat>31.254353</lat>
+				<lng>121.496772</lng>
+			</location>
+							<address>吴淞路258号耀江国际广场1号楼8层801</address>
+										<telephone>(021)63071896</telephone>
+										<uid>2cfc9543f1f6ff3113293568</uid>
+								</result>
+			<result>
+			<name>乌兹别克斯坦驻上海总领事馆签证处</name>
+			<location>
+				<lat>31.254353</lat>
+				<lng>121.496772</lng>
+			</location>
+							<address>吴淞路258号耀江国际广场1号楼8层801</address>
+													<uid>58c299429eab7b57f4231071</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

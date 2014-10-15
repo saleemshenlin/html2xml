@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海风电科普馆</name>
+			<location>
+				<lat>30.978514</lat>
+				<lng>121.916471</lng>
+			</location>
+							<address>浦东新区南汇东大公路5366号</address>
+										<telephone>(021)58293030</telephone>
+										<uid>f4b97a34a5c31d4ed5b74e5c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

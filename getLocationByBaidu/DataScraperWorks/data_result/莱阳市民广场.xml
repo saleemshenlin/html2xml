@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>莱阳市民广场</name>
+			<location>
+				<lat>31.286206</lat>
+				<lng>121.588489</lng>
+			</location>
+							<address>金桥镇</address>
+													<uid>680fb7032e5c459d8ab988a9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

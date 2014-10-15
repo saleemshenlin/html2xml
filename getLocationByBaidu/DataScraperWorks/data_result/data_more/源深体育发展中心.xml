@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>浦东新区源深体育发展中心(6-1号门)</name>
+			<location>
+				<lat>31.236006</lat>
+				<lng>121.544032</lng>
+			</location>
+							<address>张杨路1458号</address>
+										<telephone>(021)50936863,(021)58602330</telephone>
+										<uid>8cac8b285445923cd3ff23e2</uid>
+								</result>
+			<result>
+			<name>源深体育发展中心(五号门店)</name>
+			<location>
+				<lat>31.237512</lat>
+				<lng>121.5432</lng>
+			</location>
+							<address>羽山路9号</address>
+													<uid>bb300b32a2266999f82213ab</uid>
+								</result>
+			<result>
+			<name>上海申源体育文化发展有限公司</name>
+			<location>
+				<lat>31.237658</lat>
+				<lng>121.543673</lng>
+			</location>
+							<address>张杨路1458号源深体育中心东区4楼棋牌培训中心</address>
+										<telephone>(021)58211367</telephone>
+										<uid>007a706987e91bc2cd04efc8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

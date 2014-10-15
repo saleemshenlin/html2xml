@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>嘉善坊</name>
+			<location>
+				<lat>31.260326</lat>
+				<lng>121.381716</lng>
+			</location>
+							<address>铜川路2285弄1～129号</address>
+													<uid>14076dee0cc832f702294fdd</uid>
+								</result>
+			<result>
+			<name>嘉善坊</name>
+			<location>
+				<lat>31.211742</lat>
+				<lng>121.466429</lng>
+			</location>
+							<address>徐汇区陕西南路550弄37号（近绍兴路）</address>
+										<telephone>15900656745</telephone>
+										<uid>1d48b2c104735cfe88fc0685</uid>
+								</result>
+			<result>
+			<name>金汤社区嘉善坊(北门)</name>
+			<location>
+				<lat>31.26028</lat>
+				<lng>121.381583</lng>
+			</location>
+							<address>铜川路2285弄1-129号</address>
+													<uid>d9f70ea5b929d0bbb917e745</uid>
+								</result>
+			<result>
+			<name>易佰连锁旅店（上海江桥嘉善坊店）</name>
+			<location>
+				<lat>31.270304</lat>
+				<lng>121.354833</lng>
+			</location>
+							<address>上海市嘉定区江桥镇嘉怡路296号（雯婕商务楼，近曹安公路）</address>
+										<telephone>021-69988716</telephone>
+										<uid>56e5116af16f6d0217b54bf1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海长江大桥</name>
+			<location>
+				<lat>31.479115</lat>
+				<lng>121.782888</lng>
+			</location>
+							<address>上海市崇明县</address>
+													<uid>a63a4b856514af4a29201a14</uid>
+								</result>
+			<result>
+			<name>陈家镇(长江大桥)</name>
+			<location>
+				<lat>31.519227</lat>
+				<lng>121.793834</lng>
+			</location>
+							<address>1721路;堡陈中线;堡陈专线;堡前陈线;陈白线;陈凤线;陈凤线定班车;陈前线;东滩1路;申崇二线;申崇一线</address>
+													<uid>8977b835fcdd6d6e7adbd2b0</uid>
+								</result>
+			<result>
+			<name>陈家镇(长江大桥)(下客站)</name>
+			<location>
+				<lat>31.51973</lat>
+				<lng>121.794377</lng>
+			</location>
+							<address>1721路;陈凤线;东滩1路;申崇一线</address>
+													<uid>e52732b0d8761ebd9ef7793c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

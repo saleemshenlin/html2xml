@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>嘉定区基督教马陆聚会所</name>
+			<location>
+				<lat>31.34954</lat>
+				<lng>121.322745</lng>
+			</location>
+							<address>浏翔公路2068号</address>
+										<telephone>(021)39105377</telephone>
+										<uid>05dd7d5f7d1a7a00ac080f90</uid>
+								</result>
+			<result>
+			<name>嘉定区基督教马陆聚会所-西南门</name>
+			<location>
+				<lat>31.349594</lat>
+				<lng>121.322599</lng>
+			</location>
+							<address>浏翔公路2068号</address>
+													<uid>be5053daa63d65afdb13188e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

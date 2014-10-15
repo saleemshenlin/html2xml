@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>迪士卡赛车馆</name>
+			<location>
+				<lat>31.229962</lat>
+				<lng>121.408964</lng>
+			</location>
+							<address>普陀区枣阳路809号长风公园附近(近华师大后门)</address>
+										<telephone>(021)62222880</telephone>
+										<uid>09185c569c014c5cf11937c9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

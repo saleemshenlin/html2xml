@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>佘山新天地休闲广场</name>
+			<location>
+				<lat>31.10666</lat>
+				<lng>121.192318</lng>
+			</location>
+							<address>上海市松江区桃源路178号</address>
+										<telephone>(021)37002086</telephone>
+										<uid>b5101b901591f4fbe5e965df</uid>
+								</result>
+			<result>
+			<name>佘山新天地休闲广场</name>
+			<location>
+				<lat>31.106112</lat>
+				<lng>121.191648</lng>
+			</location>
+							<address>佘山镇桃源路178号(近外青松公路)</address>
+													<uid>6a3f53e4387d1074e8e5823e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

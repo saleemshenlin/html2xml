@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>联洋广场展示中心</name>
+			<location>
+				<lat>31.23559</lat>
+				<lng>121.562801</lng>
+			</location>
+							<address>杨高中路2795-7号联洋新社区青少年彩虹中心中途宿舍</address>
+													<uid>12419b59a6ec2b5ebda240c2</uid>
+								</result>
+			<result>
+			<name>升华幼儿舞蹈培训中心</name>
+			<location>
+				<lat>31.235536</lat>
+				<lng>121.562773</lng>
+			</location>
+							<address>浦东新区联洋广场展示中心一楼舞蹈房(杨高中路 芳甸路)</address>
+										<telephone>13482257072</telephone>
+										<uid>5766883bb50691886140a939</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

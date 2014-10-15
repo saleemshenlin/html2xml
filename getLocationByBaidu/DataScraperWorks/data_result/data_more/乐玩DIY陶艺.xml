@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>乐玩DIY陶艺</name>
+			<location>
+				<lat>31.201248</lat>
+				<lng>121.56148</lng>
+			</location>
+							<address>上海市浦东新区芳华路220号（07号门店）</address>
+										<telephone>(021)61552862,18217480627</telephone>
+										<uid>d89270727ab8c507b42655f1</uid>
+								</result>
+			<result>
+			<name>乐玩DIY陶艺</name>
+			<location>
+				<lat>31.201434</lat>
+				<lng>121.561785</lng>
+			</location>
+							<address>上海市浦东新区芳华路220号（07号门店）</address>
+										<telephone>(021)61552862</telephone>
+										<uid>5739d1888f34192e353a7163</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

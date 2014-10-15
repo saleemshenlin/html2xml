@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>埃韵艺术交流中心（都市路店）</name>
+			<location>
+				<lat>31.115727</lat>
+				<lng>121.395179</lng>
+			</location>
+							<address>闵行区都市路5058弄莘梓苑35号101室（近莘庄地铁站）</address>
+										<telephone>18621995823</telephone>
+										<uid>bbfbb9ec44a2140c02ec015d</uid>
+								</result>
+			<result>
+			<name>筑道城市设计咨询</name>
+			<location>
+				<lat>31.269332</lat>
+				<lng>121.531093</lng>
+			</location>
+							<address>长阳路1080号上海国际设计交流中心10号楼5楼</address>
+													<uid>012eb4cd6a94c3e088db73a2</uid>
+								</result>
+			<result>
+			<name>埃韵艺术交流中心（都市路店）</name>
+			<location>
+				<lat>31.115773</lat>
+				<lng>121.395138</lng>
+			</location>
+							<address>闵行区都市路5058弄莘梓苑35号101室（近莘庄地铁站）</address>
+										<telephone>18621995823</telephone>
+										<uid>1164f99d302c9d05c356ac6f</uid>
+								</result>
+			<result>
+			<name>上海市城乡建设和交通委员会人才交流和岗位考核指导中心</name>
+			<location>
+				<lat>31.215417</lat>
+				<lng>121.492554</lng>
+			</location>
+							<address>丽园路240号2层</address>
+										<telephone>(021)63122363</telephone>
+										<uid>682872e7ae61d3eb1d5800aa</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

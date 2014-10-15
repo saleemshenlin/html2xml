@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>尼泊尔驻上海领事馆签证处</name>
+			<location>
+				<lat>31.238986</lat>
+				<lng>121.46832</lng>
+			</location>
+							<address>北京西路669号东展商业大厦16层</address>
+													<uid>5120fb5aaae8b8dc45572674</uid>
+								</result>
+			<result>
+			<name>尼泊尔驻上海名誉领事馆</name>
+			<location>
+				<lat>31.238986</lat>
+				<lng>121.46832</lng>
+			</location>
+							<address>北京西路669号16楼A座</address>
+										<telephone>(021)62720259</telephone>
+										<uid>79c0ffb6cc094cd626e0a091</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

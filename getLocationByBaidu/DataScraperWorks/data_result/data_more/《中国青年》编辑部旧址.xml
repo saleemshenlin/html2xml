@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>《中国青年》编辑部旧址</name>
+			<location>
+				<lat>31.229808</lat>
+				<lng>121.478367</lng>
+			</location>
+							<address>黄浦区淡水路66弄2-6号（近金陵西路）</address>
+										<telephone>(021)62494866</telephone>
+										<uid>65df6b4a017bb401a8059dea</uid>
+								</result>
+			<result>
+			<name>《中国青年》编辑部旧址</name>
+			<location>
+				<lat>31.229885</lat>
+				<lng>121.4782</lng>
+			</location>
+							<address>卢湾区淡水路66弄2-6号(近金陵西路)</address>
+													<uid>a3e8341c42e7bd944bfd3fab</uid>
+								</result>
+			<result>
+			<name>金裕苑</name>
+			<location>
+				<lat>31.230039</lat>
+				<lng>121.478253</lng>
+			</location>
+							<address>黄浦区淡水路66弄2-4-6号（原《中国青年》编辑部旧址）</address>
+										<telephone>(021)63869007</telephone>
+										<uid>a84bee74789782f9f8f0cb1a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>朱家角人文艺术馆</name>
+			<location>
+				<lat>31.115055</lat>
+				<lng>121.061863</lng>
+			</location>
+							<address>上海市青浦区朱家角镇美周路36号</address>
+										<telephone>(021)59246950</telephone>
+										<uid>f27386937f3d09c476e5b670</uid>
+								</result>
+			<result>
+			<name>好再来阿婆粽</name>
+			<location>
+				<lat>31.114939</lat>
+				<lng>121.061525</lng>
+			</location>
+							<address>青浦区朱家角美周路73号(近人文艺术馆)</address>
+										<telephone>(021)27742908</telephone>
+										<uid>4ce10ce66ab6fab8441a321d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

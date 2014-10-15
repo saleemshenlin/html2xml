@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海地下组织斗争史陈列馆</name>
+			<location>
+				<lat>31.231236</lat>
+				<lng>121.452991</lng>
+			</location>
+							<address>静安区愚园路81号(近久光百货)</address>
+										<telephone>(021)62155939</telephone>
+										<uid>fa835ce2c165f4b7e912e488</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>永福庵</name>
+			<location>
+				<lat>31.323223</lat>
+				<lng>121.404632</lng>
+			</location>
+							<address>宝山区南陈路351弄2号(环镇北路南陈路)</address>
+										<telephone>(021)56139137</telephone>
+										<uid>0ce65c2daf76b9582d473375</uid>
+								</result>
+			<result>
+			<name>永福庵</name>
+			<location>
+				<lat>31.323215</lat>
+				<lng>121.404562</lng>
+			</location>
+							<address>宝山区南陈路351弄2号（环镇北路南陈路）</address>
+										<telephone>(021)56139137</telephone>
+										<uid>d5485a557d06f3a938221ca4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

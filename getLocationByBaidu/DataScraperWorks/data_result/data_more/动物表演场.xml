@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海野生动物园-百兽山表演场</name>
+			<location>
+				<lat>31.0572</lat>
+				<lng>121.729775</lng>
+			</location>
+							<address>上海市浦东新区宣桥镇南六公路178号上海野生动物园内</address>
+										<telephone>(021)61180000</telephone>
+										<uid>f46113cc3f2fb3c645e27441</uid>
+								</result>
+			<result>
+			<name>上海野生动物园-海狮表演场</name>
+			<location>
+				<lat>31.062768</lat>
+				<lng>121.725373</lng>
+			</location>
+							<address>上海野生动物园内</address>
+													<uid>d92b59e078d8e53d5fd4fe5f</uid>
+								</result>
+			<result>
+			<name>百兽山表演场2号门</name>
+			<location>
+				<lat>31.056883</lat>
+				<lng>121.729155</lng>
+			</location>
+							<address>上海市浦东新区宣桥镇南六公路178号上海野生动物园内</address>
+													<uid>a39c862a0aa40163d2f49e12</uid>
+								</result>
+			<result>
+			<name>百兽山表演场1号门</name>
+			<location>
+				<lat>31.057215</lat>
+				<lng>121.729712</lng>
+			</location>
+							<address>上海市浦东新区宣桥镇南六公路178号上海野生动物园内</address>
+													<uid>2d22c919e0152715d3ff2387</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>白云观</name>
+			<location>
+				<lat>31.23058</lat>
+				<lng>121.49041</lng>
+			</location>
+							<address>［上海市］ 大境路239号</address>
+										<telephone>(021)63286728</telephone>
+										<uid>853768d92ae8106596ca071e</uid>
+								</result>
+			<result>
+			<name>白云观</name>
+			<location>
+				<lat>31.230518</lat>
+				<lng>121.490445</lng>
+			</location>
+							<address>上海市黄浦区大境路239号（近青莲街）</address>
+										<telephone>(021)63287236</telephone>
+										<uid>6e455e7fc546a23f57bfffe2</uid>
+								</result>
+			<result>
+			<name>白云观-南门</name>
+			<location>
+				<lat>31.230526</lat>
+				<lng>121.49044</lng>
+			</location>
+							<address>大境路239</address>
+													<uid>854f1ff34dd8169c6fa3ccbd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

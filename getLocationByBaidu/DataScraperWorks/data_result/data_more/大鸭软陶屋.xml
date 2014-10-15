@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>大鸭软陶屋（静安寺店）</name>
+			<location>
+				<lat>31.229638</lat>
+				<lng>121.449189</lng>
+			</location>
+							<address>上海市静安区愚园路300号申乐大厦32楼1室②上海市黄浦区云南北路59号六合大厦14楼9室</address>
+										<telephone>18918258551</telephone>
+										<uid>1bf85b25dc4e45bda0a934f0</uid>
+								</result>
+			<result>
+			<name>大鸭软陶屋(人民广场店)</name>
+			<location>
+				<lat>31.243216</lat>
+				<lng>121.481483</lng>
+			</location>
+							<address>黄浦区云南北路59号六合大厦14楼9室(牛庄路)</address>
+										<telephone>18964001835</telephone>
+										<uid>fad9b9b7d7cb97c5c336443a</uid>
+								</result>
+			<result>
+			<name>大鸭软陶屋（人民广场店）</name>
+			<location>
+				<lat>31.229985</lat>
+				<lng>121.449025</lng>
+			</location>
+							<address>静安区愚园路300号申乐大厦32楼01室（进入申乐大厦坐电梯直达32楼即可，工商银行正对面）</address>
+										<telephone>18918258551</telephone>
+										<uid>2db9ef4cb27ec22bd5b74e05</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

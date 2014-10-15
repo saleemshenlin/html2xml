@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>证大当代艺术空间</name>
+			<location>
+				<lat>31.315071</lat>
+				<lng>121.553646</lng>
+			</location>
+							<address>杨浦区军工路1436号五维空间创意园区101幢(近翔殷路)</address>
+										<telephone>(021)35120988</telephone>
+										<uid>2c23d5ac97751aabfbf0cbea</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

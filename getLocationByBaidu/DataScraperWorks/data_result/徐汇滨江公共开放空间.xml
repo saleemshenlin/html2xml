@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>徐汇滨江公共开放空间</name>
+			<location>
+				<lat>31.187379</lat>
+				<lng>121.470687</lng>
+			</location>
+							<address>滨江大道3222号</address>
+													<uid>803708f1f879ef0701897213</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

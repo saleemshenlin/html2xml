@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>广福讲寺</name>
+			<location>
+				<lat>31.523901</lat>
+				<lng>121.758251</lng>
+			</location>
+							<address>陈彷公路3099弄100</address>
+										<telephone>(021)69445451</telephone>
+										<uid>f757e6eea19fbc16260bd057</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

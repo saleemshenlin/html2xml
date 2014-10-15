@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>外冈腊梅园</name>
+			<location>
+				<lat>31.360849</lat>
+				<lng>121.157906</lng>
+			</location>
+							<address>嘉定区墨玉北路2700号(近赛车场)</address>
+										<telephone>(021)60643427</telephone>
+										<uid>5b5ec3315b70c7b1f503b89a</uid>
+								</result>
+			<result>
+			<name>法治文化主题公园</name>
+			<location>
+				<lat>31.360896</lat>
+				<lng>121.158006</lng>
+			</location>
+							<address>外冈镇巨门村墨玉北路2700号外冈蜡梅园</address>
+													<uid>3f6f9f88f405af1e43afe613</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

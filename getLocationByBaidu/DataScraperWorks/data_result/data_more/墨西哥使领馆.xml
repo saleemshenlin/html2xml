@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>墨西哥驻上海总领事馆签证处</name>
+			<location>
+				<lat>31.203858</lat>
+				<lng>121.405699</lng>
+			</location>
+							<address>红宝石路500号东银大厦A栋10层04</address>
+										<telephone>(021)61250220</telephone>
+										<uid>9cdcd8066fdb6c150f0e6b3e</uid>
+								</result>
+			<result>
+			<name>墨西哥驻上海总领事馆</name>
+			<location>
+				<lat>31.203858</lat>
+				<lng>121.405699</lng>
+			</location>
+							<address>红宝石路500号东银中心A栋10楼</address>
+										<telephone>021-61250220,64372397</telephone>
+										<uid>dd9d3dc06826dfab08f5eb18</uid>
+								</result>
+			<result>
+			<name>墨西哥总领事馆商务处</name>
+			<location>
+				<lat>31.204028</lat>
+				<lng>121.405515</lng>
+			</location>
+							<address>红宝石路500号东银中心B楼10层01</address>
+													<uid>8aef798212a51fef61685881</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

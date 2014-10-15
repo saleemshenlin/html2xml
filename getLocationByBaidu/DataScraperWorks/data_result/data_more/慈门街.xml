@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>慈门街</name>
+			<location>
+				<lat>31.116075</lat>
+				<lng>121.062801</lng>
+			</location>
+							<address>上海市青浦区朱家角镇西井街127-129号(课植园旁)上海朱家角古镇旅游区内</address>
+													<uid>ad9c2151fc314d7599005010</uid>
+								</result>
+			<result>
+			<name>慈香阁饭店</name>
+			<location>
+				<lat>31.116245</lat>
+				<lng>121.062521</lng>
+			</location>
+							<address>朱家角古镇慈门街泗景园路5号</address>
+										<telephone>13918697419</telephone>
+										<uid>0d2d04f7d0f08a6cc51e513e</uid>
+								</result>
+			<result>
+			<name>缘地酒楼</name>
+			<location>
+				<lat>31.112921</lat>
+				<lng>121.064677</lng>
+			</location>
+							<address>青浦区慈门街新风路34号（朱家角住院部西南侧）</address>
+										<telephone>(021)59249999</telephone>
+										<uid>925c550f85e904ab5b3ac8e8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

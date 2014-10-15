@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>华东师范大学-会展中心</name>
+			<location>
+				<lat>31.234038</lat>
+				<lng>121.416346</lng>
+			</location>
+							<address>中山北路3663号</address>
+													<uid>7115b652337cbd72a5da3912</uid>
+								</result>
+			<result>
+			<name>富驿商旅酒店（上海金沙江店）</name>
+			<location>
+				<lat>31.241286</lat>
+				<lng>121.401327</lng>
+			</location>
+							<address>上海怒江北路217号近大渡河路（距上海跨国采购会展中心仅步行20分钟，距华东师范大学仅步行20分钟）。</address>
+										<telephone>(021)51085888</telephone>
+										<uid>a3f21eee3998025d2fb17ed9</uid>
+								</result>
+			<result>
+			<name>携程_富驿商旅酒店（上海金沙江路店）</name>
+			<location>
+				<lat>31.241278</lat>
+				<lng>121.401329</lng>
+			</location>
+							<address>上海怒江北路217号近大渡河路（距上海跨国采购会展中心仅步行20分钟，距华东师范大学仅步行20分钟）。</address>
+													<uid>fc6bec0d9ab9c9bccafa5f5f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

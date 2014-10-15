@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>傅家玫瑰天主堂</name>
+			<location>
+				<lat>31.24797</lat>
+				<lng>121.538794</lng>
+			</location>
+							<address>浦东大道1115号</address>
+										<telephone>(021)58853172</telephone>
+										<uid>083a55fafb58d778246e984d</uid>
+								</result>
+			<result>
+			<name>纤手堂</name>
+			<location>
+				<lat>31.225222</lat>
+				<lng>121.42532</lng>
+			</location>
+							<address>长宁路890号玫瑰坊B1-72</address>
+													<uid>480dac0c64f4d9b28f55ecb1</uid>
+								</result>
+			<result>
+			<name>博茶堂(长宁路)</name>
+			<location>
+				<lat>31.225214</lat>
+				<lng>121.42531</lng>
+			</location>
+							<address>长宁区长宁路890号玫瑰坊商业街内(近汇川路)</address>
+													<uid>d5464cf823310f4efda77878</uid>
+								</result>
+			<result>
+			<name>织美堂欧美时装店</name>
+			<location>
+				<lat>31.225523</lat>
+				<lng>121.424352</lng>
+			</location>
+							<address>长宁路890号玫瑰坊内</address>
+													<uid>0ce65c2de121f3402c4733bc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>顶盛美术馆</name>
+			<location>
+				<lat>31.213618</lat>
+				<lng>121.473507</lng>
+			</location>
+							<address>上海卢湾区瑞金二路235号(近建国中路)</address>
+										<telephone>(021)54657307,(021)54657306</telephone>
+										<uid>49a02a7a197073432b201a06</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

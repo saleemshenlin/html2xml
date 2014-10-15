@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海高新技术产业化展</name>
+			<location>
+				<lat>31.277912</lat>
+				<lng>121.481774</lng>
+			</location>
+							<address>花园路171号上海花园坊节能环保产业园A3栋</address>
+													<uid>78462001c39ddefd3b221cfc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

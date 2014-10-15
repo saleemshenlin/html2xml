@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>可当代艺术中心</name>
+			<location>
+				<lat>31.217317</lat>
+				<lng>121.423457</lng>
+			</location>
+							<address>长宁区凯旋路613号B座1楼可当代演出中心</address>
+										<telephone>(021)61313080</telephone>
+										<uid>8c4cac3dceaf5e3e17948e5f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

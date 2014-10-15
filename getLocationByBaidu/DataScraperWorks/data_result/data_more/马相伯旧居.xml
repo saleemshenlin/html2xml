@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>马相伯旧居</name>
+			<location>
+				<lat>31.193171</lat>
+				<lng>121.440948</lng>
+			</location>
+							<address>蒲汇塘路55号</address>
+													<uid>fb3c2b5c462530d748fd3f53</uid>
+								</result>
+			<result>
+			<name>马相伯故居</name>
+			<location>
+				<lat>31.117281</lat>
+				<lng>121.28275</lng>
+			</location>
+							<address>松江区泗泾镇开江中路358号（近安方塔）</address>
+													<uid>0095af47ab49ae4b0a5cb38c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

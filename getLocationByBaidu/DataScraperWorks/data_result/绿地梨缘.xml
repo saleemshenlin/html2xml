@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>绿地梨缘</name>
+			<location>
+				<lat>30.887289</lat>
+				<lng>121.405427</lng>
+			</location>
+							<address>上海近郊奉贤区庄行镇潘垫村庄良路1081号(近A30)</address>
+										<telephone>(021)57463777</telephone>
+										<uid>e308284830d3eca6b24c49f6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

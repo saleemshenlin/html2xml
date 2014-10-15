@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>中国奉新国际风筝放飞场</name>
+			<location>
+				<lat>30.824907</lat>
+				<lng>121.518749</lng>
+			</location>
+							<address>奉新镇</address>
+										<telephone>(021)57120879</telephone>
+										<uid>6064a3917beacba486420ef7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

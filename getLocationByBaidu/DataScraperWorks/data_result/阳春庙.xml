@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>阳春庙</name>
+			<location>
+				<lat>31.093241</lat>
+				<lng>121.355442</lng>
+			</location>
+							<address>上海市松江区</address>
+													<uid>73460bc9a493c47ad81318cf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

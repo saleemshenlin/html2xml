@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>超级电影世界</name>
+			<location>
+				<lat>31.199866</lat>
+				<lng>121.446062</lng>
+			</location>
+							<address>上海市徐汇区肇嘉浜路1111号美罗城5层</address>
+										<telephone>021-64268181</telephone>
+										<uid>fa835ce209e1ccafe812e41c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

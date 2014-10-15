@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>太虚幻境</name>
+			<location>
+				<lat>31.079084</lat>
+				<lng>120.914176</lng>
+			</location>
+							<address>上海市青浦区金商公路701号上海大观园内</address>
+										<telephone>(021)59262089</telephone>
+										<uid>ce7bc1dcd1712a7b77e5b666</uid>
+								</result>
+			<result>
+			<name>农家小木船</name>
+			<location>
+				<lat>31.078868</lat>
+				<lng>120.913503</lng>
+			</location>
+							<address>太虚幻境附近</address>
+													<uid>52e67df9fd3c9ef381a12e61</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

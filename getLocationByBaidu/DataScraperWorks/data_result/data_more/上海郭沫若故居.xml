@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>郭沫若故居</name>
+			<location>
+				<lat>31.269046</lat>
+				<lng>121.49353</lng>
+			</location>
+							<address>虹口区溧阳路1269号(近四平路)</address>
+													<uid>8768377502a8648a8a36ee56</uid>
+								</result>
+			<result>
+			<name>郭沫若故居</name>
+			<location>
+				<lat>31.268869</lat>
+				<lng>121.49355</lng>
+			</location>
+							<address>虹口区溧阳路1269号（近四平路）</address>
+													<uid>6671371199cdd1c36c3e1b0b</uid>
+								</result>
+			<result>
+			<name>郭沫若多伦路旧居</name>
+			<location>
+				<lat>31.269208</lat>
+				<lng>121.487367</lng>
+			</location>
+							<address>多伦路201弄89</address>
+													<uid>11c60d1fe3ef76b15e17c3e6</uid>
+								</result>
+			<result>
+			<name>郭沫若故居-南门</name>
+			<location>
+				<lat>31.268923</lat>
+				<lng>121.493494</lng>
+			</location>
+							<address>溧阳路1267-1269</address>
+													<uid>26a9e1b6420f98cea104645f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

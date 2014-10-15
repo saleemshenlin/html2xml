@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>大星文化公园</name>
+			<location>
+				<lat>31.227615</lat>
+				<lng>121.725952</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>665845b9b06256625d0d0243</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

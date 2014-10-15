@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海交通大学董浩云航运博物馆</name>
+			<location>
+				<lat>31.206522</lat>
+				<lng>121.441759</lng>
+			</location>
+							<address>徐汇区华山路1954号上海交通大学徐汇校区新中院内(近广元西路)</address>
+										<telephone>(021)62932363</telephone>
+										<uid>593850fb83191c5fdf1e52f8</uid>
+								</result>
+			<result>
+			<name>上海交通大学东十二楼</name>
+			<location>
+				<lat>31.206646</lat>
+				<lng>121.441401</lng>
+			</location>
+							<address>华山路上海交通大学董浩云航运博物馆附近</address>
+													<uid>b1d99c11a030e6103586f4b5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

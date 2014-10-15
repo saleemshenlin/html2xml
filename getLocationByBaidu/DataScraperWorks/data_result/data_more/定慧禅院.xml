@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>定慧禅院</name>
+			<location>
+				<lat>30.981084</lat>
+				<lng>121.742595</lng>
+			</location>
+							<address>永春西二路114</address>
+													<uid>4ce10ce60f3fd9a2451a328c</uid>
+								</result>
+			<result>
+			<name>定慧禅院</name>
+			<location>
+				<lat>30.980999</lat>
+				<lng>121.742639</lng>
+			</location>
+							<address>浦东新区大团永春西二路112号</address>
+										<telephone>(021)58083579</telephone>
+										<uid>7f15bec2d1d244e3cac3db01</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

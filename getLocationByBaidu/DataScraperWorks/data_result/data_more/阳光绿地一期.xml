@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>阳光绿地一期</name>
+			<location>
+				<lat>31.274895</lat>
+				<lng>121.611828</lng>
+			</location>
+							<address>金桥镇</address>
+													<uid>181653349b268807fb2d61d9</uid>
+								</result>
+			<result>
+			<name>阳光绿地一期-停车场</name>
+			<location>
+				<lat>31.27525</lat>
+				<lng>121.613509</lng>
+			</location>
+							<address>浦东新区佳林路79号</address>
+													<uid>e38a368c39a9e2bad81318fb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

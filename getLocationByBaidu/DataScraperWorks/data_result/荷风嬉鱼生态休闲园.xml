@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>荷风嬉鱼生态休闲园</name>
+			<location>
+				<lat>30.927902</lat>
+				<lng>121.023799</lng>
+			</location>
+							<address>上海近郊金山区枫泾镇朱枫公路8258弄208号(近中国农民画村)</address>
+										<telephone>021-67359777</telephone>
+										<uid>060f5e53955ca2ce091cc7b6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

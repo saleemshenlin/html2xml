@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>斯里兰卡民主社会主义共和国驻上海领事馆</name>
+			<location>
+				<lat>31.196939</lat>
+				<lng>121.382983</lng>
+			</location>
+							<address>虹桥路2272号虹桥商务大厦5楼E座</address>
+										<telephone>(021)62376672,(021)62376797</telephone>
+										<uid>7d04fcdc8181f093118824ab</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

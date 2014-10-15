@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>宝山国际民间艺术交流与研究中心</name>
+			<location>
+				<lat>31.350981</lat>
+				<lng>121.395762</lng>
+			</location>
+							<address>环岛路1号</address>
+													<uid>48f357050b1f15561f3894dc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

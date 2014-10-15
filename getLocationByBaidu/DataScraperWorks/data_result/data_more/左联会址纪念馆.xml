@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>左联纪念馆旧址</name>
+			<location>
+				<lat>31.268599</lat>
+				<lng>121.488201</lng>
+			</location>
+							<address>多伦路145号</address>
+													<uid>7dd8c05fd4c31b5036b06cac</uid>
+								</result>
+			<result>
+			<name>中国左翼作家联盟成立大会会址纪念馆</name>
+			<location>
+				<lat>31.269378</lat>
+				<lng>121.48767</lng>
+			</location>
+							<address>虹口区多伦路201弄2号（近四川北路）</address>
+										<telephone>(021)56960558</telephone>
+										<uid>10afafa18b9fb337f2193792</uid>
+								</result>
+			<result>
+			<name>左联成立会址纪念馆</name>
+			<location>
+				<lat>31.269378</lat>
+				<lng>121.48767</lng>
+			</location>
+							<address>多伦路201弄2号</address>
+										<telephone>(021)56960558</telephone>
+										<uid>2c0bd6c50c3ee0ab43ab9a31</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>桃源民俗村</name>
+			<location>
+				<lat>31.06116</lat>
+				<lng>121.768951</lng>
+			</location>
+							<address>上海市南汇区惠南镇城北村</address>
+										<telephone>021-58011777</telephone>
+										<uid>14da8f97de73559b9d95defc</uid>
+								</result>
+			<result>
+			<name>桃源民俗村</name>
+			<location>
+				<lat>31.064562</lat>
+				<lng>121.762265</lng>
+			</location>
+							<address>上海市南汇区惠南镇城北村</address>
+										<telephone>(021)58011777</telephone>
+										<uid>d1b213206e855e33f703b81f</uid>
+								</result>
+			<result>
+			<name>南汇水蜜桃</name>
+			<location>
+				<lat>31.066248</lat>
+				<lng>121.765942</lng>
+			</location>
+							<address>浦东新区惠南镇城北桃花村（近城北桃源民俗村）</address>
+										<telephone>15000661320</telephone>
+										<uid>2983c73db9e7efbdc9c3db4e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

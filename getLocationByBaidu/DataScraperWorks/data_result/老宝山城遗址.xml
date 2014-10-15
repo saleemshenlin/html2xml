@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>老宝山城遗址</name>
+			<location>
+				<lat>31.367517</lat>
+				<lng>121.592487</lng>
+			</location>
+							<address>杨高北一路附近</address>
+													<uid>c72112cfc72e5102e707380a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

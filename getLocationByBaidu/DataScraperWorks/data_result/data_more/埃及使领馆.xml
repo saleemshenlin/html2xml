@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>阿拉伯埃及共和国上海总领事馆</name>
+			<location>
+				<lat>31.217085</lat>
+				<lng>121.454846</lng>
+			</location>
+							<address>淮海中路1375号启华大厦19层19A/19B</address>
+										<telephone>(021)64331020</telephone>
+										<uid>9d8d42ced3714859c6effbc3</uid>
+								</result>
+			<result>
+			<name>埃及共和国驻沪总领事馆经济商务处</name>
+			<location>
+				<lat>31.217015</lat>
+				<lng>121.454929</lng>
+			</location>
+							<address>淮海中路1375号启华大厦17层A</address>
+													<uid>25f4f171ad40167f902ca3ac</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

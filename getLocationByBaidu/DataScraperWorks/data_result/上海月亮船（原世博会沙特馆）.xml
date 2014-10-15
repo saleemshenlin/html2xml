@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>沙特馆</name>
+			<location>
+				<lat>31.289793</lat>
+				<lng>121.463189</lng>
+			</location>
+							<address>闸北区平型关路1220号海上文化中心1号楼1楼</address>
+										<telephone>(021)36396891</telephone>
+										<uid>00004b68af0068a9770269ad</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

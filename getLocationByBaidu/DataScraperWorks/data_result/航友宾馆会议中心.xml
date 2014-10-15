@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>航友宾馆会议中心</name>
+			<location>
+				<lat>31.198028</lat>
+				<lng>121.357477</lng>
+			</location>
+							<address>虹桥路2550号</address>
+										<telephone>(021)62689999</telephone>
+										<uid>07f3c8b5634e777a6240a91b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>渔乐码头</name>
+			<location>
+				<lat>30.95896</lat>
+				<lng>121.075285</lng>
+			</location>
+							<address>松江区新浜镇甪彭璐1888号（近东方狐狸城）</address>
+										<telephone>(021)57897058</telephone>
+										<uid>4f445c905a51168893114c31</uid>
+								</result>
+			<result>
+			<name>渔乐码头</name>
+			<location>
+				<lat>30.960357</lat>
+				<lng>121.079626</lng>
+			</location>
+							<address>1835路南向单环;1836路北向单环</address>
+													<uid>ac7b19c9e034c36d94ec8497</uid>
+								</result>
+			<result>
+			<name>渔乐码头(招呼站)</name>
+			<location>
+				<lat>30.960338</lat>
+				<lng>121.079609</lng>
+			</location>
+							<address>松江76路</address>
+													<uid>cc373ec9f1b6d7c900ec01e0</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

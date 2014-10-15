@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>桃花节(南汇桃花村)</name>
+			<location>
+				<lat>31.064562</lat>
+				<lng>121.762267</lng>
+			</location>
+							<address>惠南镇北门路289号</address>
+										<telephone>(021)58024000</telephone>
+										<uid>e4fcef20bfe1da2436b06cdb</uid>
+								</result>
+			<result>
+			<name>2014年南汇桃花节门票套餐</name>
+			<location>
+				<lat>31.058785</lat>
+				<lng>121.595911</lng>
+			</location>
+							<address>浦东新区航头镇沪南公路5229号</address>
+										<telephone>(021)68220666,(021)61071031</telephone>
+										<uid>be26446335389a362811d192</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

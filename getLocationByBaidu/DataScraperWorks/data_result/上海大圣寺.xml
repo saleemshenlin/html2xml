@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>大圣寺</name>
+			<location>
+				<lat>31.178481</lat>
+				<lng>121.658213</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>b891606212fca7799703192a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

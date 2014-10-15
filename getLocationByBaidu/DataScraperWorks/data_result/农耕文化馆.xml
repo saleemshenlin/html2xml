@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海申隆农耕文化馆</name>
+			<location>
+				<lat>30.898825</lat>
+				<lng>121.578422</lng>
+			</location>
+							<address>青村镇朱蒋村</address>
+													<uid>70e02e26a545f6080bf5eb83</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

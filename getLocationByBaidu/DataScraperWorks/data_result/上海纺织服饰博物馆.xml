@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海纺织服饰博物馆</name>
+			<location>
+				<lat>31.209078</lat>
+				<lng>121.420215</lng>
+			</location>
+							<address>长宁区延安西路1882号东华大学内(近虹桥路)</address>
+										<telephone>(021)62373509</telephone>
+										<uid>15ed53ce3bcc5c579222e006</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

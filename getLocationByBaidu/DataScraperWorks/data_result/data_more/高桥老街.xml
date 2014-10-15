@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>高桥老街</name>
+			<location>
+				<lat>31.348599</lat>
+				<lng>121.586572</lng>
+			</location>
+							<address>上海市浦东新区</address>
+													<uid>e589dc2e946863303fe23187</uid>
+								</result>
+			<result>
+			<name>高桥老街建设管理公司</name>
+			<location>
+				<lat>31.35149</lat>
+				<lng>121.588391</lng>
+			</location>
+							<address>学前街74-76</address>
+													<uid>511e00a9d7621d52b35c6ac1</uid>
+								</result>
+			<result>
+			<name>珍奶工坊(高桥店)</name>
+			<location>
+				<lat>31.3488</lat>
+				<lng>121.586913</lng>
+			</location>
+							<address>浦东新区高桥老街西街179号(近育民中学)</address>
+										<telephone>18918084616</telephone>
+										<uid>e80e8b61560491ba593ac82e</uid>
+								</result>
+			<result>
+			<name>国珍健康生活馆</name>
+			<location>
+				<lat>31.3422</lat>
+				<lng>121.595923</lng>
+			</location>
+							<address>浦东新区季景路295号(高桥老街)</address>
+										<telephone>(021)38983925,18017431889</telephone>
+										<uid>5d2bb04f9b189088c9291501</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>嘉道理别墅</name>
+			<location>
+				<lat>31.227214</lat>
+				<lng>121.450557</lng>
+			</location>
+							<address>长宁区延安西路64号（近华山路）</address>
+													<uid>08439edfa09aeefc63180989</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

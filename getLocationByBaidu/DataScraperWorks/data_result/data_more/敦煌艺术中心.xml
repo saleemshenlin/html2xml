@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>敦煌艺术中心</name>
+			<location>
+				<lat>31.200283</lat>
+				<lng>121.420212</lng>
+			</location>
+							<address>长宁区宋园路32号1楼（近古羊路）</address>
+										<telephone>(021)62782699</telephone>
+										<uid>45932c2072965e991e5800ea</uid>
+								</result>
+			<result>
+			<name>敦煌艺术中心</name>
+			<location>
+				<lat>31.200275</lat>
+				<lng>121.420181</lng>
+			</location>
+							<address>长宁区宋园路32号1楼(近古羊路)</address>
+										<telephone>(021)62782699</telephone>
+										<uid>3810c8797c25c2f59d09f7bb</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>五星足球公园</name>
+			<location>
+				<lat>31.187819</lat>
+				<lng>121.442947</lng>
+			</location>
+							<address>徐汇区漕溪北路1111号万体馆旁（漕溪北路慈云街）</address>
+													<uid>b9a9ac3053a99a54d5b74e79</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

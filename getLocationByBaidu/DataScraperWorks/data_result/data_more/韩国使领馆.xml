@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>韩国驻上海总领事馆</name>
+			<location>
+				<lat>31.210383</lat>
+				<lng>121.408055</lng>
+			</location>
+							<address>长宁区万山路60号(近娄山关路)</address>
+										<telephone>(021)62955000</telephone>
+										<uid>5b25f4464151779410293556</uid>
+								</result>
+			<result>
+			<name>韩国驻上海总领事馆旅游服务部</name>
+			<location>
+				<lat>31.194105</lat>
+				<lng>121.442823</lng>
+			</location>
+							<address>徐汇区漕溪北路396号汇智大厦裙楼2楼(近地铁1号线徐家汇站1号出口)</address>
+										<telephone>(021)51697933</telephone>
+										<uid>68dba680261610f0c9e33c2f</uid>
+								</result>
+			<result>
+			<name>韩国驻上海总领事馆签证处</name>
+			<location>
+				<lat>31.210383</lat>
+				<lng>121.408055</lng>
+			</location>
+							<address>万山路60号</address>
+													<uid>a996ca50cfcc9dcf2cb90892</uid>
+								</result>
+			<result>
+			<name>韩国驻上海总领事馆文化处</name>
+			<location>
+				<lat>31.194067</lat>
+				<lng>121.442772</lng>
+			</location>
+							<address>上海徐汇区漕溪北路396-398号汇智大厦5层</address>
+										<telephone>(021)51083533</telephone>
+										<uid>c21db9e590f1b9fd00ff2d56</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

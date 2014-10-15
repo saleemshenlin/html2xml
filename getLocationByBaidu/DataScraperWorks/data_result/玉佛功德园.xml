@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>玉佛功德园</name>
+			<location>
+				<lat>31.096217</lat>
+				<lng>120.988643</lng>
+			</location>
+							<address>上海市青浦区朱家角镇西淀山湖畔淀峰村452号报国寺内</address>
+										<telephone>(021)64664948</telephone>
+										<uid>7388dffd383943ead2ff23bf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

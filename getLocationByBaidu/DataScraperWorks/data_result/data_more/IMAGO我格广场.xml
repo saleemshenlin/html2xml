@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>IMAGO我格广场</name>
+			<location>
+				<lat>31.243717</lat>
+				<lng>121.43015</lng>
+			</location>
+							<address>普陀区武宁路101号(普雄路口)</address>
+										<telephone>(021)52358899</telephone>
+										<uid>78bd50f7df8da64231870a2d</uid>
+								</result>
+			<result>
+			<name>卫生间(IMAGO我格广场店)</name>
+			<location>
+				<lat>31.243988</lat>
+				<lng>121.429507</lng>
+			</location>
+							<address>普陀区武宁路101号2楼(近IMAGO我格广场)</address>
+													<uid>bed035ea2cf24521cd04ef32</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

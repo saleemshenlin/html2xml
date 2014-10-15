@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>旧上海特别市政府</name>
+			<location>
+				<lat>31.318973</lat>
+				<lng>121.532124</lng>
+			</location>
+							<address>长海路399号上海体育学院内</address>
+													<uid>5b25f446e18fd79710293504</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

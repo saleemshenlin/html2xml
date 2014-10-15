@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>林克司高尔夫乡村俱乐部</name>
+			<location>
+				<lat>31.235242</lat>
+				<lng>121.767572</lng>
+			</location>
+							<address>上海市浦东新区凌白路1600号</address>
+										<telephone>(021)58975899</telephone>
+										<uid>a12baa406d10254fe856fa1d</uid>
+								</result>
+			<result>
+			<name>林克司高尔夫乡村俱乐部餐厅</name>
+			<location>
+				<lat>31.240568</lat>
+				<lng>121.757736</lng>
+			</location>
+							<address>上海浦东新区凌白路1600号(近浦东机场)</address>
+										<telephone>(021)58795899</telephone>
+										<uid>6b4f093de33814dea6da395b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

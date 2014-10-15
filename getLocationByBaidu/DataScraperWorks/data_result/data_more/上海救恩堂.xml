@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>救恩堂(耀华路)</name>
+			<location>
+				<lat>31.178999</lat>
+				<lng>121.48954</lng>
+			</location>
+							<address>浦东新区耀华路439号（近西营路）</address>
+										<telephone>(021)58452566</telephone>
+										<uid>fd007c5e2e4f256da8f7295c</uid>
+								</result>
+			<result>
+			<name>救恩堂(南门)</name>
+			<location>
+				<lat>31.179084</lat>
+				<lng>121.48968</lng>
+			</location>
+							<address>耀华路439</address>
+													<uid>5f6bffe2f014d74243e1924a</uid>
+								</result>
+			<result>
+			<name>火记烧烤</name>
+			<location>
+				<lat>31.179053</lat>
+				<lng>121.489504</lng>
+			</location>
+							<address>浦东新区耀华路439号救恩堂门口(近西营路)</address>
+													<uid>637df60a7f606b6b40afe66f</uid>
+								</result>
+			<result>
+			<name>耀华路炒面摊</name>
+			<location>
+				<lat>31.17903</lat>
+				<lng>121.490005</lng>
+			</location>
+							<address>浦东新区耀华路439号救恩堂门口(近西营路)</address>
+													<uid>d52831f9b99efebe2efaa777</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

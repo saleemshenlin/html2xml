@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>圣芳济学院旧址</name>
+			<location>
+				<lat>31.254507</lat>
+				<lng>121.498617</lng>
+			</location>
+							<address>南浔路281</address>
+													<uid>6280b47633ecae766849f358</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

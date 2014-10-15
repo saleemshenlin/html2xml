@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>唐一岑墓祠</name>
+			<location>
+				<lat>31.621149</lat>
+				<lng>121.415528</lng>
+			</location>
+							<address>城桥镇</address>
+										<telephone>(021)59623200</telephone>
+										<uid>c0255c9b53d3da682efaa7f7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

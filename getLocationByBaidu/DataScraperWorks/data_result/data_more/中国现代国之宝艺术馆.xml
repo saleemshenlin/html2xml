@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>中国现代国之宝艺术馆</name>
+			<location>
+				<lat>31.264177</lat>
+				<lng>121.521289</lng>
+			</location>
+							<address>长阳路368号(荆州路口)</address>
+													<uid>11f4896f9548461fc51e5144</uid>
+								</result>
+			<result>
+			<name>中国现代国之宝艺术馆</name>
+			<location>
+				<lat>31.264262</lat>
+				<lng>121.521549</lng>
+			</location>
+							<address>杨浦区长阳路368号（荆州路口）</address>
+													<uid>b0963d43a5e423295e0d02d7</uid>
+								</result>
+			<result>
+			<name>中国现代国之宝艺术馆(前门)</name>
+			<location>
+				<lat>31.26437</lat>
+				<lng>121.521243</lng>
+			</location>
+							<address>长阳路368</address>
+													<uid>6b8b28cb1bd334a35fbe862b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

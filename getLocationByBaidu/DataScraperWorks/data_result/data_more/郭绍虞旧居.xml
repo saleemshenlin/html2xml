@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>郭绍虞旧居</name>
+			<location>
+				<lat>31.236585</lat>
+				<lng>121.466252</lng>
+			</location>
+							<address>南京西路866弄6号</address>
+													<uid>dffd46420bd8fecf3c9a5e09</uid>
+								</result>
+			<result>
+			<name>郭绍虞旧居-南门</name>
+			<location>
+				<lat>31.237025</lat>
+				<lng>121.465891</lng>
+			</location>
+							<address>奉贤路148弄1-8号</address>
+													<uid>26a6e2a69a15b6ff95f08cc8</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

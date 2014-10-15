@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海浦优会务中心</name>
+			<location>
+				<lat>31.189024</lat>
+				<lng>121.573127</lng>
+			</location>
+							<address>北新路8号1号楼</address>
+										<telephone>(021)68920286</telephone>
+										<uid>49d95938daece142c71e5188</uid>
+								</result>
+			<result>
+			<name>聚丰港海鲜酒楼</name>
+			<location>
+				<lat>31.188892</lat>
+				<lng>121.573217</lng>
+			</location>
+							<address>上海浦东新区北中路518弄2号北蔡垂钓中心内(北新路8号浦优会务中心)</address>
+										<telephone>(021)50423708</telephone>
+										<uid>dc0f0adc1da78238f92213b6</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

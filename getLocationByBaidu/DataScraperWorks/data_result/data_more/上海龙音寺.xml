@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>龙音寺</name>
+			<location>
+				<lat>31.008975</lat>
+				<lng>121.437492</lng>
+			</location>
+							<address>闵东路1号(近南溪路)</address>
+										<telephone>(021)54710250</telephone>
+										<uid>5211d219899138597dc87614</uid>
+								</result>
+			<result>
+			<name>龙音寺</name>
+			<location>
+				<lat>31.008913</lat>
+				<lng>121.437351</lng>
+			</location>
+							<address>闵行区闵东路1号（近南溪路）</address>
+										<telephone>(021)54710250</telephone>
+										<uid>594fba88307c71028d772724</uid>
+								</result>
+			<result>
+			<name>龙音寺-南门</name>
+			<location>
+				<lat>31.008897</lat>
+				<lng>121.437372</lng>
+			</location>
+							<address>南溪路</address>
+													<uid>7a4cb87c0ecd79486140a91f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

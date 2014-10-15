@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>卢湾规划展览馆</name>
+			<location>
+				<lat>31.19714</lat>
+				<lng>121.483153</lng>
+			</location>
+							<address>富润路</address>
+													<uid>1b6d9fe5ef4ee93cb45f1eba</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

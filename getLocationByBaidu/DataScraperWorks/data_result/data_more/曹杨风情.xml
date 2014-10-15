@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>曹杨风情</name>
+			<location>
+				<lat>31.2454</lat>
+				<lng>121.410562</lng>
+			</location>
+							<address>桂巷路39号附近</address>
+													<uid>4c372d2435646bb8e6e96576</uid>
+								</result>
+			<result>
+			<name>天目民风餐厅</name>
+			<location>
+				<lat>31.25007</lat>
+				<lng>121.415599</lng>
+			</location>
+							<address>曹杨路1021号上海天目湖宾馆大厦2层</address>
+													<uid>484a5e1be4de2add631809f1</uid>
+								</result>
+			<result>
+			<name>上海致珑景观工程有限公司</name>
+			<location>
+				<lat>31.241348</lat>
+				<lng>121.398035</lng>
+			</location>
+							<address>中江路889号曹杨商务大厦0905</address>
+													<uid>ab824dff561501d38bfc0686</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

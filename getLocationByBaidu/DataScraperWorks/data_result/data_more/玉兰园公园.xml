@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>玉兰园公园</name>
+			<location>
+				<lat>31.224828</lat>
+				<lng>121.477451</lng>
+			</location>
+							<address>上海市黄浦区重庆南路(近南昌路)</address>
+													<uid>2fd2beab56fad7537bdbd296</uid>
+								</result>
+			<result>
+			<name>宝宝音画孕婴摄影会所（黄兴园店）</name>
+			<location>
+				<lat>31.298912</lat>
+				<lng>121.542649</lng>
+			</location>
+							<address>杨浦区佳木斯路353号白玉兰广场南楼3号703室(营口路佳木斯路)</address>
+										<telephone>(021)51693595</telephone>
+										<uid>f3afe62d7059e5c5f423107f</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

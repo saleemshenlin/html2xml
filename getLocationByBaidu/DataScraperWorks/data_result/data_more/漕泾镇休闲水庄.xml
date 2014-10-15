@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>漕泾镇休闲水庄</name>
+			<location>
+				<lat>30.829117</lat>
+				<lng>121.400454</lng>
+			</location>
+							<address>上海市金山区水库村朱漕公路2058号</address>
+										<telephone>021-57252111</telephone>
+										<uid>eef2d528d35610a63be4a631</uid>
+								</result>
+			<result>
+			<name>上海漕泾休闲水庄温泉岛酒店</name>
+			<location>
+				<lat>30.829117</lat>
+				<lng>121.400476</lng>
+			</location>
+							<address>金山区漕泾镇朱漕公路2058号（靠近长堰路）</address>
+										<telephone>(021)67258666</telephone>
+										<uid>c8cf131f7aa84ebd7ab55cc4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

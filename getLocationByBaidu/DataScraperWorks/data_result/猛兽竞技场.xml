@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海野生动物园猛兽竞技场</name>
+			<location>
+				<lat>31.058066</lat>
+				<lng>121.728526</lng>
+			</location>
+							<address>三灶镇南六口路178号上海野生动物园附近</address>
+													<uid>e9292434b6c6c8cba2a9346a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

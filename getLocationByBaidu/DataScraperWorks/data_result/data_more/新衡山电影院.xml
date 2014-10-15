@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海新衡山电影院</name>
+			<location>
+				<lat>31.203665</lat>
+				<lng>121.446899</lng>
+			</location>
+							<address>上海市徐汇区衡山路838号</address>
+										<telephone>021-64377418</telephone>
+										<uid>a12baa406c10264fe856fa1d</uid>
+								</result>
+			<result>
+			<name>新衡山电影院(生活天下)</name>
+			<location>
+				<lat>31.203596</lat>
+				<lng>121.447181</lng>
+			</location>
+							<address>上海市徐汇区衡山路838号</address>
+										<telephone>4000668690</telephone>
+										<uid>b15ce1fbaae02be214b54bf5</uid>
+								</result>
+			<result>
+			<name>上影永华 海上国际影城连锁影院(新衡山电影院)</name>
+			<location>
+				<lat>31.203596</lat>
+				<lng>121.447182</lng>
+			</location>
+							<address>上海市徐汇区衡山路838号</address>
+										<telephone>(021)64377418</telephone>
+										<uid>3e16955459d232243fe231e9</uid>
+								</result>
+			<result>
+			<name>E票网(新衡山电影院)</name>
+			<location>
+				<lat>31.203596</lat>
+				<lng>121.447182</lng>
+			</location>
+							<address>徐汇区衡山路838号</address>
+										<telephone>(021)64377418</telephone>
+										<uid>229a6bdf3d97189931f71db7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

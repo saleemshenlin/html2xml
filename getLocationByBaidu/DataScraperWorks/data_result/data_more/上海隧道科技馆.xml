@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海隧道科技馆</name>
+			<location>
+				<lat>31.227036</lat>
+				<lng>121.505811</lng>
+			</location>
+							<address>黄浦区中华路268号(盐码头街中华路)</address>
+										<telephone>(021)63331160</telephone>
+										<uid>dbf4d6ee0d1d8f2b6ea3ccab</uid>
+								</result>
+			<result>
+			<name>上海隧道科技馆复兴东路隧道管理中心</name>
+			<location>
+				<lat>31.226866</lat>
+				<lng>121.506484</lng>
+			</location>
+							<address>上海市黄浦区复兴东路277号</address>
+													<uid>2fd2beab7aa93b537adbd246</uid>
+								</result>
+			<result>
+			<name>公交车(隧道四线)</name>
+			<location>
+				<lat>31.238878</lat>
+				<lng>121.497966</lng>
+			</location>
+							<address>普安路延安东路－上海科技馆地铁站(普安路延安东路)</address>
+													<uid>b39cf38f55e9a5f23fe231f5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

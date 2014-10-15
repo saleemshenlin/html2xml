@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>七宝老街袖珍人影戏馆</name>
+			<location>
+				<lat>31.157686</lat>
+				<lng>121.361092</lng>
+			</location>
+							<address>上海闵行区七宝老街北固弄八号</address>
+										<telephone>13311188517</telephone>
+										<uid>cf1ccd34ccd9dfdcf90cad3d</uid>
+								</result>
+			<result>
+			<name>七宝老街袖珍人影戏馆</name>
+			<location>
+				<lat>31.157787</lat>
+				<lng>121.361191</lng>
+			</location>
+							<address>上海市闵行区七宝老街北固弄八号</address>
+										<telephone>13311188517</telephone>
+										<uid>1de6f67d9bc4e26af82d616e</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

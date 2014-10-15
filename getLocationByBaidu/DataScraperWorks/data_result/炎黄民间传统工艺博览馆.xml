@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>炎黄民间传统工艺博览馆</name>
+			<location>
+				<lat>30.82179</lat>
+				<lng>121.526129</lng>
+			</location>
+							<address>奉贤区奉贤海湾路9号</address>
+													<uid>665c0f95b07ba1025cbe86c4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

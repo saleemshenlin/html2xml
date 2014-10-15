@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>哈根达斯(正大影院店)</name>
+			<location>
+				<lat>31.242753</lat>
+				<lng>121.505827</lng>
+			</location>
+							<address>上海陆家嘴西路168号正大广场一层GF31室</address>
+										<telephone>021-50490025</telephone>
+										<uid>f9fd6062671a79060f0e6bd0</uid>
+								</result>
+			<result>
+			<name>Fresh Mix(正大店)</name>
+			<location>
+				<lat>31.243046</lat>
+				<lng>121.506746</lng>
+			</location>
+							<address>陆家嘴西路168号正大广场8楼星美国际影城内</address>
+													<uid>09d296a94da33461f60e7743</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

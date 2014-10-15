@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海财府民俗文化陈列馆</name>
+			<location>
+				<lat>31.11531</lat>
+				<lng>121.060587</lng>
+			</location>
+							<address>上海市青浦区朱家角古镇漕河街111号</address>
+										<telephone>(021)59200030</telephone>
+										<uid>8ebc63ff70b552ab631c67c9</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

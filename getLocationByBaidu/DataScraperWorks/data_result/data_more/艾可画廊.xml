@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>艾可画廊</name>
+			<location>
+				<lat>31.253913</lat>
+				<lng>121.455237</lng>
+			</location>
+							<address>普陀区莫干山路50号M50创意园区1号楼2楼(近澳门路)</address>
+										<telephone>(021)52527164,(021)52527164</telephone>
+										<uid>fd13a3f2ae7c5e87b1077d09</uid>
+								</result>
+			<result>
+			<name>艾可画廊</name>
+			<location>
+				<lat>31.253627</lat>
+				<lng>121.455423</lng>
+			</location>
+							<address>普陀区莫干山路50号M50创意园区1号楼2楼（近澳门路）</address>
+										<telephone>(021)52527164</telephone>
+										<uid>650d401e43312e941811d514</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

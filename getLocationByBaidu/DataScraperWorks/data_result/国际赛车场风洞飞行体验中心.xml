@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海国际赛车场垂直风洞飞行体验中心</name>
+			<location>
+				<lat>31.336548</lat>
+				<lng>121.234889</lng>
+			</location>
+							<address>嘉定区伊宁路2099号友飞运动基地内(近地铁11号线上海国际赛车场站)</address>
+										<telephone>(021)60548326,(021)60548328,(021)69568888</telephone>
+										<uid>ee46d737139d0be13b221ccf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>虹康绿地休闲广场</name>
+			<location>
+				<lat>31.218529</lat>
+				<lng>121.376045</lng>
+			</location>
+							<address>长宁区泉口路111号（近剑河路）</address>
+													<uid>b94941bf16acfbc74e2fdf72</uid>
+								</result>
+			<result>
+			<name>虹康绿地休闲广场</name>
+			<location>
+				<lat>31.218289</lat>
+				<lng>121.37536</lng>
+			</location>
+							<address>新泾镇</address>
+													<uid>2cc3c8e889bc7ad54d2fdf13</uid>
+								</result>
+			<result>
+			<name>虹康绿地休闲广场-北门</name>
+			<location>
+				<lat>31.218536</lat>
+				<lng>121.376054</lng>
+			</location>
+							<address>新泾镇</address>
+													<uid>fa934dc7db54afa25c0d027a</uid>
+								</result>
+			<result>
+			<name>虹康网球俱乐部</name>
+			<location>
+				<lat>31.218382</lat>
+				<lng>121.375762</lng>
+			</location>
+							<address>新泾镇虹康绿地休闲广场</address>
+													<uid>34e485088372d1fbd8d89165</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

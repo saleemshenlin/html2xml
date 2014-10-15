@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>历道证券博物馆</name>
+			<location>
+				<lat>31.245006</lat>
+				<lng>121.514621</lng>
+			</location>
+							<address>浦东新区银城东路139号华能联合大厦13楼</address>
+										<telephone>(021)68634510</telephone>
+										<uid>ee30b02b13ad5eb7230220ed</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

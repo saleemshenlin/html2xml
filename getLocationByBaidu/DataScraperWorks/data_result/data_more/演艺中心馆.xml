@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>上海WKK上海奔驰演艺中心世博展览馆店</name>
+			<location>
+				<lat>31.183911</lat>
+				<lng>121.498419</lng>
+			</location>
+							<address>上海市耀华路87弄</address>
+										<telephone>(021)60479319</telephone>
+										<uid>9dc7d63b9a3f8e831ef74df5</uid>
+								</result>
+			<result>
+			<name>新町</name>
+			<location>
+				<lat>31.194221</lat>
+				<lng>121.499041</lng>
+			</location>
+							<address>世博大道1200号梅赛德斯奔驰文化演艺中心(近中国馆)</address>
+													<uid>70c2e6a6e9cbc5f011882476</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

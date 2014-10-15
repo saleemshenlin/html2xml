@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海中华印刷有限公司</name>
+			<location>
+				<lat>31.174442</lat>
+				<lng>121.158111</lng>
+			</location>
+							<address>上海青浦区汇金路889号(近中华印刷展示馆)</address>
+													<uid>b070123c156eecfac9fa5ff4</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

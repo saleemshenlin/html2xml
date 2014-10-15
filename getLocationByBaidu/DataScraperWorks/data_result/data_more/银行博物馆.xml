@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>银行博物馆</name>
+			<location>
+				<lat>31.244891</lat>
+				<lng>121.518992</lng>
+			</location>
+							<address>浦东新区浦东大道9号世纪金融大厦7楼(即墨路浦东大道)</address>
+										<telephone>(021)58788743</telephone>
+										<uid>55fa2c0bfbda73501de999bd</uid>
+								</result>
+			<result>
+			<name>银行博物馆</name>
+			<location>
+				<lat>31.244891</lat>
+				<lng>121.518993</lng>
+			</location>
+							<address>浦东新区浦东大道9号世纪金融大厦7楼（即墨路浦东大道）</address>
+										<telephone>(021)58788743</telephone>
+										<uid>bf29af6accab84e0ed74f8be</uid>
+								</result>
+			<result>
+			<name>中国工商银行24小时自助银行</name>
+			<location>
+				<lat>31.234092</lat>
+				<lng>121.482579</lng>
+			</location>
+							<address>上海市黄浦区人民大道201号上海博物馆内</address>
+													<uid>bf04bccfffc70c9ca7c75642</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

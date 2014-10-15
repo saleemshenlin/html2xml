@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>桃浦堂</name>
+			<location>
+				<lat>31.291467</lat>
+				<lng>121.3604</lng>
+			</location>
+							<address>普陀区桃浦镇绿杨路259号(近雪松路)</address>
+										<telephone>(021)66958055</telephone>
+										<uid>fa01e937ce11344b774ff1f9</uid>
+								</result>
+			<result>
+			<name>桃浦堂</name>
+			<location>
+				<lat>31.291421</lat>
+				<lng>121.36068</lng>
+			</location>
+							<address>普陀区桃浦镇绿杨路259号（近雪松路）</address>
+													<uid>08153e9901c2f38004fef5a7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

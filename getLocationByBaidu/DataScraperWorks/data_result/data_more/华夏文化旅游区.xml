@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>如家快捷酒店(上海外滩城隍庙小南门地铁站店)</name>
+			<location>
+				<lat>31.226249</lat>
+				<lng>121.506124</lng>
+			</location>
+							<address>上海市黄浦区复兴东路260号（靠近中华路，外滩）</address>
+										<telephone>(021)63321212</telephone>
+										<uid>fcf4dc089de1f7e882a12eda</uid>
+								</result>
+			<result>
+			<name>中华艺术宫下沉广场</name>
+			<location>
+				<lat>31.191348</lat>
+				<lng>121.501264</lng>
+			</location>
+							<address>上海世博园区</address>
+													<uid>a727f3c3dfaab29dfda778a5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

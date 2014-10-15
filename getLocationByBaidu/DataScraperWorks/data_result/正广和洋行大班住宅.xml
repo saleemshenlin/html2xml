@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>英商正广和洋行大班住宅旧址</name>
+			<location>
+				<lat>31.217455</lat>
+				<lng>121.447707</lng>
+			</location>
+							<address>武康路99号</address>
+													<uid>5ae5999cf9ddb7b64d776e92</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

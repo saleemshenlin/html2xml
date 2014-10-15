@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>上海音乐学院东方乐器博物馆</name>
+			<location>
+				<lat>31.210561</lat>
+				<lng>121.451349</lng>
+			</location>
+							<address>徐汇区高安路18弄20号</address>
+										<telephone>(021)54651834,(021)54651834</telephone>
+										<uid>6ee0102058107b9153e5c5bc</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

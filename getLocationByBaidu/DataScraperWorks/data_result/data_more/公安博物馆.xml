@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海公安博物馆</name>
+			<location>
+				<lat>31.204407</lat>
+				<lng>121.474898</lng>
+			</location>
+							<address>卢湾区瑞金南路518号(近打浦桥)</address>
+										<telephone>(021)64720256</telephone>
+										<uid>669775d067dd295afd0eb0d9</uid>
+								</result>
+			<result>
+			<name>公安博物馆</name>
+			<location>
+				<lat>31.204453</lat>
+				<lng>121.474916</lng>
+			</location>
+							<address>上海市徐汇区瑞金南路518号</address>
+										<telephone>(021)64720256</telephone>
+										<uid>4c09f123e299e57cc6effb61</uid>
+								</result>
+			<result>
+			<name>上海公安博物馆第十分馆消防模拟演练馆</name>
+			<location>
+				<lat>31.204245</lat>
+				<lng>121.474924</lng>
+			</location>
+							<address>卢湾区瑞金南路518号(公安博物馆)</address>
+													<uid>de6a120b7dbd920a9022e040</uid>
+								</result>
+			<result>
+			<name>Panny Fashion礼服定制生活馆</name>
+			<location>
+				<lat>31.204847</lat>
+				<lng>121.474846</lng>
+			</location>
+							<address>卢湾区瑞金南路500号2号楼106号(近公安博物馆)</address>
+													<uid>941178995421e803d1f49eaf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

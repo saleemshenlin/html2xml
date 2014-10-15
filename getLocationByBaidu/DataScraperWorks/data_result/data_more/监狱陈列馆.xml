@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>青岛市</name>
+			<num>5</num>
+		</result>
+			<result>
+			<name>大连市</name>
+			<num>3</num>
+		</result>
+			<result>
+			<name>达州市</name>
+			<num>1</num>
+		</result>
+			<result>
+			<name>呼伦贝尔市</name>
+			<num>1</num>
+		</result>
+	  </results>
+</PlaceSearchResponse>

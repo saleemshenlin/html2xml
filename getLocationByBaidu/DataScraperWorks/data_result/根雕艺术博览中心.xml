@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>根雕艺术博览中心</name>
+			<location>
+				<lat>31.31669</lat>
+				<lng>121.357627</lng>
+			</location>
+							<address>宝山区真陈路999号</address>
+										<telephone>(021)36160607</telephone>
+										<uid>c6cfbd1a68a497710a5cb31d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

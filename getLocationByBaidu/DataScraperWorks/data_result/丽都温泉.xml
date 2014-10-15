@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>丽都温泉</name>
+			<location>
+				<lat>31.143663</lat>
+				<lng>121.330501</lng>
+			</location>
+							<address>松江区沪亭路888号</address>
+													<uid>5561b203a7a5058a6ec02c80</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

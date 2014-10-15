@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>世昶生活广场</name>
+			<location>
+				<lat>31.296867</lat>
+				<lng>121.165526</lng>
+			</location>
+							<address>上海嘉定区新源路66弄</address>
+										<telephone>(021)39197588</telephone>
+										<uid>5c56edd6a9748727a1d2300a</uid>
+								</result>
+			<result>
+			<name>世昶广场停车场</name>
+			<location>
+				<lat>31.297029</lat>
+				<lng>121.165511</lng>
+			</location>
+							<address>嘉定区新源路128号</address>
+													<uid>7218270d88fc24abb34c4974</uid>
+								</result>
+			<result>
+			<name>世昶生活广场停车场</name>
+			<location>
+				<lat>31.295162</lat>
+				<lng>121.166139</lng>
+			</location>
+							<address>上海市嘉定区</address>
+													<uid>d0b583df31a692f69fec2b65</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>张江科技文化广场</name>
+			<location>
+				<lat>31.210514</lat>
+				<lng>121.621565</lng>
+			</location>
+							<address>张江路610号</address>
+													<uid>05dd7d5f723a7900ac080fb0</uid>
+								</result>
+			<result>
+			<name>张江科技文化广场-东门</name>
+			<location>
+				<lat>31.210507</lat>
+				<lng>121.621781</lng>
+			</location>
+							<address>张江路610号附近</address>
+													<uid>1e0ee3903855fdcbbe48425c</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

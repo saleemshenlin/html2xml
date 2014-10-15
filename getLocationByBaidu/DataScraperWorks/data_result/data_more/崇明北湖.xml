@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>上海北湖湾度假村</name>
+			<location>
+				<lat>31.647128</lat>
+				<lng>121.61574</lng>
+			</location>
+							<address>近郊上海市崇明县北沿公路1288号(北沿公路与前竖公路交叉口，近东平森林公园)</address>
+										<telephone>(021)59631166</telephone>
+										<uid>6ee01020342e0ff653e5c59b</uid>
+								</result>
+			<result>
+			<name>上海北湖有机农业示范基地</name>
+			<location>
+				<lat>31.672101</lat>
+				<lng>121.596015</lng>
+			</location>
+							<address>前进农场</address>
+													<uid>fd007c5e746c0f12a8f72974</uid>
+								</result>
+			<result>
+			<name>北湖现代农业发展公司</name>
+			<location>
+				<lat>31.670956</lat>
+				<lng>121.60793</lng>
+			</location>
+							<address>上海市崇明县</address>
+													<uid>d5f93c0e5df9e221ecdfcaa3</uid>
+								</result>
+			<result>
+			<name>北湖建设工程公司</name>
+			<location>
+				<lat>31.641341</lat>
+				<lng>121.400676</lng>
+			</location>
+							<address>秀山路7</address>
+													<uid>3f9337d6ce7a50cef62310a3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

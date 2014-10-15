@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>5</total>
+    <results>
+			<result>
+			<name>上海WKK上海奔驰演艺中心世博展览馆店</name>
+			<location>
+				<lat>31.183911</lat>
+				<lng>121.498419</lng>
+			</location>
+							<address>上海市耀华路87弄</address>
+										<telephone>(021)60479319</telephone>
+										<uid>9dc7d63b9a3f8e831ef74df5</uid>
+								</result>
+			<result>
+			<name>Fresh Mix(世博奔驰文化中心店)</name>
+			<location>
+				<lat>31.194221</lat>
+				<lng>121.499041</lng>
+			</location>
+							<address>上海浦东新区世博大道1200号梅赛德斯奔驰文化演艺中心6楼(近世博影城5号厅旁)</address>
+										<telephone>(021)62189208</telephone>
+										<uid>b7021bf870f8bee3f4e73bdf</uid>
+								</result>
+			<result>
+			<name>i-baby(世博宝大祥店)</name>
+			<location>
+				<lat>31.194136</lat>
+				<lng>121.49909</lng>
+			</location>
+							<address>浦东新区世博大道1200号梅塞德斯演艺中心B1楼宝大祥</address>
+													<uid>f99c04e62a6c00f20d0a70bf</uid>
+								</result>
+			<result>
+			<name>SNACKO汉堡店</name>
+			<location>
+				<lat>31.193758</lat>
+				<lng>121.499811</lng>
+			</location>
+							<address>浦东新区世博大道1200号梅赛德斯奔驰文化演艺中心1楼（近燕紫坊港式风味）</address>
+													<uid>8790c6162e0e8e04d92f2878</uid>
+								</result>
+			<result>
+			<name>味千拉面（演艺中心店）</name>
+			<location>
+				<lat>31.194221</lat>
+				<lng>121.499045</lng>
+			</location>
+							<address>浦东新区世博大道1200号第B1层B101-B103单元</address>
+													<uid>55fa2c0b494ee1341ce9996d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

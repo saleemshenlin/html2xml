@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>天主教上海教区耶稣圣心堂</name>
+			<location>
+				<lat>31.25416</lat>
+				<lng>121.498978</lng>
+			</location>
+							<address>虹口区南浔路246号(南浔路塘沽路)</address>
+													<uid>e93761f699458b0d223bf22d</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

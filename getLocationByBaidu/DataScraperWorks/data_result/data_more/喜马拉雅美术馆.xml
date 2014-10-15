@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海喜马拉雅美术馆</name>
+			<location>
+				<lat>31.214823</lat>
+				<lng>121.56841</lng>
+			</location>
+							<address>浦东新区樱花路869号证大喜玛拉雅中心3-4楼</address>
+										<telephone>021-50339801,50339802</telephone>
+										<uid>f6a37bdfcf1cb52d3586f40c</uid>
+								</result>
+			<result>
+			<name>喜玛拉雅美术馆</name>
+			<location>
+				<lat>31.216761</lat>
+				<lng>121.568473</lng>
+			</location>
+							<address>浦东新区樱花路869号证大喜玛拉雅中心3楼</address>
+										<telephone>(021)50339801</telephone>
+										<uid>545f72bb3208f83cbda24053</uid>
+								</result>
+			<result>
+			<name>喜玛拉雅美术馆</name>
+			<location>
+				<lat>31.214846</lat>
+				<lng>121.568501</lng>
+			</location>
+							<address>上海市浦东新区芳甸路1188弄喜玛拉雅中心7-8楼</address>
+										<telephone>021-60457099,021-60457098</telephone>
+										<uid>9f5f0583922e5d9f7dc876c5</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>上海宋庆龄纪念馆</name>
+			<location>
+				<lat>31.201063</lat>
+				<lng>121.417311</lng>
+			</location>
+							<address>宋园路21号</address>
+										<telephone>(021)62754034</telephone>
+										<uid>f696f3c2a5bef6ea1b11d562</uid>
+								</result>
+			<result>
+			<name>上海宋庆龄故居(北门)</name>
+			<location>
+				<lat>31.210684</lat>
+				<lng>121.445221</lng>
+			</location>
+							<address>淮海中路1843</address>
+													<uid>a192ee28cfe66fcdfe0eb079</uid>
+								</result>
+			<result>
+			<name>宋庆龄陵园</name>
+			<location>
+				<lat>31.201024</lat>
+				<lng>121.419761</lng>
+			</location>
+							<address>上海市长宁区宋园路21号</address>
+										<telephone>(021)62754034,(021)62758080-541</telephone>
+										<uid>4523c1368671af607369d373</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

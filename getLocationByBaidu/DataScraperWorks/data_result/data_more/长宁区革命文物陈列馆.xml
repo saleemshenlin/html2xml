@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>长宁区革命文物陈列馆</name>
+			<location>
+				<lat>31.22594</lat>
+				<lng>121.42947</lng>
+			</location>
+							<address>长宁区愚园路1376弄34号（安西路愚园路）</address>
+										<telephone>(021)62511415</telephone>
+										<uid>5361faa3d8a53278a3acc4b8</uid>
+								</result>
+			<result>
+			<name>上海市长宁区革命文物陈列馆</name>
+			<location>
+				<lat>31.225948</lat>
+				<lng>121.429497</lng>
+			</location>
+							<address>上海长宁区愚园路1376弄34号(安西路愚园路)</address>
+										<telephone>(021)62511415</telephone>
+										<uid>373cf757766c2e6f4354d762</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

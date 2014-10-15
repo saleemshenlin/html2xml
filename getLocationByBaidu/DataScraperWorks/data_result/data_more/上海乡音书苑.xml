@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>乡音书苑</name>
+			<location>
+				<lat>31.237257</lat>
+				<lng>121.466813</lng>
+			</location>
+							<address>南京西路860弄1号(近石门一路)</address>
+										<telephone>(021)62563325</telephone>
+										<uid>bb4b7cca6c5db504d2f49e15</uid>
+								</result>
+			<result>
+			<name>乐透相声</name>
+			<location>
+				<lat>31.237257</lat>
+				<lng>121.466813</lng>
+			</location>
+							<address>静安区南京西路860弄1号乡音书苑（近邻石门路吴江路）</address>
+										<telephone>18717967699,18717968699</telephone>
+										<uid>ca9adb86b749e8bed618b75b</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

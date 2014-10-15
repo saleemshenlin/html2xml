@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>东华大学纺织史博物馆</name>
+			<location>
+				<lat>31.209534</lat>
+				<lng>121.421061</lng>
+			</location>
+							<address>中山西路849号东华大学延安路校区教学大楼4楼</address>
+										<telephone>(021)62373678</telephone>
+										<uid>2fd2beab5676d7537adbd262</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

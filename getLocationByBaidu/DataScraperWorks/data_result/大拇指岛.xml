@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>大拇指龙虾</name>
+			<location>
+				<lat>31.247515</lat>
+				<lng>121.390687</lng>
+			</location>
+							<address>普陀区梅川路1209号（麦德龙真北店对面）</address>
+										<telephone>(021)52807778</telephone>
+										<uid>33fbfa83073929d80bf5ebdd</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

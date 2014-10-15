@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>永清公园</name>
+			<location>
+				<lat>31.398137</lat>
+				<lng>121.505125</lng>
+			</location>
+							<address>宝山区双城路234号（双城路淞宝路）</address>
+										<telephone>(021)56172370</telephone>
+										<uid>5c1451ccd59a8e7ab6f42f02</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

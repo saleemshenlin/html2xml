@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>汤姆熊(新世界店)</name>
+			<location>
+				<lat>31.240607</lat>
+				<lng>121.480378</lng>
+			</location>
+							<address>黄浦区南京西路2-68号新世界城9楼(近西藏中路)</address>
+										<telephone>(021)53020196</telephone>
+										<uid>485e1c1238df453dd0ff23ae</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

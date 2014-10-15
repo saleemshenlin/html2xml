@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>4</total>
+    <results>
+			<result>
+			<name>世博庆典广场</name>
+			<location>
+				<lat>31.194383</lat>
+				<lng>121.498273</lng>
+			</location>
+							<address>浦东世博园区A片区(近世博文化中心)</address>
+													<uid>5b15a5629b86024ff90cad84</uid>
+								</result>
+			<result>
+			<name>庆典广场</name>
+			<location>
+				<lat>31.194383</lat>
+				<lng>121.498164</lng>
+			</location>
+							<address>世博大道1368号世博源LM层</address>
+													<uid>f103180fa1411b8294031939</uid>
+								</result>
+			<result>
+			<name>猫屎咖啡(世博店)</name>
+			<location>
+				<lat>31.193696</lat>
+				<lng>121.497853</lng>
+			</location>
+							<address>浦东新区世博大道(近庆典广场)</address>
+													<uid>4a5835b46e81788ceae582d7</uid>
+								</result>
+			<result>
+			<name>心乐蝶舞精致上海美食餐厅</name>
+			<location>
+				<lat>31.194221</lat>
+				<lng>121.499041</lng>
+			</location>
+							<address>&quot;上海市浦东新区世博大道1200号梅赛德斯奔驰文化中心L601号(近庆典广场)&quot;</address>
+										<telephone>(021)20251080</telephone>
+										<uid>92a7d8ff881d5c6c343a71cf</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

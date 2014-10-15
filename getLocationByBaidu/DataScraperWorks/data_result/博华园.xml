@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>博华园</name>
+			<location>
+				<lat>31.189364</lat>
+				<lng>121.552685</lng>
+			</location>
+							<address>北蔡镇</address>
+													<uid>3590e005de5c01a8c1f1cf58</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

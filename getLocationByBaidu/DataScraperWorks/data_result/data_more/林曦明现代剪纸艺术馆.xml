@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>林曦明现代剪纸艺术馆</name>
+			<location>
+				<lat>31.186738</lat>
+				<lng>121.455669</lng>
+			</location>
+							<address>上海市徐汇区双峰路420号</address>
+													<uid>610852117a8b30dcc51b7509</uid>
+								</result>
+			<result>
+			<name>林曦明现代剪纸艺术馆</name>
+			<location>
+				<lat>31.186799</lat>
+				<lng>121.455639</lng>
+			</location>
+							<address>徐汇区双峰路420号</address>
+													<uid>779698bd2df698a575e5b6e1</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

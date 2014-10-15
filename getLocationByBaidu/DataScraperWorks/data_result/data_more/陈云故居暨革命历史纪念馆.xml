@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>3</total>
+    <results>
+			<result>
+			<name>陈云故居暨青浦革命历史纪念馆</name>
+			<location>
+				<lat>31.012774</lat>
+				<lng>121.05056</lng>
+			</location>
+							<address>上海市青浦区练塘镇朱枫公路3516号</address>
+										<telephone>(021)59257178</telephone>
+										<uid>bcaebff88058a155c8e33cbf</uid>
+								</result>
+			<result>
+			<name>陈云故居暨青浦革命历史纪念馆售票处</name>
+			<location>
+				<lat>31.012279</lat>
+				<lng>121.0508</lng>
+			</location>
+							<address>朱枫公路3516号陈云故居暨青浦革命历史纪念馆附近</address>
+													<uid>cd6d706d2cdf1b169d9d68cc</uid>
+								</result>
+			<result>
+			<name>陈云故居暨青浦革命历史纪念馆-停车场</name>
+			<location>
+				<lat>31.013439</lat>
+				<lng>121.051655</lng>
+			</location>
+							<address>上海市青浦区朱枫公路3501号</address>
+													<uid>4f7729e364dae5c740024569</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

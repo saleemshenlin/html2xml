@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>虎林园</name>
+			<location>
+				<lat>31.350396</lat>
+				<lng>121.461432</lng>
+			</location>
+							<address>虎林路</address>
+													<uid>3a3c63e75cbffb5e223bf209</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

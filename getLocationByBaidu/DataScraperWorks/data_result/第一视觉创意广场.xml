@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>1</total>
+    <results>
+			<result>
+			<name>第一视觉创意广场</name>
+			<location>
+				<lat>31.040323</lat>
+				<lng>121.204504</lng>
+			</location>
+							<address>三新北路900弄</address>
+										<telephone>(021)67810008</telephone>
+										<uid>b3aa435d871a430a157643f3</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

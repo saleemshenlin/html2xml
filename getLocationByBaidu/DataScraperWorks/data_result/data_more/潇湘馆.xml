@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>潇湘馆</name>
+			<location>
+				<lat>31.081118</lat>
+				<lng>120.915119</lng>
+			</location>
+							<address>上海市青浦区金商公路701号上海大观园内</address>
+										<telephone>(021)59262089</telephone>
+										<uid>d85c06fd5f3bd04178f796e2</uid>
+								</result>
+			<result>
+			<name>潇湘馆</name>
+			<location>
+				<lat>31.255017</lat>
+				<lng>121.555675</lng>
+			</location>
+							<address>浦东新区浦东大道2015号(近北洋泾路)</address>
+													<uid>108b1cea693b00b53586f46a</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>

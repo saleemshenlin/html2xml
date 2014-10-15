@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<PlaceSearchResponse> 
+  <status>0</status>
+  <message>ok</message>
+  	<total>2</total>
+    <results>
+			<result>
+			<name>天堂人间沐浴温泉</name>
+			<location>
+				<lat>31.023219</lat>
+				<lng>121.254876</lng>
+			</location>
+							<address>松江区方塔北路528号（方塔北路荣乐东路）</address>
+										<telephone>(021)67740000</telephone>
+										<uid>a4e4156f2dddd9676cc02c09</uid>
+								</result>
+			<result>
+			<name>天堂人间沐浴温泉</name>
+			<location>
+				<lat>31.024619</lat>
+				<lng>121.255047</lng>
+			</location>
+							<address>松江区方塔北路528号(方塔北路荣乐东路)</address>
+										<telephone>(021)67740000</telephone>
+										<uid>d6df91c16d6e376bf7b916e7</uid>
+								</result>
+	  </results>
+</PlaceSearchResponse>
