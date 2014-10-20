@@ -27,7 +27,8 @@ namespace getLocationByBaidu
         private static HttpWebResponse httpWebResponse;
         public static void Run()
         {
-            ReadXml("first_data_with_Location.xml");
+            ReadXml("data_with_location(xiu).xml");
+            ReadXml("data_without_location(xiu).xml");
             List<Scenic> withLocationList = new List<Scenic>();
             List<Scenic> withoutLocationList = new List<Scenic>();
             foreach(Scenic scenic in scenicList){
@@ -39,9 +40,11 @@ namespace getLocationByBaidu
                     Console.WriteLine("info: with " + scenic.scenicLat);
                 }
             }
-            saveXml("data_with_location.xml", withLocationList);
+            withLocationList.Sort();
+            withoutLocationList.Sort();
+            saveXml("data_with_location_final.xml", withLocationList);
             Console.WriteLine("info: data_with_location " + withLocationList.Count);
-            saveXml("data_without_location.xml", withoutLocationList);
+            saveXml("data_without_location_final.xml", withoutLocationList);
             Console.WriteLine("info: data_without_location " + withoutLocationList.Count);
         }
 
