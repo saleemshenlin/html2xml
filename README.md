@@ -3,6 +3,10 @@ html2xml
 
 旅游景点数据抓取【C#】 
 
+通过newtonsoft.json解析Json
+
+通过Winista.HtmlParser解析Html
+
 从以下网站抓取上海景点数据，并保存成xml的格式：
 
 携程	757	http://you.ctrip.com/sight/shanghai2.html \m
@@ -26,3 +30,5 @@ html2xml
 面包旅行	742	http://breadtrip.com/scenic/3/12/sight/
 
 抓取数据后，通过datavalidation文件内的程序进行整合，并且去重。
+
+
